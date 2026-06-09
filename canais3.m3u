@@ -1,29 +1,29 @@
 #EXTM3U url-tvg="https://www.open-epg.com/files/brazil1.xml,https://www.open-epg.com/files/brazil4.xml"
-#EXTINF:-1 tvg-id="Globo Nordeste HD.br" tvg-name="Globo Nordeste [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globo.png" group-title="Globo Nordeste",Globo Nordeste [1]
+#EXTINF:-1 tvg-id="Globo Nordeste HD.br" tvg-name="Globo Nordeste [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globo.png" group-title="GLOBO NORDESTE",Globo Nordeste [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514225.m3u8
-#EXTINF:-1 tvg-id="Globo Nordeste HD.br" tvg-name="Globo Nordeste [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globo.png" group-title="Globo Nordeste",Globo Nordeste [2]
+#EXTINF:-1 tvg-id="Globo Nordeste HD.br" tvg-name="Globo Nordeste [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globo.png" group-title="GLOBO NORDESTE",Globo Nordeste [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514224.m3u8
-#EXTINF:-1 tvg-id="Globo Nordeste HD.br" tvg-name="Globo Nordeste [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globo.png" group-title="Globo Nordeste",Globo Nordeste [3]
+#EXTINF:-1 tvg-id="Globo Nordeste HD.br" tvg-name="Globo Nordeste [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globo.png" group-title="GLOBO NORDESTE",Globo Nordeste [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514223.m3u8
-#EXTINF:-1 tvg-id="TV Verdes Mares.br" tvg-name="Globo TV Verdes Mares [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/verdes-mares.png" group-title="Globo Nordeste",Globo TV Verdes Mares [1]
+#EXTINF:-1 tvg-id="TV Verdes Mares.br" tvg-name="Globo TV Verdes Mares [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/verdes-mares.png" group-title="GLOBO NORDESTE",Globo TV Verdes Mares [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514195.m3u8
-#EXTINF:-1 tvg-id="TV Verdes Mares.br" tvg-name="Globo TV Verdes Mares [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/verdes-mares.png" group-title="Globo Nordeste",Globo TV Verdes Mares [2]
+#EXTINF:-1 tvg-id="TV Verdes Mares.br" tvg-name="Globo TV Verdes Mares [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/verdes-mares.png" group-title="GLOBO NORDESTE",Globo TV Verdes Mares [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514194.m3u8
-#EXTINF:-1 tvg-id="TV Verdes Mares.br" tvg-name="Globo TV Verdes Mares [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/verdes-mares.png" group-title="Globo Nordeste",Globo TV Verdes Mares [3]
+#EXTINF:-1 tvg-id="TV Verdes Mares.br" tvg-name="Globo TV Verdes Mares [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/verdes-mares.png" group-title="GLOBO NORDESTE",Globo TV Verdes Mares [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514193.m3u8
-#EXTINF:-1 tvg-id="Record.br" tvg-name="Record TV SP [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/record.png" group-title="Record Tv",Record TV SP [1]
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record TV SP [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/record.png" group-title="RECORD TV",Record TV SP [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27557091.m3u8
-#EXTINF:-1 tvg-id="Record.br" tvg-name="Record TV SP [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/record.png" group-title="Record Tv",Record TV SP [2]
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record TV SP [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/record.png" group-title="RECORD TV",Record TV SP [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27557093.m3u8
-#EXTINF:-1 tvg-id="Record.br" tvg-name="Record TV SP [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/record.png" group-title="Record Tv",Record TV SP [3]
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record TV SP [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/record.png" group-title="RECORD TV",Record TV SP [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27557099.m3u8
-#EXTINF:-1 tvg-id="Record.br" tvg-name="Record TV SP [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/record.png" group-title="Record Tv",Record TV SP [4]
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record TV SP [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/record.png" group-title="RECORD TV",Record TV SP [4]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27557103.m3u8
-#EXTINF:-1 tvg-id="TV Cidade.br" tvg-name="TV Cidade Fortaleza Ceará - Record TV [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-cidade.png" group-title="Record Tv",TV Cidade Fortaleza Ceará - Record TV [1]
+#EXTINF:-1 tvg-id="TV Cidade.br" tvg-name="TV Cidade Fortaleza Ceará - Record TV [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-cidade.png" group-title="RECORD TV",TV Cidade Fortaleza Ceará - Record TV [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27557092.m3u8
-#EXTINF:-1 tvg-id="TV Cidade.br" tvg-name="TV Cidade Fortaleza Ceará - Record TV [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-cidade.png" group-title="Record Tv",TV Cidade Fortaleza Ceará - Record TV [2]
+#EXTINF:-1 tvg-id="TV Cidade.br" tvg-name="TV Cidade Fortaleza Ceará - Record TV [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-cidade.png" group-title="RECORD TV",TV Cidade Fortaleza Ceará - Record TV [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27557100.m3u8
-#EXTINF:-1 tvg-id="TV Cidade.br" tvg-name="TV Cidade Fortaleza Ceará - Record TV [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-cidade.png" group-title="Record Tv",TV Cidade Fortaleza Ceará - Record TV [3]
+#EXTINF:-1 tvg-id="TV Cidade.br" tvg-name="TV Cidade Fortaleza Ceará - Record TV [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-cidade.png" group-title="RECORD TV",TV Cidade Fortaleza Ceará - Record TV [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27557104.m3u8
 #EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT SP [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/sbt.png" group-title="SBT",SBT SP [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27510722.m3u8
@@ -43,433 +43,433 @@ http://strming.cloud:80/live/jonyalbo/8162628Kk/27510714.m3u8
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27510713.m3u8
 #EXTINF:-1 tvg-id="plussbt-kids" tvg-name="Plussbt Kids" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/sbt-plus.png" group-title="SBT",Plussbt Kids
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27510712.m3u8
-#EXTINF:-1 tvg-id="Band Ceará.br" tvg-name="Band Ceará [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/band.png" group-title="Band",Band Ceará [1]
+#EXTINF:-1 tvg-id="Band Ceará.br" tvg-name="Band Ceará [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/band.png" group-title="BAND",Band Ceará [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27510793.m3u8
-#EXTINF:-1 tvg-id="Band Ceará.br" tvg-name="Band Ceará [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/band.png" group-title="Band",Band Ceará [2]
+#EXTINF:-1 tvg-id="Band Ceará.br" tvg-name="Band Ceará [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/band.png" group-title="BAND",Band Ceará [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27510792.m3u8
-#EXTINF:-1 tvg-id="Band Ceará.br" tvg-name="Band CE [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/band.png" group-title="Band",Band CE [1]
+#EXTINF:-1 tvg-id="Band Ceará.br" tvg-name="Band CE [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/band.png" group-title="BAND",Band CE [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27510791.m3u8
-#EXTINF:-1 tvg-id="Band Ceará.br" tvg-name="Band CE [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/band.png" group-title="Band",Band CE [2]
+#EXTINF:-1 tvg-id="Band Ceará.br" tvg-name="Band CE [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/band.png" group-title="BAND",Band CE [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27510790.m3u8
-#EXTINF:-1 tvg-id="Band Ceará.br" tvg-name="Band CE [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/band.png" group-title="Band",Band CE [3]
+#EXTINF:-1 tvg-id="Band Ceará.br" tvg-name="Band CE [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/band.png" group-title="BAND",Band CE [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27510789.m3u8
-#EXTINF:-1 tvg-id="Band.br" tvg-name="Band SP [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/band.png" group-title="Band",Band SP [1]
+#EXTINF:-1 tvg-id="Band.br" tvg-name="Band SP [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/band.png" group-title="BAND",Band SP [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27510774.m3u8
-#EXTINF:-1 tvg-id="Band.br" tvg-name="Band SP [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/band.png" group-title="Band",Band SP [2]
+#EXTINF:-1 tvg-id="Band.br" tvg-name="Band SP [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/band.png" group-title="BAND",Band SP [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27510773.m3u8
-#EXTINF:-1 tvg-id="Band.br" tvg-name="Band SP [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/band.png" group-title="Band",Band SP [3]
+#EXTINF:-1 tvg-id="Band.br" tvg-name="Band SP [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/band.png" group-title="BAND",Band SP [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27510772.m3u8
-#EXTINF:-1 tvg-id="Band.br" tvg-name="Band" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/band.png" group-title="Band",Band
+#EXTINF:-1 tvg-id="Band.br" tvg-name="Band" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/band.png" group-title="BAND",Band
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27510771.m3u8
-#EXTINF:-1 tvg-id="Agromais HD.br" tvg-name="Agromais [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/agromais.png" group-title="Canais Abertos",Agromais [1]
+#EXTINF:-1 tvg-id="Agromais HD.br" tvg-name="Agromais [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/agromais.png" group-title="CANAIS ABERTOS",Agromais [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514117.m3u8
-#EXTINF:-1 tvg-id="Agromais HD.br" tvg-name="Agromais [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/agromais.png" group-title="Canais Abertos",Agromais [2]
+#EXTINF:-1 tvg-id="Agromais HD.br" tvg-name="Agromais [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/agromais.png" group-title="CANAIS ABERTOS",Agromais [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514116.m3u8
-#EXTINF:-1 tvg-id="Agromais HD.br" tvg-name="Agromais [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/agromais.png" group-title="Canais Abertos",Agromais [3]
+#EXTINF:-1 tvg-id="Agromais HD.br" tvg-name="Agromais [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/agromais.png" group-title="CANAIS ABERTOS",Agromais [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514115.m3u8
-#EXTINF:-1 tvg-id="Canal Brasil HD.br" tvg-name="Canal Brasil [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/canal-brasil.png" group-title="Canais Abertos",Canal Brasil [1]
+#EXTINF:-1 tvg-id="Canal Brasil HD.br" tvg-name="Canal Brasil [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/canal-brasil.png" group-title="CANAIS ABERTOS",Canal Brasil [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514114.m3u8
-#EXTINF:-1 tvg-id="Canal Brasil HD.br" tvg-name="Canal Brasil [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/canal-brasil.png" group-title="Canais Abertos",Canal Brasil [2]
+#EXTINF:-1 tvg-id="Canal Brasil HD.br" tvg-name="Canal Brasil [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/canal-brasil.png" group-title="CANAIS ABERTOS",Canal Brasil [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514113.m3u8
-#EXTINF:-1 tvg-id="Canal Brasil HD.br" tvg-name="Canal Brasil [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/canal-brasil.png" group-title="Canais Abertos",Canal Brasil [3]
+#EXTINF:-1 tvg-id="Canal Brasil HD.br" tvg-name="Canal Brasil [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/canal-brasil.png" group-title="CANAIS ABERTOS",Canal Brasil [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514112.m3u8
-#EXTINF:-1 tvg-id="Canal do Boi.br" tvg-name="Canal do Boi [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/canal-boi.png" group-title="Canais Abertos",Canal do Boi [1]
+#EXTINF:-1 tvg-id="Canal do Boi.br" tvg-name="Canal do Boi [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/canal-boi.png" group-title="CANAIS ABERTOS",Canal do Boi [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514111.m3u8
-#EXTINF:-1 tvg-id="Canal do Boi.br" tvg-name="Canal do Boi [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/canal-boi.png" group-title="Canais Abertos",Canal do Boi [2]
+#EXTINF:-1 tvg-id="Canal do Boi.br" tvg-name="Canal do Boi [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/canal-boi.png" group-title="CANAIS ABERTOS",Canal do Boi [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514110.m3u8
-#EXTINF:-1 tvg-id="Canal do Boi.br" tvg-name="Canal do Boi [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/canal-boi.png" group-title="Canais Abertos",Canal do Boi [3]
+#EXTINF:-1 tvg-id="Canal do Boi.br" tvg-name="Canal do Boi [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/canal-boi.png" group-title="CANAIS ABERTOS",Canal do Boi [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514109.m3u8
-#EXTINF:-1 tvg-id="Canal Gov.br" tvg-name="Canal Gov [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/canal-gov.png" group-title="Canais Abertos",Canal Gov [1]
+#EXTINF:-1 tvg-id="Canal Gov.br" tvg-name="Canal Gov [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/canal-gov.png" group-title="CANAIS ABERTOS",Canal Gov [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514108.m3u8
-#EXTINF:-1 tvg-id="Canal Gov.br" tvg-name="Canal Gov [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/canal-gov.png" group-title="Canais Abertos",Canal Gov [2]
+#EXTINF:-1 tvg-id="Canal Gov.br" tvg-name="Canal Gov [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/canal-gov.png" group-title="CANAIS ABERTOS",Canal Gov [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514107.m3u8
-#EXTINF:-1 tvg-id="Canal Gov.br" tvg-name="Canal Gov [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/canal-gov.png" group-title="Canais Abertos",Canal Gov [3]
+#EXTINF:-1 tvg-id="Canal Gov.br" tvg-name="Canal Gov [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/canal-gov.png" group-title="CANAIS ABERTOS",Canal Gov [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514106.m3u8
-#EXTINF:-1 tvg-id="Canal Rural.br" tvg-name="Canal Rural [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/canal-rural.png" group-title="Canais Abertos",Canal Rural [1]
+#EXTINF:-1 tvg-id="Canal Rural.br" tvg-name="Canal Rural [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/canal-rural.png" group-title="CANAIS ABERTOS",Canal Rural [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514105.m3u8
-#EXTINF:-1 tvg-id="Canal Rural.br" tvg-name="Canal Rural [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/canal-rural.png" group-title="Canais Abertos",Canal Rural [2]
+#EXTINF:-1 tvg-id="Canal Rural.br" tvg-name="Canal Rural [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/canal-rural.png" group-title="CANAIS ABERTOS",Canal Rural [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514104.m3u8
-#EXTINF:-1 tvg-id="Canal Rural.br" tvg-name="Canal Rural [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/canal-rural.png" group-title="Canais Abertos",Canal Rural [3]
+#EXTINF:-1 tvg-id="Canal Rural.br" tvg-name="Canal Rural [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/canal-rural.png" group-title="CANAIS ABERTOS",Canal Rural [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514103.m3u8
-#EXTINF:-1 tvg-id="CNT.br" tvg-name="CNT [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/rede-cnt.png" group-title="Canais Abertos",CNT [1]
+#EXTINF:-1 tvg-id="CNT.br" tvg-name="CNT [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/rede-cnt.png" group-title="CANAIS ABERTOS",CNT [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514102.m3u8
-#EXTINF:-1 tvg-id="CNT.br" tvg-name="CNT [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/rede-cnt.png" group-title="Canais Abertos",CNT [2]
+#EXTINF:-1 tvg-id="CNT.br" tvg-name="CNT [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/rede-cnt.png" group-title="CANAIS ABERTOS",CNT [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514101.m3u8
-#EXTINF:-1 tvg-id="CNT.br" tvg-name="CNT [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/rede-cnt.png" group-title="Canais Abertos",CNT [3]
+#EXTINF:-1 tvg-id="CNT.br" tvg-name="CNT [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/rede-cnt.png" group-title="CANAIS ABERTOS",CNT [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514100.m3u8
-#EXTINF:-1 tvg-id="Futura.br" tvg-name="Futura [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/canal-futura.png" group-title="Canais Abertos",Futura [1]
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="Futura [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/canal-futura.png" group-title="CANAIS ABERTOS",Futura [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514099.m3u8
-#EXTINF:-1 tvg-id="Futura.br" tvg-name="Futura [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/canal-futura.png" group-title="Canais Abertos",Futura [2]
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="Futura [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/canal-futura.png" group-title="CANAIS ABERTOS",Futura [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514098.m3u8
-#EXTINF:-1 tvg-id="Futura.br" tvg-name="Futura [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/canal-futura.png" group-title="Canais Abertos",Futura [3]
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="Futura [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/canal-futura.png" group-title="CANAIS ABERTOS",Futura [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514097.m3u8
-#EXTINF:-1 tvg-id="Rede Brasil.br" tvg-name="Rede Brasil [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/rede-brasil.png" group-title="Canais Abertos",Rede Brasil [1]
+#EXTINF:-1 tvg-id="Rede Brasil.br" tvg-name="Rede Brasil [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/rede-brasil.png" group-title="CANAIS ABERTOS",Rede Brasil [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514090.m3u8
-#EXTINF:-1 tvg-id="Rede Brasil.br" tvg-name="Rede Brasil [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/rede-brasil.png" group-title="Canais Abertos",Rede Brasil [2]
+#EXTINF:-1 tvg-id="Rede Brasil.br" tvg-name="Rede Brasil [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/rede-brasil.png" group-title="CANAIS ABERTOS",Rede Brasil [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514089.m3u8
-#EXTINF:-1 tvg-id="Rede Brasil.br" tvg-name="Rede Brasil [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/rede-brasil.png" group-title="Canais Abertos",Rede Brasil [3]
+#EXTINF:-1 tvg-id="Rede Brasil.br" tvg-name="Rede Brasil [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/rede-brasil.png" group-title="CANAIS ABERTOS",Rede Brasil [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514088.m3u8
-#EXTINF:-1 tvg-id="RedeTV!.br" tvg-name="RedeTV! [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/redetv.png" group-title="Canais Abertos",RedeTV! [1]
+#EXTINF:-1 tvg-id="RedeTV!.br" tvg-name="RedeTV! [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/redetv.png" group-title="CANAIS ABERTOS",RedeTV! [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514087.m3u8
-#EXTINF:-1 tvg-id="RedeTV!.br" tvg-name="RedeTV! [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/redetv.png" group-title="Canais Abertos",RedeTV! [2]
+#EXTINF:-1 tvg-id="RedeTV!.br" tvg-name="RedeTV! [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/redetv.png" group-title="CANAIS ABERTOS",RedeTV! [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513368.m3u8
-#EXTINF:-1 tvg-id="RedeTV!.br" tvg-name="RedeTV! [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/redetv.png" group-title="Canais Abertos",RedeTV! [3]
+#EXTINF:-1 tvg-id="RedeTV!.br" tvg-name="RedeTV! [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/redetv.png" group-title="CANAIS ABERTOS",RedeTV! [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514086.m3u8
-#EXTINF:-1 tvg-id="RedeTV!.br" tvg-name="RedeTV! [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/redetv.png" group-title="Canais Abertos",RedeTV! [4]
+#EXTINF:-1 tvg-id="RedeTV!.br" tvg-name="RedeTV! [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/redetv.png" group-title="CANAIS ABERTOS",RedeTV! [4]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514085.m3u8
-#EXTINF:-1 tvg-id="TBC.br" tvg-name="TBC [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tbc.png" group-title="Canais Abertos",TBC [1]
+#EXTINF:-1 tvg-id="TBC.br" tvg-name="TBC [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tbc.png" group-title="CANAIS ABERTOS",TBC [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514081.m3u8
-#EXTINF:-1 tvg-id="TBC.br" tvg-name="TBC [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tbc.png" group-title="Canais Abertos",TBC [2]
+#EXTINF:-1 tvg-id="TBC.br" tvg-name="TBC [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tbc.png" group-title="CANAIS ABERTOS",TBC [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514080.m3u8
-#EXTINF:-1 tvg-id="TBC.br" tvg-name="TBC [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tbc.png" group-title="Canais Abertos",TBC [3]
+#EXTINF:-1 tvg-id="TBC.br" tvg-name="TBC [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tbc.png" group-title="CANAIS ABERTOS",TBC [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514079.m3u8
-#EXTINF:-1 tvg-id="Terra Viva.br" tvg-name="Terra Viva [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/terraviva.png" group-title="Canais Abertos",Terra Viva [1]
+#EXTINF:-1 tvg-id="Terra Viva.br" tvg-name="Terra Viva [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/terraviva.png" group-title="CANAIS ABERTOS",Terra Viva [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514078.m3u8
-#EXTINF:-1 tvg-id="Terra Viva.br" tvg-name="Terra Viva [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/terraviva.png" group-title="Canais Abertos",Terra Viva [2]
+#EXTINF:-1 tvg-id="Terra Viva.br" tvg-name="Terra Viva [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/terraviva.png" group-title="CANAIS ABERTOS",Terra Viva [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514077.m3u8
-#EXTINF:-1 tvg-id="Terra Viva.br" tvg-name="Terra Viva [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/terraviva.png" group-title="Canais Abertos",Terra Viva [3]
+#EXTINF:-1 tvg-id="Terra Viva.br" tvg-name="Terra Viva [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/terraviva.png" group-title="CANAIS ABERTOS",Terra Viva [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514076.m3u8
-#EXTINF:-1 tvg-id="tv-acritica" tvg-name="TV Acrítica [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-acritica.png" group-title="Canais Abertos",TV Acrítica [1]
+#EXTINF:-1 tvg-id="tv-acritica" tvg-name="TV Acrítica [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-acritica.png" group-title="CANAIS ABERTOS",TV Acrítica [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514075.m3u8
-#EXTINF:-1 tvg-id="tv-acritica" tvg-name="TV Acrítica [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-acritica.png" group-title="Canais Abertos",TV Acrítica [2]
+#EXTINF:-1 tvg-id="tv-acritica" tvg-name="TV Acrítica [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-acritica.png" group-title="CANAIS ABERTOS",TV Acrítica [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514074.m3u8
-#EXTINF:-1 tvg-id="tv-acritica" tvg-name="TV Acrítica [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-acritica.png" group-title="Canais Abertos",TV Acrítica [3]
+#EXTINF:-1 tvg-id="tv-acritica" tvg-name="TV Acrítica [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-acritica.png" group-title="CANAIS ABERTOS",TV Acrítica [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514073.m3u8
-#EXTINF:-1 tvg-id="TV Brasil.br" tvg-name="TV Brasil [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-brasil.png" group-title="Canais Abertos",TV Brasil [1]
+#EXTINF:-1 tvg-id="TV Brasil.br" tvg-name="TV Brasil [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-brasil.png" group-title="CANAIS ABERTOS",TV Brasil [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514072.m3u8
-#EXTINF:-1 tvg-id="TV Brasil.br" tvg-name="TV Brasil [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-brasil.png" group-title="Canais Abertos",TV Brasil [2]
+#EXTINF:-1 tvg-id="TV Brasil.br" tvg-name="TV Brasil [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-brasil.png" group-title="CANAIS ABERTOS",TV Brasil [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513339.m3u8
-#EXTINF:-1 tvg-id="TV Brasil.br" tvg-name="TV Brasil [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-brasil.png" group-title="Canais Abertos",TV Brasil [3]
+#EXTINF:-1 tvg-id="TV Brasil.br" tvg-name="TV Brasil [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-brasil.png" group-title="CANAIS ABERTOS",TV Brasil [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514071.m3u8
-#EXTINF:-1 tvg-id="TV Brasil.br" tvg-name="TV Brasil [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-brasil.png" group-title="Canais Abertos",TV Brasil [4]
+#EXTINF:-1 tvg-id="TV Brasil.br" tvg-name="TV Brasil [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-brasil.png" group-title="CANAIS ABERTOS",TV Brasil [4]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514070.m3u8
-#EXTINF:-1 tvg-id="TV CÂMARA.br" tvg-name="TV Câmara [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-camara.png" group-title="Canais Abertos",TV Câmara [1]
+#EXTINF:-1 tvg-id="TV CÂMARA.br" tvg-name="TV Câmara [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-camara.png" group-title="CANAIS ABERTOS",TV Câmara [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514069.m3u8
-#EXTINF:-1 tvg-id="TV CÂMARA.br" tvg-name="TV Câmara [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-camara.png" group-title="Canais Abertos",TV Câmara [2]
+#EXTINF:-1 tvg-id="TV CÂMARA.br" tvg-name="TV Câmara [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-camara.png" group-title="CANAIS ABERTOS",TV Câmara [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514068.m3u8
-#EXTINF:-1 tvg-id="TV CÂMARA.br" tvg-name="TV Câmara [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-camara.png" group-title="Canais Abertos",TV Câmara [3]
+#EXTINF:-1 tvg-id="TV CÂMARA.br" tvg-name="TV Câmara [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-camara.png" group-title="CANAIS ABERTOS",TV Câmara [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514067.m3u8
-#EXTINF:-1 tvg-id="Cultura HD.br" tvg-name="TV Cultura [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-cultura.png" group-title="Canais Abertos",TV Cultura [1]
+#EXTINF:-1 tvg-id="Cultura HD.br" tvg-name="TV Cultura [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-cultura.png" group-title="CANAIS ABERTOS",TV Cultura [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514066.m3u8
-#EXTINF:-1 tvg-id="Cultura HD.br" tvg-name="TV Cultura [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-cultura.png" group-title="Canais Abertos",TV Cultura [2]
+#EXTINF:-1 tvg-id="Cultura HD.br" tvg-name="TV Cultura [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-cultura.png" group-title="CANAIS ABERTOS",TV Cultura [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514065.m3u8
-#EXTINF:-1 tvg-id="Cultura HD.br" tvg-name="TV Cultura [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-cultura.png" group-title="Canais Abertos",TV Cultura [3]
+#EXTINF:-1 tvg-id="Cultura HD.br" tvg-name="TV Cultura [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-cultura.png" group-title="CANAIS ABERTOS",TV Cultura [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514064.m3u8
-#EXTINF:-1 tvg-id="TV Diário.br" tvg-name="TV Diário [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-diario.png" group-title="Canais Abertos",TV Diário [1]
+#EXTINF:-1 tvg-id="TV Diário.br" tvg-name="TV Diário [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-diario.png" group-title="CANAIS ABERTOS",TV Diário [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514063.m3u8
-#EXTINF:-1 tvg-id="TV Diário.br" tvg-name="TV Diário [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-diario.png" group-title="Canais Abertos",TV Diário [2]
+#EXTINF:-1 tvg-id="TV Diário.br" tvg-name="TV Diário [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-diario.png" group-title="CANAIS ABERTOS",TV Diário [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514062.m3u8
-#EXTINF:-1 tvg-id="TV Diário.br" tvg-name="TV Diário [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-diario.png" group-title="Canais Abertos",TV Diário [3]
+#EXTINF:-1 tvg-id="TV Diário.br" tvg-name="TV Diário [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-diario.png" group-title="CANAIS ABERTOS",TV Diário [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514061.m3u8
-#EXTINF:-1 tvg-id="TV Gazeta.br" tvg-name="TV Gazeta SP [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-gazeta.png" group-title="Canais Abertos",TV Gazeta SP [1]
+#EXTINF:-1 tvg-id="TV Gazeta.br" tvg-name="TV Gazeta SP [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-gazeta.png" group-title="CANAIS ABERTOS",TV Gazeta SP [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514060.m3u8
-#EXTINF:-1 tvg-id="TV Gazeta.br" tvg-name="TV Gazeta SP [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-gazeta.png" group-title="Canais Abertos",TV Gazeta SP [2]
+#EXTINF:-1 tvg-id="TV Gazeta.br" tvg-name="TV Gazeta SP [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-gazeta.png" group-title="CANAIS ABERTOS",TV Gazeta SP [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514059.m3u8
-#EXTINF:-1 tvg-id="TV Gazeta.br" tvg-name="TV Gazeta SP [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-gazeta.png" group-title="Canais Abertos",TV Gazeta SP [3]
+#EXTINF:-1 tvg-id="TV Gazeta.br" tvg-name="TV Gazeta SP [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-gazeta.png" group-title="CANAIS ABERTOS",TV Gazeta SP [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514058.m3u8
-#EXTINF:-1 tvg-id="TV JUSTIÇA.br" tvg-name="TV Justiça [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-justica.png" group-title="Canais Abertos",TV Justiça [1]
+#EXTINF:-1 tvg-id="TV JUSTIÇA.br" tvg-name="TV Justiça [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-justica.png" group-title="CANAIS ABERTOS",TV Justiça [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514057.m3u8
-#EXTINF:-1 tvg-id="TV JUSTIÇA.br" tvg-name="TV Justiça [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-justica.png" group-title="Canais Abertos",TV Justiça [2]
+#EXTINF:-1 tvg-id="TV JUSTIÇA.br" tvg-name="TV Justiça [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-justica.png" group-title="CANAIS ABERTOS",TV Justiça [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514056.m3u8
-#EXTINF:-1 tvg-id="TV JUSTIÇA.br" tvg-name="TV Justiça [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-justica.png" group-title="Canais Abertos",TV Justiça [3]
+#EXTINF:-1 tvg-id="TV JUSTIÇA.br" tvg-name="TV Justiça [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-justica.png" group-title="CANAIS ABERTOS",TV Justiça [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514055.m3u8
-#EXTINF:-1 tvg-id="RedeTV! Pampa.br" tvg-name="TV Pampa RS [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-pampa.png" group-title="Canais Abertos",TV Pampa RS [1]
+#EXTINF:-1 tvg-id="RedeTV! Pampa.br" tvg-name="TV Pampa RS [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-pampa.png" group-title="CANAIS ABERTOS",TV Pampa RS [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514054.m3u8
-#EXTINF:-1 tvg-id="RedeTV! Pampa.br" tvg-name="TV Pampa RS [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-pampa.png" group-title="Canais Abertos",TV Pampa RS [2]
+#EXTINF:-1 tvg-id="RedeTV! Pampa.br" tvg-name="TV Pampa RS [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-pampa.png" group-title="CANAIS ABERTOS",TV Pampa RS [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514053.m3u8
-#EXTINF:-1 tvg-id="RedeTV! Pampa.br" tvg-name="TV Pampa RS [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-pampa.png" group-title="Canais Abertos",TV Pampa RS [3]
+#EXTINF:-1 tvg-id="RedeTV! Pampa.br" tvg-name="TV Pampa RS [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-pampa.png" group-title="CANAIS ABERTOS",TV Pampa RS [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514052.m3u8
-#EXTINF:-1 tvg-id="TV SENADO.br" tvg-name="TV Senado [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-senado.png" group-title="Canais Abertos",TV Senado [1]
+#EXTINF:-1 tvg-id="TV SENADO.br" tvg-name="TV Senado [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-senado.png" group-title="CANAIS ABERTOS",TV Senado [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514051.m3u8
-#EXTINF:-1 tvg-id="TV SENADO.br" tvg-name="TV Senado [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-senado.png" group-title="Canais Abertos",TV Senado [2]
+#EXTINF:-1 tvg-id="TV SENADO.br" tvg-name="TV Senado [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-senado.png" group-title="CANAIS ABERTOS",TV Senado [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514050.m3u8
-#EXTINF:-1 tvg-id="TV SENADO.br" tvg-name="TV Senado [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-senado.png" group-title="Canais Abertos",TV Senado [3]
+#EXTINF:-1 tvg-id="TV SENADO.br" tvg-name="TV Senado [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-senado.png" group-title="CANAIS ABERTOS",TV Senado [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514049.m3u8
-#EXTINF:-1 tvg-id="TVE Bahia.br" tvg-name="TVE Bahia [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tve.png" group-title="Canais Abertos",TVE Bahia [1]
+#EXTINF:-1 tvg-id="TVE Bahia.br" tvg-name="TVE Bahia [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tve.png" group-title="CANAIS ABERTOS",TVE Bahia [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532179.m3u8
-#EXTINF:-1 tvg-id="TVE Bahia.br" tvg-name="TVE Bahia [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tve.png" group-title="Canais Abertos",TVE Bahia [2]
+#EXTINF:-1 tvg-id="TVE Bahia.br" tvg-name="TVE Bahia [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tve.png" group-title="CANAIS ABERTOS",TVE Bahia [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27560388.m3u8
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/band-news.png" group-title="Notícias",Band News [1]
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/band-news.png" group-title="NOTÍCIAS",Band News [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514696.m3u8
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/band-news.png" group-title="Notícias",Band News [2]
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/band-news.png" group-title="NOTÍCIAS",Band News [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532299.m3u8
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/band-news.png" group-title="Notícias",Band News [3]
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/band-news.png" group-title="NOTÍCIAS",Band News [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514695.m3u8
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/band-news.png" group-title="Notícias",Band News [4]
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/band-news.png" group-title="NOTÍCIAS",Band News [4]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532370.m3u8
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/band-news.png" group-title="Notícias",Band News [5]
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/band-news.png" group-title="NOTÍCIAS",Band News [5]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514694.m3u8
-#EXTINF:-1 tvg-id="BBC News.br" tvg-name="BBC NEWS [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/bbc-news.png" group-title="Notícias",BBC NEWS [1]
+#EXTINF:-1 tvg-id="BBC News.br" tvg-name="BBC NEWS [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/bbc-news.png" group-title="NOTÍCIAS",BBC NEWS [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27519118.m3u8
-#EXTINF:-1 tvg-id="BBC News.br" tvg-name="BBC NEWS [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/bbc-news.png" group-title="Notícias",BBC NEWS [2]
+#EXTINF:-1 tvg-id="BBC News.br" tvg-name="BBC NEWS [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/bbc-news.png" group-title="NOTÍCIAS",BBC NEWS [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27519117.m3u8
-#EXTINF:-1 tvg-id="CNN Brasil.br" tvg-name="CNN Brasil [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-brasil.png" group-title="Notícias",CNN Brasil [1]
+#EXTINF:-1 tvg-id="CNN Brasil.br" tvg-name="CNN Brasil [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-brasil.png" group-title="NOTÍCIAS",CNN Brasil [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514693.m3u8
-#EXTINF:-1 tvg-id="CNN Brasil.br" tvg-name="CNN Brasil [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-brasil.png" group-title="Notícias",CNN Brasil [2]
+#EXTINF:-1 tvg-id="CNN Brasil.br" tvg-name="CNN Brasil [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-brasil.png" group-title="NOTÍCIAS",CNN Brasil [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532315.m3u8
-#EXTINF:-1 tvg-id="CNN Brasil.br" tvg-name="CNN Brasil [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-brasil.png" group-title="Notícias",CNN Brasil [3]
+#EXTINF:-1 tvg-id="CNN Brasil.br" tvg-name="CNN Brasil [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-brasil.png" group-title="NOTÍCIAS",CNN Brasil [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514692.m3u8
-#EXTINF:-1 tvg-id="CNN Brasil.br" tvg-name="CNN Brasil [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-brasil.png" group-title="Notícias",CNN Brasil [4]
+#EXTINF:-1 tvg-id="CNN Brasil.br" tvg-name="CNN Brasil [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-brasil.png" group-title="NOTÍCIAS",CNN Brasil [4]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532386.m3u8
-#EXTINF:-1 tvg-id="CNN Brasil.br" tvg-name="CNN Brasil [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-brasil.png" group-title="Notícias",CNN Brasil [5]
+#EXTINF:-1 tvg-id="CNN Brasil.br" tvg-name="CNN Brasil [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-brasil.png" group-title="NOTÍCIAS",CNN Brasil [5]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514691.m3u8
-#EXTINF:-1 tvg-id="CNN Money.br" tvg-name="CNN Brasil Money [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-money.png" group-title="Notícias",CNN Brasil Money [1]
+#EXTINF:-1 tvg-id="CNN Money.br" tvg-name="CNN Brasil Money [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-money.png" group-title="NOTÍCIAS",CNN Brasil Money [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514690.m3u8
-#EXTINF:-1 tvg-id="CNN Money.br" tvg-name="CNN Brasil Money [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-money.png" group-title="Notícias",CNN Brasil Money [2]
+#EXTINF:-1 tvg-id="CNN Money.br" tvg-name="CNN Brasil Money [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-money.png" group-title="NOTÍCIAS",CNN Brasil Money [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532106.m3u8
-#EXTINF:-1 tvg-id="CNN Money.br" tvg-name="CNN Brasil Money [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-money.png" group-title="Notícias",CNN Brasil Money [3]
+#EXTINF:-1 tvg-id="CNN Money.br" tvg-name="CNN Brasil Money [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-money.png" group-title="NOTÍCIAS",CNN Brasil Money [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514689.m3u8
-#EXTINF:-1 tvg-id="CNN Money.br" tvg-name="CNN Brasil Money [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-money.png" group-title="Notícias",CNN Brasil Money [4]
+#EXTINF:-1 tvg-id="CNN Money.br" tvg-name="CNN Brasil Money [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-money.png" group-title="NOTÍCIAS",CNN Brasil Money [4]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532107.m3u8
-#EXTINF:-1 tvg-id="CNN Money.br" tvg-name="CNN Brasil Money [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-money.png" group-title="Notícias",CNN Brasil Money [5]
+#EXTINF:-1 tvg-id="CNN Money.br" tvg-name="CNN Brasil Money [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-money.png" group-title="NOTÍCIAS",CNN Brasil Money [5]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514688.m3u8
-#EXTINF:-1 tvg-id="CNN en Español HD.br" tvg-name="CNN Espanhol" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-spanish.png" group-title="Notícias",CNN Espanhol
+#EXTINF:-1 tvg-id="CNN en Español HD.br" tvg-name="CNN Espanhol" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-spanish.png" group-title="NOTÍCIAS",CNN Espanhol
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514687.m3u8
-#EXTINF:-1 tvg-id="CNN International HD.br" tvg-name="CNN Internacional" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-internacional.png" group-title="Notícias",CNN Internacional
+#EXTINF:-1 tvg-id="CNN International HD.br" tvg-name="CNN Internacional" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-internacional.png" group-title="NOTÍCIAS",CNN Internacional
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514686.m3u8
-#EXTINF:-1 tvg-id="Globo News.br" tvg-name="GloboNews [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globonews.png" group-title="Notícias",GloboNews [1]
+#EXTINF:-1 tvg-id="Globo News.br" tvg-name="GloboNews [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globonews.png" group-title="NOTÍCIAS",GloboNews [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514685.m3u8
-#EXTINF:-1 tvg-id="Globo News.br" tvg-name="GloboNews [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globonews.png" group-title="Notícias",GloboNews [2]
+#EXTINF:-1 tvg-id="Globo News.br" tvg-name="GloboNews [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globonews.png" group-title="NOTÍCIAS",GloboNews [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532345.m3u8
-#EXTINF:-1 tvg-id="Globo News.br" tvg-name="GloboNews [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globonews.png" group-title="Notícias",GloboNews [3]
+#EXTINF:-1 tvg-id="Globo News.br" tvg-name="GloboNews [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globonews.png" group-title="NOTÍCIAS",GloboNews [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514684.m3u8
-#EXTINF:-1 tvg-id="Globo News.br" tvg-name="GloboNews [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globonews.png" group-title="Notícias",GloboNews [4]
+#EXTINF:-1 tvg-id="Globo News.br" tvg-name="GloboNews [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globonews.png" group-title="NOTÍCIAS",GloboNews [4]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532417.m3u8
-#EXTINF:-1 tvg-id="Globo News.br" tvg-name="GloboNews [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globonews.png" group-title="Notícias",GloboNews [5]
+#EXTINF:-1 tvg-id="Globo News.br" tvg-name="GloboNews [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globonews.png" group-title="NOTÍCIAS",GloboNews [5]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514683.m3u8
-#EXTINF:-1 tvg-id="Jovem Pan News.br" tvg-name="Jovem Pan News [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/jovempan-news.png" group-title="Notícias",Jovem Pan News [1]
+#EXTINF:-1 tvg-id="Jovem Pan News.br" tvg-name="Jovem Pan News [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/jovempan-news.png" group-title="NOTÍCIAS",Jovem Pan News [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514682.m3u8
-#EXTINF:-1 tvg-id="Jovem Pan News.br" tvg-name="Jovem Pan News [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/jovempan-news.png" group-title="Notícias",Jovem Pan News [2]
+#EXTINF:-1 tvg-id="Jovem Pan News.br" tvg-name="Jovem Pan News [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/jovempan-news.png" group-title="NOTÍCIAS",Jovem Pan News [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513401.m3u8
-#EXTINF:-1 tvg-id="Jovem Pan News.br" tvg-name="Jovem Pan News [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/jovempan-news.png" group-title="Notícias",Jovem Pan News [3]
+#EXTINF:-1 tvg-id="Jovem Pan News.br" tvg-name="Jovem Pan News [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/jovempan-news.png" group-title="NOTÍCIAS",Jovem Pan News [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514681.m3u8
-#EXTINF:-1 tvg-id="Jovem Pan News.br" tvg-name="Jovem Pan News [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/jovempan-news.png" group-title="Notícias",Jovem Pan News [4]
+#EXTINF:-1 tvg-id="Jovem Pan News.br" tvg-name="Jovem Pan News [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/jovempan-news.png" group-title="NOTÍCIAS",Jovem Pan News [4]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514680.m3u8
-#EXTINF:-1 tvg-id="Record News.br" tvg-name="Record News [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/record-news.png" group-title="Notícias",Record News [1]
+#EXTINF:-1 tvg-id="Record News.br" tvg-name="Record News [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/record-news.png" group-title="NOTÍCIAS",Record News [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514679.m3u8
-#EXTINF:-1 tvg-id="Record News.br" tvg-name="Record News [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/record-news.png" group-title="Notícias",Record News [2]
+#EXTINF:-1 tvg-id="Record News.br" tvg-name="Record News [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/record-news.png" group-title="NOTÍCIAS",Record News [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513371.m3u8
-#EXTINF:-1 tvg-id="Record News.br" tvg-name="Record News [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/record-news.png" group-title="Notícias",Record News [3]
+#EXTINF:-1 tvg-id="Record News.br" tvg-name="Record News [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/record-news.png" group-title="NOTÍCIAS",Record News [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514678.m3u8
-#EXTINF:-1 tvg-id="Record News.br" tvg-name="Record News [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/record-news.png" group-title="Notícias",Record News [4]
+#EXTINF:-1 tvg-id="Record News.br" tvg-name="Record News [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/record-news.png" group-title="NOTÍCIAS",Record News [4]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514677.m3u8
-#EXTINF:-1 tvg-id="SBT News.br" tvg-name="SBT NEWS" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/sbt-news.png" group-title="Notícias",SBT NEWS
+#EXTINF:-1 tvg-id="SBT News.br" tvg-name="SBT NEWS" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/sbt-news.png" group-title="NOTÍCIAS",SBT NEWS
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27531941.m3u8
-#EXTINF:-1 tvg-id="TIMES EXCLUSIVO CNBC.br" tvg-name="Times Brasil [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/times-brasil.png" group-title="Notícias",Times Brasil [1]
+#EXTINF:-1 tvg-id="TIMES EXCLUSIVO CNBC.br" tvg-name="Times Brasil [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/times-brasil.png" group-title="NOTÍCIAS",Times Brasil [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514676.m3u8
-#EXTINF:-1 tvg-id="TIMES EXCLUSIVO CNBC.br" tvg-name="Times Brasil [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/times-brasil.png" group-title="Notícias",Times Brasil [2]
+#EXTINF:-1 tvg-id="TIMES EXCLUSIVO CNBC.br" tvg-name="Times Brasil [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/times-brasil.png" group-title="NOTÍCIAS",Times Brasil [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514675.m3u8
-#EXTINF:-1 tvg-id="E!.br" tvg-name="E! [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/e.png" group-title="Variedades",E! [1]
+#EXTINF:-1 tvg-id="E!.br" tvg-name="E! [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/e.png" group-title="VARIEDADES",E! [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513648.m3u8
-#EXTINF:-1 tvg-id="E!.br" tvg-name="E! [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/e.png" group-title="Variedades",E! [2]
+#EXTINF:-1 tvg-id="E!.br" tvg-name="E! [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/e.png" group-title="VARIEDADES",E! [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513322.m3u8
-#EXTINF:-1 tvg-id="E!.br" tvg-name="E! [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/e.png" group-title="Variedades",E! [3]
+#EXTINF:-1 tvg-id="E!.br" tvg-name="E! [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/e.png" group-title="VARIEDADES",E! [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532329.m3u8
-#EXTINF:-1 tvg-id="E!.br" tvg-name="E! [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/e.png" group-title="Variedades",E! [4]
+#EXTINF:-1 tvg-id="E!.br" tvg-name="E! [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/e.png" group-title="VARIEDADES",E! [4]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513647.m3u8
-#EXTINF:-1 tvg-id="E!.br" tvg-name="E! [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/e.png" group-title="Variedades",E! [5]
+#EXTINF:-1 tvg-id="E!.br" tvg-name="E! [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/e.png" group-title="VARIEDADES",E! [5]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513321.m3u8
-#EXTINF:-1 tvg-id="E!.br" tvg-name="E! [6]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/e.png" group-title="Variedades",E! [6]
+#EXTINF:-1 tvg-id="E!.br" tvg-name="E! [6]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/e.png" group-title="VARIEDADES",E! [6]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532400.m3u8
-#EXTINF:-1 tvg-id="E!.br" tvg-name="E! [7]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/e.png" group-title="Variedades",E! [7]
+#EXTINF:-1 tvg-id="E!.br" tvg-name="E! [7]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/e.png" group-title="VARIEDADES",E! [7]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513646.m3u8
-#EXTINF:-1 tvg-id="E!.br" tvg-name="E! [8]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/e.png" group-title="Variedades",E! [8]
+#EXTINF:-1 tvg-id="E!.br" tvg-name="E! [8]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/e.png" group-title="VARIEDADES",E! [8]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513259.m3u8
-#EXTINF:-1 tvg-id="GNT.br" tvg-name="GNT [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/gnt.png" group-title="Variedades",GNT [1]
+#EXTINF:-1 tvg-id="GNT.br" tvg-name="GNT [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/gnt.png" group-title="VARIEDADES",GNT [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513630.m3u8
-#EXTINF:-1 tvg-id="GNT.br" tvg-name="GNT [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/gnt.png" group-title="Variedades",GNT [2]
+#EXTINF:-1 tvg-id="GNT.br" tvg-name="GNT [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/gnt.png" group-title="VARIEDADES",GNT [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532350.m3u8
-#EXTINF:-1 tvg-id="GNT.br" tvg-name="GNT [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/gnt.png" group-title="Variedades",GNT [3]
+#EXTINF:-1 tvg-id="GNT.br" tvg-name="GNT [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/gnt.png" group-title="VARIEDADES",GNT [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513629.m3u8
-#EXTINF:-1 tvg-id="GNT.br" tvg-name="GNT [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/gnt.png" group-title="Variedades",GNT [4]
+#EXTINF:-1 tvg-id="GNT.br" tvg-name="GNT [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/gnt.png" group-title="VARIEDADES",GNT [4]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532422.m3u8
-#EXTINF:-1 tvg-id="GNT.br" tvg-name="GNT [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/gnt.png" group-title="Variedades",GNT [5]
+#EXTINF:-1 tvg-id="GNT.br" tvg-name="GNT [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/gnt.png" group-title="VARIEDADES",GNT [5]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513628.m3u8
-#EXTINF:-1 tvg-id="GNT.br" tvg-name="GNT [6]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/gnt.png" group-title="Variedades",GNT [6]
+#EXTINF:-1 tvg-id="GNT.br" tvg-name="GNT [6]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/gnt.png" group-title="VARIEDADES",GNT [6]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513258.m3u8
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/multshow.png" group-title="Variedades",Multishow [1]
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/multshow.png" group-title="VARIEDADES",Multishow [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513615.m3u8
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/multshow.png" group-title="Variedades",Multishow [2]
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/multshow.png" group-title="VARIEDADES",Multishow [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513392.m3u8
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/multshow.png" group-title="Variedades",Multishow [3]
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/multshow.png" group-title="VARIEDADES",Multishow [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513614.m3u8
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/multshow.png" group-title="Variedades",Multishow [4]
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/multshow.png" group-title="VARIEDADES",Multishow [4]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513613.m3u8
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/multshow.png" group-title="Variedades",Multishow [5]
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/multshow.png" group-title="VARIEDADES",Multishow [5]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513249.m3u8
-#EXTINF:-1 tvg-id="Adult Swim.br" tvg-name="Adult Swim [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/adult-swim.png" group-title="Variedades",Adult Swim [1]
+#EXTINF:-1 tvg-id="Adult Swim.br" tvg-name="Adult Swim [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/adult-swim.png" group-title="VARIEDADES",Adult Swim [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513660.m3u8
-#EXTINF:-1 tvg-id="Adult Swim.br" tvg-name="Adult Swim [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/adult-swim.png" group-title="Variedades",Adult Swim [2]
+#EXTINF:-1 tvg-id="Adult Swim.br" tvg-name="Adult Swim [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/adult-swim.png" group-title="VARIEDADES",Adult Swim [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532162.m3u8
-#EXTINF:-1 tvg-id="Adult Swim.br" tvg-name="Adult Swim [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/adult-swim.png" group-title="Variedades",Adult Swim [3]
+#EXTINF:-1 tvg-id="Adult Swim.br" tvg-name="Adult Swim [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/adult-swim.png" group-title="VARIEDADES",Adult Swim [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513659.m3u8
-#EXTINF:-1 tvg-id="Adult Swim.br" tvg-name="Adult Swim [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/adult-swim.png" group-title="Variedades",Adult Swim [4]
+#EXTINF:-1 tvg-id="Adult Swim.br" tvg-name="Adult Swim [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/adult-swim.png" group-title="VARIEDADES",Adult Swim [4]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532161.m3u8
-#EXTINF:-1 tvg-id="Adult Swim.br" tvg-name="Adult Swim [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/adult-swim.png" group-title="Variedades",Adult Swim [5]
+#EXTINF:-1 tvg-id="Adult Swim.br" tvg-name="Adult Swim [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/adult-swim.png" group-title="VARIEDADES",Adult Swim [5]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513658.m3u8
-#EXTINF:-1 tvg-id="Curta!.br" tvg-name="Curta! [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/curta.png" group-title="Variedades",Curta! [1]
+#EXTINF:-1 tvg-id="Curta!.br" tvg-name="Curta! [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/curta.png" group-title="VARIEDADES",Curta! [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513654.m3u8
-#EXTINF:-1 tvg-id="Curta!.br" tvg-name="Curta! [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/curta.png" group-title="Variedades",Curta! [2]
+#EXTINF:-1 tvg-id="Curta!.br" tvg-name="Curta! [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/curta.png" group-title="VARIEDADES",Curta! [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532319.m3u8
-#EXTINF:-1 tvg-id="Curta!.br" tvg-name="Curta! [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/curta.png" group-title="Variedades",Curta! [3]
+#EXTINF:-1 tvg-id="Curta!.br" tvg-name="Curta! [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/curta.png" group-title="VARIEDADES",Curta! [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513653.m3u8
-#EXTINF:-1 tvg-id="Curta!.br" tvg-name="Curta! [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/curta.png" group-title="Variedades",Curta! [4]
+#EXTINF:-1 tvg-id="Curta!.br" tvg-name="Curta! [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/curta.png" group-title="VARIEDADES",Curta! [4]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532390.m3u8
-#EXTINF:-1 tvg-id="Curta!.br" tvg-name="Curta! [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/curta.png" group-title="Variedades",Curta! [5]
+#EXTINF:-1 tvg-id="Curta!.br" tvg-name="Curta! [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/curta.png" group-title="VARIEDADES",Curta! [5]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513652.m3u8
-#EXTINF:-1 tvg-id="Dog TV.br" tvg-name="DOG TV [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/dog-tv.png" group-title="Variedades",DOG TV [1]
+#EXTINF:-1 tvg-id="Dog TV.br" tvg-name="DOG TV [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/dog-tv.png" group-title="VARIEDADES",DOG TV [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513651.m3u8
-#EXTINF:-1 tvg-id="Dog TV.br" tvg-name="DOG TV [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/dog-tv.png" group-title="Variedades",DOG TV [2]
+#EXTINF:-1 tvg-id="Dog TV.br" tvg-name="DOG TV [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/dog-tv.png" group-title="VARIEDADES",DOG TV [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532328.m3u8
-#EXTINF:-1 tvg-id="Dog TV.br" tvg-name="DOG TV [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/dog-tv.png" group-title="Variedades",DOG TV [3]
+#EXTINF:-1 tvg-id="Dog TV.br" tvg-name="DOG TV [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/dog-tv.png" group-title="VARIEDADES",DOG TV [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513650.m3u8
-#EXTINF:-1 tvg-id="Dog TV.br" tvg-name="DOG TV [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/dog-tv.png" group-title="Variedades",DOG TV [4]
+#EXTINF:-1 tvg-id="Dog TV.br" tvg-name="DOG TV [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/dog-tv.png" group-title="VARIEDADES",DOG TV [4]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532399.m3u8
-#EXTINF:-1 tvg-id="Dog TV.br" tvg-name="DOG TV [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/dog-tv.png" group-title="Variedades",DOG TV [5]
+#EXTINF:-1 tvg-id="Dog TV.br" tvg-name="DOG TV [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/dog-tv.png" group-title="VARIEDADES",DOG TV [5]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513649.m3u8
-#EXTINF:-1 tvg-id="Eurochannel.br" tvg-name="Euro channel [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/euro-channel.png" group-title="Variedades",Euro channel [1]
+#EXTINF:-1 tvg-id="Eurochannel.br" tvg-name="Euro channel [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/euro-channel.png" group-title="VARIEDADES",Euro channel [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513645.m3u8
-#EXTINF:-1 tvg-id="Eurochannel.br" tvg-name="Euro channel [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/euro-channel.png" group-title="Variedades",Euro channel [2]
+#EXTINF:-1 tvg-id="Eurochannel.br" tvg-name="Euro channel [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/euro-channel.png" group-title="VARIEDADES",Euro channel [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513644.m3u8
-#EXTINF:-1 tvg-id="Eurochannel.br" tvg-name="Euro channel [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/euro-channel.png" group-title="Variedades",Euro channel [3]
+#EXTINF:-1 tvg-id="Eurochannel.br" tvg-name="Euro channel [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/euro-channel.png" group-title="VARIEDADES",Euro channel [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513643.m3u8
-#EXTINF:-1 tvg-id="Fashion TV.br" tvg-name="Fashion TV [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/fashion-tv.png" group-title="Variedades",Fashion TV [1]
+#EXTINF:-1 tvg-id="Fashion TV.br" tvg-name="Fashion TV [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/fashion-tv.png" group-title="VARIEDADES",Fashion TV [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513642.m3u8
-#EXTINF:-1 tvg-id="Fashion TV.br" tvg-name="Fashion TV [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/fashion-tv.png" group-title="Variedades",Fashion TV [2]
+#EXTINF:-1 tvg-id="Fashion TV.br" tvg-name="Fashion TV [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/fashion-tv.png" group-title="VARIEDADES",Fashion TV [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532336.m3u8
-#EXTINF:-1 tvg-id="Fashion TV.br" tvg-name="Fashion TV [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/fashion-tv.png" group-title="Variedades",Fashion TV [3]
+#EXTINF:-1 tvg-id="Fashion TV.br" tvg-name="Fashion TV [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/fashion-tv.png" group-title="VARIEDADES",Fashion TV [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513641.m3u8
-#EXTINF:-1 tvg-id="Fashion TV.br" tvg-name="Fashion TV [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/fashion-tv.png" group-title="Variedades",Fashion TV [4]
+#EXTINF:-1 tvg-id="Fashion TV.br" tvg-name="Fashion TV [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/fashion-tv.png" group-title="VARIEDADES",Fashion TV [4]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532407.m3u8
-#EXTINF:-1 tvg-id="Fashion TV.br" tvg-name="Fashion TV [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/fashion-tv.png" group-title="Variedades",Fashion TV [5]
+#EXTINF:-1 tvg-id="Fashion TV.br" tvg-name="Fashion TV [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/fashion-tv.png" group-title="VARIEDADES",Fashion TV [5]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513640.m3u8
-#EXTINF:-1 tvg-id="Fish TV.br" tvg-name="Fish TV [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/fish-tv.png" group-title="Variedades",Fish TV [1]
+#EXTINF:-1 tvg-id="Fish TV.br" tvg-name="Fish TV [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/fish-tv.png" group-title="VARIEDADES",Fish TV [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513639.m3u8
-#EXTINF:-1 tvg-id="Fish TV.br" tvg-name="Fish TV [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/fish-tv.png" group-title="Variedades",Fish TV [2]
+#EXTINF:-1 tvg-id="Fish TV.br" tvg-name="Fish TV [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/fish-tv.png" group-title="VARIEDADES",Fish TV [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532338.m3u8
-#EXTINF:-1 tvg-id="Fish TV.br" tvg-name="Fish TV [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/fish-tv.png" group-title="Variedades",Fish TV [3]
+#EXTINF:-1 tvg-id="Fish TV.br" tvg-name="Fish TV [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/fish-tv.png" group-title="VARIEDADES",Fish TV [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513638.m3u8
-#EXTINF:-1 tvg-id="Fish TV.br" tvg-name="Fish TV [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/fish-tv.png" group-title="Variedades",Fish TV [4]
+#EXTINF:-1 tvg-id="Fish TV.br" tvg-name="Fish TV [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/fish-tv.png" group-title="VARIEDADES",Fish TV [4]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532410.m3u8
-#EXTINF:-1 tvg-id="Fish TV.br" tvg-name="Fish TV [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/fish-tv.png" group-title="Variedades",Fish TV [5]
+#EXTINF:-1 tvg-id="Fish TV.br" tvg-name="Fish TV [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/fish-tv.png" group-title="VARIEDADES",Fish TV [5]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513637.m3u8
-#EXTINF:-1 tvg-id="Food Network.br" tvg-name="Food Network [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/foodnetwork.png" group-title="Variedades",Food Network [1]
+#EXTINF:-1 tvg-id="Food Network.br" tvg-name="Food Network [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/foodnetwork.png" group-title="VARIEDADES",Food Network [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513636.m3u8
-#EXTINF:-1 tvg-id="Food Network.br" tvg-name="Food Network [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/foodnetwork.png" group-title="Variedades",Food Network [2]
+#EXTINF:-1 tvg-id="Food Network.br" tvg-name="Food Network [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/foodnetwork.png" group-title="VARIEDADES",Food Network [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532339.m3u8
-#EXTINF:-1 tvg-id="Food Network.br" tvg-name="Food Network [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/foodnetwork.png" group-title="Variedades",Food Network [3]
+#EXTINF:-1 tvg-id="Food Network.br" tvg-name="Food Network [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/foodnetwork.png" group-title="VARIEDADES",Food Network [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513635.m3u8
-#EXTINF:-1 tvg-id="Food Network.br" tvg-name="Food Network [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/foodnetwork.png" group-title="Variedades",Food Network [4]
+#EXTINF:-1 tvg-id="Food Network.br" tvg-name="Food Network [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/foodnetwork.png" group-title="VARIEDADES",Food Network [4]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532411.m3u8
-#EXTINF:-1 tvg-id="Food Network.br" tvg-name="Food Network [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/foodnetwork.png" group-title="Variedades",Food Network [5]
+#EXTINF:-1 tvg-id="Food Network.br" tvg-name="Food Network [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/foodnetwork.png" group-title="VARIEDADES",Food Network [5]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513634.m3u8
-#EXTINF:-1 tvg-id="Globoplay Novelas.br" tvg-name="Globoplay Novelas [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globoplay-novelas.png" group-title="Variedades",Globoplay Novelas [1]
+#EXTINF:-1 tvg-id="Globoplay Novelas.br" tvg-name="Globoplay Novelas [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globoplay-novelas.png" group-title="VARIEDADES",Globoplay Novelas [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513633.m3u8
-#EXTINF:-1 tvg-id="Globoplay Novelas.br" tvg-name="Globoplay Novelas [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globoplay-novelas.png" group-title="Variedades",Globoplay Novelas [2]
+#EXTINF:-1 tvg-id="Globoplay Novelas.br" tvg-name="Globoplay Novelas [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globoplay-novelas.png" group-title="VARIEDADES",Globoplay Novelas [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532362.m3u8
-#EXTINF:-1 tvg-id="Globoplay Novelas.br" tvg-name="Globoplay Novelas [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globoplay-novelas.png" group-title="Variedades",Globoplay Novelas [3]
+#EXTINF:-1 tvg-id="Globoplay Novelas.br" tvg-name="Globoplay Novelas [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globoplay-novelas.png" group-title="VARIEDADES",Globoplay Novelas [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513632.m3u8
-#EXTINF:-1 tvg-id="Globoplay Novelas.br" tvg-name="Globoplay Novelas [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globoplay-novelas.png" group-title="Variedades",Globoplay Novelas [4]
+#EXTINF:-1 tvg-id="Globoplay Novelas.br" tvg-name="Globoplay Novelas [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globoplay-novelas.png" group-title="VARIEDADES",Globoplay Novelas [4]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532444.m3u8
-#EXTINF:-1 tvg-id="Globoplay Novelas.br" tvg-name="Globoplay Novelas [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globoplay-novelas.png" group-title="Variedades",Globoplay Novelas [5]
+#EXTINF:-1 tvg-id="Globoplay Novelas.br" tvg-name="Globoplay Novelas [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globoplay-novelas.png" group-title="VARIEDADES",Globoplay Novelas [5]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513631.m3u8
-#EXTINF:-1 tvg-id="Modo Viagem.br" tvg-name="Modo Viagem [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/modo-viagem.png" group-title="Variedades",Modo Viagem [1]
+#EXTINF:-1 tvg-id="Modo Viagem.br" tvg-name="Modo Viagem [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/modo-viagem.png" group-title="VARIEDADES",Modo Viagem [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513627.m3u8
-#EXTINF:-1 tvg-id="Modo Viagem.br" tvg-name="Modo Viagem [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/modo-viagem.png" group-title="Variedades",Modo Viagem [2]
+#EXTINF:-1 tvg-id="Modo Viagem.br" tvg-name="Modo Viagem [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/modo-viagem.png" group-title="VARIEDADES",Modo Viagem [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513396.m3u8
-#EXTINF:-1 tvg-id="Modo Viagem.br" tvg-name="Modo Viagem [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/modo-viagem.png" group-title="Variedades",Modo Viagem [3]
+#EXTINF:-1 tvg-id="Modo Viagem.br" tvg-name="Modo Viagem [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/modo-viagem.png" group-title="VARIEDADES",Modo Viagem [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513626.m3u8
-#EXTINF:-1 tvg-id="Modo Viagem.br" tvg-name="Modo Viagem [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/modo-viagem.png" group-title="Variedades",Modo Viagem [4]
+#EXTINF:-1 tvg-id="Modo Viagem.br" tvg-name="Modo Viagem [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/modo-viagem.png" group-title="VARIEDADES",Modo Viagem [4]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532505.m3u8
-#EXTINF:-1 tvg-id="Modo Viagem.br" tvg-name="Modo Viagem [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/modo-viagem.png" group-title="Variedades",Modo Viagem [5]
+#EXTINF:-1 tvg-id="Modo Viagem.br" tvg-name="Modo Viagem [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/modo-viagem.png" group-title="VARIEDADES",Modo Viagem [5]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513625.m3u8
-#EXTINF:-1 tvg-id="mtvs-00" tvg-name="MTVs 00 [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/mtv-00.png" group-title="Variedades",MTVs 00 [1]
+#EXTINF:-1 tvg-id="mtvs-00" tvg-name="MTVs 00 [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/mtv-00.png" group-title="VARIEDADES",MTVs 00 [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513618.m3u8
-#EXTINF:-1 tvg-id="mtvs-00" tvg-name="MTVs 00 [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/mtv-00.png" group-title="Variedades",MTVs 00 [2]
+#EXTINF:-1 tvg-id="mtvs-00" tvg-name="MTVs 00 [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/mtv-00.png" group-title="VARIEDADES",MTVs 00 [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513393.m3u8
-#EXTINF:-1 tvg-id="mtvs-00" tvg-name="MTVs 00 [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/mtv-00.png" group-title="Variedades",MTVs 00 [3]
+#EXTINF:-1 tvg-id="mtvs-00" tvg-name="MTVs 00 [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/mtv-00.png" group-title="VARIEDADES",MTVs 00 [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513617.m3u8
-#EXTINF:-1 tvg-id="mtvs-00" tvg-name="MTVs 00 [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/mtv-00.png" group-title="Variedades",MTVs 00 [4]
+#EXTINF:-1 tvg-id="mtvs-00" tvg-name="MTVs 00 [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/mtv-00.png" group-title="VARIEDADES",MTVs 00 [4]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513616.m3u8
-#EXTINF:-1 tvg-id="Music Box Brazil.br" tvg-name="Music Box Brazil [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/music-box.png" group-title="Variedades",Music Box Brazil [1]
+#EXTINF:-1 tvg-id="Music Box Brazil.br" tvg-name="Music Box Brazil [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/music-box.png" group-title="VARIEDADES",Music Box Brazil [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513612.m3u8
-#EXTINF:-1 tvg-id="Music Box Brazil.br" tvg-name="Music Box Brazil [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/music-box.png" group-title="Variedades",Music Box Brazil [2]
+#EXTINF:-1 tvg-id="Music Box Brazil.br" tvg-name="Music Box Brazil [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/music-box.png" group-title="VARIEDADES",Music Box Brazil [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513391.m3u8
-#EXTINF:-1 tvg-id="Music Box Brazil.br" tvg-name="Music Box Brazil [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/music-box.png" group-title="Variedades",Music Box Brazil [3]
+#EXTINF:-1 tvg-id="Music Box Brazil.br" tvg-name="Music Box Brazil [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/music-box.png" group-title="VARIEDADES",Music Box Brazil [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513611.m3u8
-#EXTINF:-1 tvg-id="Music Box Brazil.br" tvg-name="Music Box Brazil [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/music-box.png" group-title="Variedades",Music Box Brazil [4]
+#EXTINF:-1 tvg-id="Music Box Brazil.br" tvg-name="Music Box Brazil [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/music-box.png" group-title="VARIEDADES",Music Box Brazil [4]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513610.m3u8
-#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/off.png" group-title="Variedades",OFF [1]
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/off.png" group-title="VARIEDADES",OFF [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513609.m3u8
-#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/off.png" group-title="Variedades",OFF [2]
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/off.png" group-title="VARIEDADES",OFF [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513387.m3u8
-#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/off.png" group-title="Variedades",OFF [3]
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/off.png" group-title="VARIEDADES",OFF [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513608.m3u8
-#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/off.png" group-title="Variedades",OFF [4]
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/off.png" group-title="VARIEDADES",OFF [4]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513607.m3u8
-#EXTINF:-1 tvg-id="Prime Box Brazil HD.br" tvg-name="Prime Box Brazil [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/prime-box.png" group-title="Variedades",Prime Box Brazil [1]
+#EXTINF:-1 tvg-id="Prime Box Brazil HD.br" tvg-name="Prime Box Brazil [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/prime-box.png" group-title="VARIEDADES",Prime Box Brazil [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513606.m3u8
-#EXTINF:-1 tvg-id="Prime Box Brazil HD.br" tvg-name="Prime Box Brazil [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/prime-box.png" group-title="Variedades",Prime Box Brazil [2]
+#EXTINF:-1 tvg-id="Prime Box Brazil HD.br" tvg-name="Prime Box Brazil [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/prime-box.png" group-title="VARIEDADES",Prime Box Brazil [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513372.m3u8
-#EXTINF:-1 tvg-id="Prime Box Brazil HD.br" tvg-name="Prime Box Brazil [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/prime-box.png" group-title="Variedades",Prime Box Brazil [3]
+#EXTINF:-1 tvg-id="Prime Box Brazil HD.br" tvg-name="Prime Box Brazil [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/prime-box.png" group-title="VARIEDADES",Prime Box Brazil [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513605.m3u8
-#EXTINF:-1 tvg-id="Prime Box Brazil HD.br" tvg-name="Prime Box Brazil [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/prime-box.png" group-title="Variedades",Prime Box Brazil [4]
+#EXTINF:-1 tvg-id="Prime Box Brazil HD.br" tvg-name="Prime Box Brazil [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/prime-box.png" group-title="VARIEDADES",Prime Box Brazil [4]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513604.m3u8
-#EXTINF:-1 tvg-id="runtime-acao" tvg-name="RUNTIME AÇÃO" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/runtime.png" group-title="Variedades",RUNTIME AÇÃO
+#EXTINF:-1 tvg-id="runtime-acao" tvg-name="RUNTIME AÇÃO" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/runtime.png" group-title="VARIEDADES",RUNTIME AÇÃO
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27530839.m3u8
-#EXTINF:-1 tvg-id="runtime-cinespanto" tvg-name="RUNTIME CINESPANTO" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/runtime.png" group-title="Variedades",RUNTIME CINESPANTO
+#EXTINF:-1 tvg-id="runtime-cinespanto" tvg-name="RUNTIME CINESPANTO" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/runtime.png" group-title="VARIEDADES",RUNTIME CINESPANTO
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27530838.m3u8
-#EXTINF:-1 tvg-id="runtime-comedia" tvg-name="RUNTIME COMEDIA" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/runtime.png" group-title="Variedades",RUNTIME COMEDIA
+#EXTINF:-1 tvg-id="runtime-comedia" tvg-name="RUNTIME COMEDIA" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/runtime.png" group-title="VARIEDADES",RUNTIME COMEDIA
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27530836.m3u8
-#EXTINF:-1 tvg-id="runtime-crime" tvg-name="RUNTIME CRIME" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/runtime.png" group-title="Variedades",RUNTIME CRIME
+#EXTINF:-1 tvg-id="runtime-crime" tvg-name="RUNTIME CRIME" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/runtime.png" group-title="VARIEDADES",RUNTIME CRIME
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27530837.m3u8
-#EXTINF:-1 tvg-id="runtime-familia" tvg-name="RUNTIME FAMÍLIA" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/runtime.png" group-title="Variedades",RUNTIME FAMÍLIA
+#EXTINF:-1 tvg-id="runtime-familia" tvg-name="RUNTIME FAMÍLIA" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/runtime.png" group-title="VARIEDADES",RUNTIME FAMÍLIA
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27530835.m3u8
-#EXTINF:-1 tvg-id="runtime-romance" tvg-name="RUNTIME ROMANCE" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/runtime.png" group-title="Variedades",RUNTIME ROMANCE
+#EXTINF:-1 tvg-id="runtime-romance" tvg-name="RUNTIME ROMANCE" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/runtime.png" group-title="VARIEDADES",RUNTIME ROMANCE
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27530834.m3u8
-#EXTINF:-1 tvg-id="Sabor And Arte.br" tvg-name="Sabor & Arte [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/sabor-arte.png" group-title="Variedades",Sabor & Arte [1]
+#EXTINF:-1 tvg-id="Sabor And Arte.br" tvg-name="Sabor & Arte [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/sabor-arte.png" group-title="VARIEDADES",Sabor & Arte [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513603.m3u8
-#EXTINF:-1 tvg-id="Sabor And Arte.br" tvg-name="Sabor & Arte [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/sabor-arte.png" group-title="Variedades",Sabor & Arte [2]
+#EXTINF:-1 tvg-id="Sabor And Arte.br" tvg-name="Sabor & Arte [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/sabor-arte.png" group-title="VARIEDADES",Sabor & Arte [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513366.m3u8
-#EXTINF:-1 tvg-id="Sabor And Arte.br" tvg-name="Sabor & Arte [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/sabor-arte.png" group-title="Variedades",Sabor & Arte [3]
+#EXTINF:-1 tvg-id="Sabor And Arte.br" tvg-name="Sabor & Arte [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/sabor-arte.png" group-title="VARIEDADES",Sabor & Arte [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513602.m3u8
-#EXTINF:-1 tvg-id="Sabor And Arte.br" tvg-name="Sabor & Arte [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/sabor-arte.png" group-title="Variedades",Sabor & Arte [4]
+#EXTINF:-1 tvg-id="Sabor And Arte.br" tvg-name="Sabor & Arte [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/sabor-arte.png" group-title="VARIEDADES",Sabor & Arte [4]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513601.m3u8
-#EXTINF:-1 tvg-id="TLC.br" tvg-name="TLC [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tlc.png" group-title="Variedades",TLC [1]
+#EXTINF:-1 tvg-id="TLC.br" tvg-name="TLC [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tlc.png" group-title="VARIEDADES",TLC [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513600.m3u8
-#EXTINF:-1 tvg-id="TLC.br" tvg-name="TLC [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tlc.png" group-title="Variedades",TLC [2]
+#EXTINF:-1 tvg-id="TLC.br" tvg-name="TLC [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tlc.png" group-title="VARIEDADES",TLC [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513346.m3u8
-#EXTINF:-1 tvg-id="TLC.br" tvg-name="TLC [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tlc.png" group-title="Variedades",TLC [3]
+#EXTINF:-1 tvg-id="TLC.br" tvg-name="TLC [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tlc.png" group-title="VARIEDADES",TLC [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513599.m3u8
-#EXTINF:-1 tvg-id="TLC.br" tvg-name="TLC [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tlc.png" group-title="Variedades",TLC [4]
+#EXTINF:-1 tvg-id="TLC.br" tvg-name="TLC [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tlc.png" group-title="VARIEDADES",TLC [4]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513598.m3u8
-#EXTINF:-1 tvg-id="Travel Box Brazil.br" tvg-name="Travel Box Brazil [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/travel-box.png" group-title="Variedades",Travel Box Brazil [1]
+#EXTINF:-1 tvg-id="Travel Box Brazil.br" tvg-name="Travel Box Brazil [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/travel-box.png" group-title="VARIEDADES",Travel Box Brazil [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513597.m3u8
-#EXTINF:-1 tvg-id="Travel Box Brazil.br" tvg-name="Travel Box Brazil [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/travel-box.png" group-title="Variedades",Travel Box Brazil [2]
+#EXTINF:-1 tvg-id="Travel Box Brazil.br" tvg-name="Travel Box Brazil [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/travel-box.png" group-title="VARIEDADES",Travel Box Brazil [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513341.m3u8
-#EXTINF:-1 tvg-id="Travel Box Brazil.br" tvg-name="Travel Box Brazil [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/travel-box.png" group-title="Variedades",Travel Box Brazil [3]
+#EXTINF:-1 tvg-id="Travel Box Brazil.br" tvg-name="Travel Box Brazil [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/travel-box.png" group-title="VARIEDADES",Travel Box Brazil [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513596.m3u8
-#EXTINF:-1 tvg-id="Travel Box Brazil.br" tvg-name="Travel Box Brazil [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/travel-box.png" group-title="Variedades",Travel Box Brazil [4]
+#EXTINF:-1 tvg-id="Travel Box Brazil.br" tvg-name="Travel Box Brazil [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/travel-box.png" group-title="VARIEDADES",Travel Box Brazil [4]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513595.m3u8
-#EXTINF:-1 tvg-id="VH1.br" tvg-name="VH1 Megahits [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/vh1.png" group-title="Variedades",VH1 Megahits [1]
+#EXTINF:-1 tvg-id="VH1.br" tvg-name="VH1 Megahits [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/vh1.png" group-title="VARIEDADES",VH1 Megahits [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513594.m3u8
-#EXTINF:-1 tvg-id="VH1.br" tvg-name="VH1 Megahits [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/vh1.png" group-title="Variedades",VH1 Megahits [2]
+#EXTINF:-1 tvg-id="VH1.br" tvg-name="VH1 Megahits [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/vh1.png" group-title="VARIEDADES",VH1 Megahits [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513593.m3u8
-#EXTINF:-1 tvg-id="VH1.br" tvg-name="VH1 Megahits [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/vh1.png" group-title="Variedades",VH1 Megahits [3]
+#EXTINF:-1 tvg-id="VH1.br" tvg-name="VH1 Megahits [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/vh1.png" group-title="VARIEDADES",VH1 Megahits [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513592.m3u8
-#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="Woohoo [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/woohoo.png" group-title="Variedades",Woohoo [1]
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="Woohoo [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/woohoo.png" group-title="VARIEDADES",Woohoo [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513591.m3u8
-#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="Woohoo [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/woohoo.png" group-title="Variedades",Woohoo [2]
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="Woohoo [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/woohoo.png" group-title="VARIEDADES",Woohoo [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513330.m3u8
-#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="Woohoo [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/woohoo.png" group-title="Variedades",Woohoo [3]
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="Woohoo [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/woohoo.png" group-title="VARIEDADES",Woohoo [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513590.m3u8
-#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="Woohoo [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/woohoo.png" group-title="Variedades",Woohoo [4]
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="Woohoo [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/woohoo.png" group-title="VARIEDADES",Woohoo [4]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513589.m3u8
-#EXTINF:-1 tvg-id="love-nature" tvg-name="LOVE NATURE" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/love-nature.png" group-title="Variedades",LOVE NATURE
+#EXTINF:-1 tvg-id="love-nature" tvg-name="LOVE NATURE" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/love-nature.png" group-title="VARIEDADES",LOVE NATURE
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27551111.m3u8
-#EXTINF:-1 tvg-id="brtvmax" tvg-name="BRTVMAX [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/brtv-max.png" group-title="Variedades",BRTVMAX [1]
+#EXTINF:-1 tvg-id="brtvmax" tvg-name="BRTVMAX [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/brtv-max.png" group-title="VARIEDADES",BRTVMAX [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27564698.m3u8
-#EXTINF:-1 tvg-id="brtvmax" tvg-name="BRTVMAX [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/brtv-max.png" group-title="Variedades",BRTVMAX [2]
+#EXTINF:-1 tvg-id="brtvmax" tvg-name="BRTVMAX [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/brtv-max.png" group-title="VARIEDADES",BRTVMAX [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27564697.m3u8
 #EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo.png" group-title="HBO",HBO [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514141.m3u8
@@ -605,279 +605,279 @@ http://strming.cloud:80/live/jonyalbo/8162628Kk/27513344.m3u8
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27511285.m3u8
 #EXTINF:-1 tvg-id="TNT Novelas.br" tvg-name="TNT Novelas [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tnt-novelas.png" group-title="TNT",TNT Novelas [4]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27511284.m3u8
-#EXTINF:-1 tvg-id="Telecine Action.br" tvg-name="Telecine Action [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-action.png" group-title="Telecine",Telecine Action [1]
+#EXTINF:-1 tvg-id="Telecine Action.br" tvg-name="Telecine Action [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-action.png" group-title="TELECINE",Telecine Action [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27510300.m3u8
-#EXTINF:-1 tvg-id="Telecine Action.br" tvg-name="Telecine Action [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-action.png" group-title="Telecine",Telecine Action [2]
+#EXTINF:-1 tvg-id="Telecine Action.br" tvg-name="Telecine Action [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-action.png" group-title="TELECINE",Telecine Action [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513299.m3u8
-#EXTINF:-1 tvg-id="Telecine Action.br" tvg-name="Telecine Action [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-action.png" group-title="Telecine",Telecine Action [3]
+#EXTINF:-1 tvg-id="Telecine Action.br" tvg-name="Telecine Action [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-action.png" group-title="TELECINE",Telecine Action [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513352.m3u8
-#EXTINF:-1 tvg-id="Telecine Action.br" tvg-name="Telecine Action [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-action.png" group-title="Telecine",Telecine Action [4]
+#EXTINF:-1 tvg-id="Telecine Action.br" tvg-name="Telecine Action [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-action.png" group-title="TELECINE",Telecine Action [4]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27510299.m3u8
-#EXTINF:-1 tvg-id="Telecine Action.br" tvg-name="Telecine Action [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-action.png" group-title="Telecine",Telecine Action [5]
+#EXTINF:-1 tvg-id="Telecine Action.br" tvg-name="Telecine Action [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-action.png" group-title="TELECINE",Telecine Action [5]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513298.m3u8
-#EXTINF:-1 tvg-id="Telecine Action.br" tvg-name="Telecine Action [6]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-action.png" group-title="Telecine",Telecine Action [6]
+#EXTINF:-1 tvg-id="Telecine Action.br" tvg-name="Telecine Action [6]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-action.png" group-title="TELECINE",Telecine Action [6]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27510298.m3u8
-#EXTINF:-1 tvg-id="Telecine Action.br" tvg-name="Telecine Action [7]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-action.png" group-title="Telecine",Telecine Action [7]
+#EXTINF:-1 tvg-id="Telecine Action.br" tvg-name="Telecine Action [7]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-action.png" group-title="TELECINE",Telecine Action [7]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513297.m3u8
-#EXTINF:-1 tvg-id="Telecine Cult.br" tvg-name="Telecine Cult [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-cult.png" group-title="Telecine",Telecine Cult [1]
+#EXTINF:-1 tvg-id="Telecine Cult.br" tvg-name="Telecine Cult [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-cult.png" group-title="TELECINE",Telecine Cult [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27510297.m3u8
-#EXTINF:-1 tvg-id="Telecine Cult.br" tvg-name="Telecine Cult [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-cult.png" group-title="Telecine",Telecine Cult [2]
+#EXTINF:-1 tvg-id="Telecine Cult.br" tvg-name="Telecine Cult [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-cult.png" group-title="TELECINE",Telecine Cult [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513296.m3u8
-#EXTINF:-1 tvg-id="Telecine Cult.br" tvg-name="Telecine Cult [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-cult.png" group-title="Telecine",Telecine Cult [3]
+#EXTINF:-1 tvg-id="Telecine Cult.br" tvg-name="Telecine Cult [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-cult.png" group-title="TELECINE",Telecine Cult [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513351.m3u8
-#EXTINF:-1 tvg-id="Telecine Cult.br" tvg-name="Telecine Cult [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-cult.png" group-title="Telecine",Telecine Cult [4]
+#EXTINF:-1 tvg-id="Telecine Cult.br" tvg-name="Telecine Cult [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-cult.png" group-title="TELECINE",Telecine Cult [4]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27510296.m3u8
-#EXTINF:-1 tvg-id="Telecine Cult.br" tvg-name="Telecine Cult [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-cult.png" group-title="Telecine",Telecine Cult [5]
+#EXTINF:-1 tvg-id="Telecine Cult.br" tvg-name="Telecine Cult [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-cult.png" group-title="TELECINE",Telecine Cult [5]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513295.m3u8
-#EXTINF:-1 tvg-id="Telecine Cult.br" tvg-name="Telecine Cult [6]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-cult.png" group-title="Telecine",Telecine Cult [6]
+#EXTINF:-1 tvg-id="Telecine Cult.br" tvg-name="Telecine Cult [6]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-cult.png" group-title="TELECINE",Telecine Cult [6]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27510295.m3u8
-#EXTINF:-1 tvg-id="Telecine Cult.br" tvg-name="Telecine Cult [7]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-cult.png" group-title="Telecine",Telecine Cult [7]
+#EXTINF:-1 tvg-id="Telecine Cult.br" tvg-name="Telecine Cult [7]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-cult.png" group-title="TELECINE",Telecine Cult [7]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513294.m3u8
-#EXTINF:-1 tvg-id="Telecine Cult.br" tvg-name="Telecine Cult [8]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-cult.png" group-title="Telecine",Telecine Cult [8]
+#EXTINF:-1 tvg-id="Telecine Cult.br" tvg-name="Telecine Cult [8]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-cult.png" group-title="TELECINE",Telecine Cult [8]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513246.m3u8
-#EXTINF:-1 tvg-id="Telecine Fun.br" tvg-name="Telecine Fun [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-fun.png" group-title="Telecine",Telecine Fun [1]
+#EXTINF:-1 tvg-id="Telecine Fun.br" tvg-name="Telecine Fun [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-fun.png" group-title="TELECINE",Telecine Fun [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27510294.m3u8
-#EXTINF:-1 tvg-id="Telecine Fun.br" tvg-name="Telecine Fun [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-fun.png" group-title="Telecine",Telecine Fun [2]
+#EXTINF:-1 tvg-id="Telecine Fun.br" tvg-name="Telecine Fun [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-fun.png" group-title="TELECINE",Telecine Fun [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513293.m3u8
-#EXTINF:-1 tvg-id="Telecine Fun.br" tvg-name="Telecine Fun [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-fun.png" group-title="Telecine",Telecine Fun [3]
+#EXTINF:-1 tvg-id="Telecine Fun.br" tvg-name="Telecine Fun [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-fun.png" group-title="TELECINE",Telecine Fun [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27510293.m3u8
-#EXTINF:-1 tvg-id="Telecine Fun.br" tvg-name="Telecine Fun [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-fun.png" group-title="Telecine",Telecine Fun [4]
+#EXTINF:-1 tvg-id="Telecine Fun.br" tvg-name="Telecine Fun [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-fun.png" group-title="TELECINE",Telecine Fun [4]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513292.m3u8
-#EXTINF:-1 tvg-id="Telecine Fun.br" tvg-name="Telecine Fun [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-fun.png" group-title="Telecine",Telecine Fun [5]
+#EXTINF:-1 tvg-id="Telecine Fun.br" tvg-name="Telecine Fun [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-fun.png" group-title="TELECINE",Telecine Fun [5]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27510292.m3u8
-#EXTINF:-1 tvg-id="Telecine Fun.br" tvg-name="Telecine Fun [6]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-fun.png" group-title="Telecine",Telecine Fun [6]
+#EXTINF:-1 tvg-id="Telecine Fun.br" tvg-name="Telecine Fun [6]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-fun.png" group-title="TELECINE",Telecine Fun [6]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513291.m3u8
-#EXTINF:-1 tvg-id="Telecine Fun.br" tvg-name="Telecine Fun [7]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-fun.png" group-title="Telecine",Telecine Fun [7]
+#EXTINF:-1 tvg-id="Telecine Fun.br" tvg-name="Telecine Fun [7]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-fun.png" group-title="TELECINE",Telecine Fun [7]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513245.m3u8
-#EXTINF:-1 tvg-id="Telecine Pipoca.br" tvg-name="Telecine Pipoca [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-pipoca.png" group-title="Telecine",Telecine Pipoca [1]
+#EXTINF:-1 tvg-id="Telecine Pipoca.br" tvg-name="Telecine Pipoca [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-pipoca.png" group-title="TELECINE",Telecine Pipoca [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27510291.m3u8
-#EXTINF:-1 tvg-id="Telecine Pipoca.br" tvg-name="Telecine Pipoca [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-pipoca.png" group-title="Telecine",Telecine Pipoca [2]
+#EXTINF:-1 tvg-id="Telecine Pipoca.br" tvg-name="Telecine Pipoca [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-pipoca.png" group-title="TELECINE",Telecine Pipoca [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513290.m3u8
-#EXTINF:-1 tvg-id="Telecine Pipoca.br" tvg-name="Telecine Pipoca [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-pipoca.png" group-title="Telecine",Telecine Pipoca [3]
+#EXTINF:-1 tvg-id="Telecine Pipoca.br" tvg-name="Telecine Pipoca [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-pipoca.png" group-title="TELECINE",Telecine Pipoca [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513349.m3u8
-#EXTINF:-1 tvg-id="Telecine Pipoca.br" tvg-name="Telecine Pipoca [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-pipoca.png" group-title="Telecine",Telecine Pipoca [4]
+#EXTINF:-1 tvg-id="Telecine Pipoca.br" tvg-name="Telecine Pipoca [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-pipoca.png" group-title="TELECINE",Telecine Pipoca [4]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27510290.m3u8
-#EXTINF:-1 tvg-id="Telecine Pipoca.br" tvg-name="Telecine Pipoca [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-pipoca.png" group-title="Telecine",Telecine Pipoca [5]
+#EXTINF:-1 tvg-id="Telecine Pipoca.br" tvg-name="Telecine Pipoca [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-pipoca.png" group-title="TELECINE",Telecine Pipoca [5]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513289.m3u8
-#EXTINF:-1 tvg-id="Telecine Pipoca.br" tvg-name="Telecine Pipoca [6]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-pipoca.png" group-title="Telecine",Telecine Pipoca [6]
+#EXTINF:-1 tvg-id="Telecine Pipoca.br" tvg-name="Telecine Pipoca [6]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-pipoca.png" group-title="TELECINE",Telecine Pipoca [6]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27510289.m3u8
-#EXTINF:-1 tvg-id="Telecine Pipoca.br" tvg-name="Telecine Pipoca [7]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-pipoca.png" group-title="Telecine",Telecine Pipoca [7]
+#EXTINF:-1 tvg-id="Telecine Pipoca.br" tvg-name="Telecine Pipoca [7]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-pipoca.png" group-title="TELECINE",Telecine Pipoca [7]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513288.m3u8
-#EXTINF:-1 tvg-id="Telecine Premium.br" tvg-name="Telecine Premium [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-premium.png" group-title="Telecine",Telecine Premium [1]
+#EXTINF:-1 tvg-id="Telecine Premium.br" tvg-name="Telecine Premium [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-premium.png" group-title="TELECINE",Telecine Premium [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27510288.m3u8
-#EXTINF:-1 tvg-id="Telecine Premium.br" tvg-name="Telecine Premium [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-premium.png" group-title="Telecine",Telecine Premium [2]
+#EXTINF:-1 tvg-id="Telecine Premium.br" tvg-name="Telecine Premium [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-premium.png" group-title="TELECINE",Telecine Premium [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513287.m3u8
-#EXTINF:-1 tvg-id="Telecine Premium.br" tvg-name="Telecine Premium [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-premium.png" group-title="Telecine",Telecine Premium [3]
+#EXTINF:-1 tvg-id="Telecine Premium.br" tvg-name="Telecine Premium [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-premium.png" group-title="TELECINE",Telecine Premium [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513348.m3u8
-#EXTINF:-1 tvg-id="Telecine Premium.br" tvg-name="Telecine Premium [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-premium.png" group-title="Telecine",Telecine Premium [4]
+#EXTINF:-1 tvg-id="Telecine Premium.br" tvg-name="Telecine Premium [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-premium.png" group-title="TELECINE",Telecine Premium [4]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27510287.m3u8
-#EXTINF:-1 tvg-id="Telecine Premium.br" tvg-name="Telecine Premium [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-premium.png" group-title="Telecine",Telecine Premium [5]
+#EXTINF:-1 tvg-id="Telecine Premium.br" tvg-name="Telecine Premium [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-premium.png" group-title="TELECINE",Telecine Premium [5]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513286.m3u8
-#EXTINF:-1 tvg-id="Telecine Premium.br" tvg-name="Telecine Premium [6]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-premium.png" group-title="Telecine",Telecine Premium [6]
+#EXTINF:-1 tvg-id="Telecine Premium.br" tvg-name="Telecine Premium [6]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-premium.png" group-title="TELECINE",Telecine Premium [6]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27510286.m3u8
-#EXTINF:-1 tvg-id="Telecine Premium.br" tvg-name="Telecine Premium [7]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-premium.png" group-title="Telecine",Telecine Premium [7]
+#EXTINF:-1 tvg-id="Telecine Premium.br" tvg-name="Telecine Premium [7]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-premium.png" group-title="TELECINE",Telecine Premium [7]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513285.m3u8
-#EXTINF:-1 tvg-id="Telecine Touch.br" tvg-name="Telecine Touch [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-touch.png" group-title="Telecine",Telecine Touch [1]
+#EXTINF:-1 tvg-id="Telecine Touch.br" tvg-name="Telecine Touch [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-touch.png" group-title="TELECINE",Telecine Touch [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27510285.m3u8
-#EXTINF:-1 tvg-id="Telecine Touch.br" tvg-name="Telecine Touch [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-touch.png" group-title="Telecine",Telecine Touch [2]
+#EXTINF:-1 tvg-id="Telecine Touch.br" tvg-name="Telecine Touch [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-touch.png" group-title="TELECINE",Telecine Touch [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513284.m3u8
-#EXTINF:-1 tvg-id="Telecine Touch.br" tvg-name="Telecine Touch [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-touch.png" group-title="Telecine",Telecine Touch [3]
+#EXTINF:-1 tvg-id="Telecine Touch.br" tvg-name="Telecine Touch [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-touch.png" group-title="TELECINE",Telecine Touch [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513347.m3u8
-#EXTINF:-1 tvg-id="Telecine Touch.br" tvg-name="Telecine Touch [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-touch.png" group-title="Telecine",Telecine Touch [4]
+#EXTINF:-1 tvg-id="Telecine Touch.br" tvg-name="Telecine Touch [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-touch.png" group-title="TELECINE",Telecine Touch [4]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27510284.m3u8
-#EXTINF:-1 tvg-id="Telecine Touch.br" tvg-name="Telecine Touch [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-touch.png" group-title="Telecine",Telecine Touch [5]
+#EXTINF:-1 tvg-id="Telecine Touch.br" tvg-name="Telecine Touch [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-touch.png" group-title="TELECINE",Telecine Touch [5]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513283.m3u8
-#EXTINF:-1 tvg-id="Telecine Touch.br" tvg-name="Telecine Touch [6]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-touch.png" group-title="Telecine",Telecine Touch [6]
+#EXTINF:-1 tvg-id="Telecine Touch.br" tvg-name="Telecine Touch [6]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-touch.png" group-title="TELECINE",Telecine Touch [6]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27510283.m3u8
-#EXTINF:-1 tvg-id="Telecine Touch.br" tvg-name="Telecine Touch [7]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-touch.png" group-title="Telecine",Telecine Touch [7]
+#EXTINF:-1 tvg-id="Telecine Touch.br" tvg-name="Telecine Touch [7]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-touch.png" group-title="TELECINE",Telecine Touch [7]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513282.m3u8
-#EXTINF:-1 tvg-id="cine-sky-1" tvg-name="Cine Sky 1" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cine-sky.png" group-title="Cine Sky",Cine Sky 1
-http://strming.cloud:80/live/jonyalbo/8162628Kk/27510766.m3u8
-#EXTINF:-1 tvg-id="cine-sky-2" tvg-name="Cine Sky 2" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cine-sky.png" group-title="Cine Sky",Cine Sky 2
-http://strming.cloud:80/live/jonyalbo/8162628Kk/27510765.m3u8
-#EXTINF:-1 tvg-id="cine-sky-3" tvg-name="Cine Sky 3" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cine-sky.png" group-title="Cine Sky",Cine Sky 3
+#EXTINF:-1 tvg-id="cine-sky-3" tvg-name="TV CINE TOP" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tvcine-top.png" group-title="CINE SKY",TV CINE TOP
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27510764.m3u8
-#EXTINF:-1 tvg-id="cine-sky-4" tvg-name="Cine Sky 4" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cine-sky.png" group-title="Cine Sky",Cine Sky 4
+#EXTINF:-1 tvg-id="cine-sky-1" tvg-name="TV CINE TOP" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tvcine-top.png" group-title="CINE SKY",TV CINE TOP
+http://strming.cloud:80/live/jonyalbo/8162628Kk/27510766.m3u8
+#EXTINF:-1 tvg-id="cine-sky-2" tvg-name="TV CINE ACTION" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tvcine-action.png" group-title="CINE SKY",TV CINE ACTION
+http://strming.cloud:80/live/jonyalbo/8162628Kk/27510765.m3u8
+#EXTINF:-1 tvg-id="cine-sky-4" tvg-name="TV CINE EMOTION" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tvcine-emotion.png" group-title="CINE SKY",TV CINE EMOTION
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27510763.m3u8
-#EXTINF:-1 tvg-id="cine-sky-5" tvg-name="Cine Sky 5" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cine-sky.png" group-title="Cine Sky",Cine Sky 5
+#EXTINF:-1 tvg-id="cine-sky-5" tvg-name="CINE MUNDO" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cine-mundo.png" group-title="CINE SKY",CINE MUNDO
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27510762.m3u8
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery.png" group-title="Discovery",Discovery Channel [1]
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery.png" group-title="DISCOVERY",Discovery Channel [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27511537.m3u8
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery.png" group-title="Discovery",Discovery Channel [2]
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery.png" group-title="DISCOVERY",Discovery Channel [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532321.m3u8
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery.png" group-title="Discovery",Discovery Channel [3]
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery.png" group-title="DISCOVERY",Discovery Channel [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27511536.m3u8
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery.png" group-title="Discovery",Discovery Channel [4]
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery.png" group-title="DISCOVERY",Discovery Channel [4]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532392.m3u8
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery.png" group-title="Discovery",Discovery Channel [5]
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery.png" group-title="DISCOVERY",Discovery Channel [5]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27511535.m3u8
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel [6]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery.png" group-title="Discovery",Discovery Channel [6]
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel [6]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery.png" group-title="DISCOVERY",Discovery Channel [6]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513264.m3u8
-#EXTINF:-1 tvg-id="Discovery Home & Health.br" tvg-name="Discovery Home & Health [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-hh.png" group-title="Discovery",Discovery Home & Health [1]
+#EXTINF:-1 tvg-id="Discovery Home & Health.br" tvg-name="Discovery Home & Health [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-hh.png" group-title="DISCOVERY",Discovery Home & Health [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27511534.m3u8
-#EXTINF:-1 tvg-id="Discovery Home & Health.br" tvg-name="Discovery Home & Health [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-hh.png" group-title="Discovery",Discovery Home & Health [2]
+#EXTINF:-1 tvg-id="Discovery Home & Health.br" tvg-name="Discovery Home & Health [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-hh.png" group-title="DISCOVERY",Discovery Home & Health [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532320.m3u8
-#EXTINF:-1 tvg-id="Discovery Home & Health.br" tvg-name="Discovery Home & Health [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-hh.png" group-title="Discovery",Discovery Home & Health [3]
+#EXTINF:-1 tvg-id="Discovery Home & Health.br" tvg-name="Discovery Home & Health [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-hh.png" group-title="DISCOVERY",Discovery Home & Health [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27511533.m3u8
-#EXTINF:-1 tvg-id="Discovery Home & Health.br" tvg-name="Discovery Home & Health [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-hh.png" group-title="Discovery",Discovery Home & Health [4]
+#EXTINF:-1 tvg-id="Discovery Home & Health.br" tvg-name="Discovery Home & Health [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-hh.png" group-title="DISCOVERY",Discovery Home & Health [4]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532391.m3u8
-#EXTINF:-1 tvg-id="Discovery Home & Health.br" tvg-name="Discovery Home & Health [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-hh.png" group-title="Discovery",Discovery Home & Health [5]
+#EXTINF:-1 tvg-id="Discovery Home & Health.br" tvg-name="Discovery Home & Health [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-hh.png" group-title="DISCOVERY",Discovery Home & Health [5]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27511532.m3u8
-#EXTINF:-1 tvg-id="Discovery Home & Health.br" tvg-name="Discovery Home & Health [6]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-hh.png" group-title="Discovery",Discovery Home & Health [6]
+#EXTINF:-1 tvg-id="Discovery Home & Health.br" tvg-name="Discovery Home & Health [6]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-hh.png" group-title="DISCOVERY",Discovery Home & Health [6]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513263.m3u8
-#EXTINF:-1 tvg-id="Discovery Theater.br" tvg-name="Discovery Theater [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-theater.png" group-title="Discovery",Discovery Theater [1]
+#EXTINF:-1 tvg-id="Discovery Theater.br" tvg-name="Discovery Theater [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-theater.png" group-title="DISCOVERY",Discovery Theater [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27511528.m3u8
-#EXTINF:-1 tvg-id="Discovery Theater.br" tvg-name="Discovery Theater [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-theater.png" group-title="Discovery",Discovery Theater [2]
+#EXTINF:-1 tvg-id="Discovery Theater.br" tvg-name="Discovery Theater [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-theater.png" group-title="DISCOVERY",Discovery Theater [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532324.m3u8
-#EXTINF:-1 tvg-id="Discovery Theater.br" tvg-name="Discovery Theater [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-theater.png" group-title="Discovery",Discovery Theater [3]
+#EXTINF:-1 tvg-id="Discovery Theater.br" tvg-name="Discovery Theater [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-theater.png" group-title="DISCOVERY",Discovery Theater [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27511527.m3u8
-#EXTINF:-1 tvg-id="Discovery Theater.br" tvg-name="Discovery Theater [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-theater.png" group-title="Discovery",Discovery Theater [4]
+#EXTINF:-1 tvg-id="Discovery Theater.br" tvg-name="Discovery Theater [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-theater.png" group-title="DISCOVERY",Discovery Theater [4]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532395.m3u8
-#EXTINF:-1 tvg-id="Discovery Theater.br" tvg-name="Discovery Theater [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-theater.png" group-title="Discovery",Discovery Theater [5]
+#EXTINF:-1 tvg-id="Discovery Theater.br" tvg-name="Discovery Theater [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-theater.png" group-title="DISCOVERY",Discovery Theater [5]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27511526.m3u8
-#EXTINF:-1 tvg-id="Discovery Theater.br" tvg-name="Discovery Theater [6]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-theater.png" group-title="Discovery",Discovery Theater [6]
+#EXTINF:-1 tvg-id="Discovery Theater.br" tvg-name="Discovery Theater [6]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-theater.png" group-title="DISCOVERY",Discovery Theater [6]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513262.m3u8
-#EXTINF:-1 tvg-id="Discovery Turbo.br" tvg-name="Discovery Turbo [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-turbo.png" group-title="Discovery",Discovery Turbo [1]
+#EXTINF:-1 tvg-id="Discovery Turbo.br" tvg-name="Discovery Turbo [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-turbo.png" group-title="DISCOVERY",Discovery Turbo [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27511525.m3u8
-#EXTINF:-1 tvg-id="Discovery Turbo.br" tvg-name="Discovery Turbo [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-turbo.png" group-title="Discovery",Discovery Turbo [2]
+#EXTINF:-1 tvg-id="Discovery Turbo.br" tvg-name="Discovery Turbo [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-turbo.png" group-title="DISCOVERY",Discovery Turbo [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532325.m3u8
-#EXTINF:-1 tvg-id="Discovery Turbo.br" tvg-name="Discovery Turbo [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-turbo.png" group-title="Discovery",Discovery Turbo [3]
+#EXTINF:-1 tvg-id="Discovery Turbo.br" tvg-name="Discovery Turbo [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-turbo.png" group-title="DISCOVERY",Discovery Turbo [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27511524.m3u8
-#EXTINF:-1 tvg-id="Discovery Turbo.br" tvg-name="Discovery Turbo [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-turbo.png" group-title="Discovery",Discovery Turbo [4]
+#EXTINF:-1 tvg-id="Discovery Turbo.br" tvg-name="Discovery Turbo [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-turbo.png" group-title="DISCOVERY",Discovery Turbo [4]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532396.m3u8
-#EXTINF:-1 tvg-id="Discovery Turbo.br" tvg-name="Discovery Turbo [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-turbo.png" group-title="Discovery",Discovery Turbo [5]
+#EXTINF:-1 tvg-id="Discovery Turbo.br" tvg-name="Discovery Turbo [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-turbo.png" group-title="DISCOVERY",Discovery Turbo [5]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27511523.m3u8
-#EXTINF:-1 tvg-id="Discovery Turbo.br" tvg-name="Discovery Turbo [6]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-turbo.png" group-title="Discovery",Discovery Turbo [6]
+#EXTINF:-1 tvg-id="Discovery Turbo.br" tvg-name="Discovery Turbo [6]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-turbo.png" group-title="DISCOVERY",Discovery Turbo [6]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513261.m3u8
-#EXTINF:-1 tvg-id="Discovery World.br" tvg-name="Discovery World [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-world.png" group-title="Discovery",Discovery World [1]
+#EXTINF:-1 tvg-id="Discovery World.br" tvg-name="Discovery World [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-world.png" group-title="DISCOVERY",Discovery World [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27511522.m3u8
-#EXTINF:-1 tvg-id="Discovery World.br" tvg-name="Discovery World [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-world.png" group-title="Discovery",Discovery World [2]
+#EXTINF:-1 tvg-id="Discovery World.br" tvg-name="Discovery World [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-world.png" group-title="DISCOVERY",Discovery World [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532326.m3u8
-#EXTINF:-1 tvg-id="Discovery World.br" tvg-name="Discovery World [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-world.png" group-title="Discovery",Discovery World [3]
+#EXTINF:-1 tvg-id="Discovery World.br" tvg-name="Discovery World [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-world.png" group-title="DISCOVERY",Discovery World [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27511521.m3u8
-#EXTINF:-1 tvg-id="Discovery World.br" tvg-name="Discovery World [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-world.png" group-title="Discovery",Discovery World [4]
+#EXTINF:-1 tvg-id="Discovery World.br" tvg-name="Discovery World [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-world.png" group-title="DISCOVERY",Discovery World [4]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532397.m3u8
-#EXTINF:-1 tvg-id="Discovery World.br" tvg-name="Discovery World [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-world.png" group-title="Discovery",Discovery World [5]
+#EXTINF:-1 tvg-id="Discovery World.br" tvg-name="Discovery World [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-world.png" group-title="DISCOVERY",Discovery World [5]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27511520.m3u8
-#EXTINF:-1 tvg-id="Discovery World.br" tvg-name="Discovery World [6]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-world.png" group-title="Discovery",Discovery World [6]
+#EXTINF:-1 tvg-id="Discovery World.br" tvg-name="Discovery World [6]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-world.png" group-title="DISCOVERY",Discovery World [6]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513260.m3u8
-#EXTINF:-1 tvg-id="ID.br" tvg-name="Discovery ID [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/id.png" group-title="Discovery",Discovery ID [1]
+#EXTINF:-1 tvg-id="ID.br" tvg-name="Discovery ID [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/id.png" group-title="DISCOVERY",Discovery ID [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27511519.m3u8
-#EXTINF:-1 tvg-id="ID.br" tvg-name="Discovery ID [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/id.png" group-title="Discovery",Discovery ID [2]
+#EXTINF:-1 tvg-id="ID.br" tvg-name="Discovery ID [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/id.png" group-title="DISCOVERY",Discovery ID [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532353.m3u8
-#EXTINF:-1 tvg-id="ID.br" tvg-name="Discovery ID [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/id.png" group-title="Discovery",Discovery ID [3]
+#EXTINF:-1 tvg-id="ID.br" tvg-name="Discovery ID [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/id.png" group-title="DISCOVERY",Discovery ID [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27511518.m3u8
-#EXTINF:-1 tvg-id="ID.br" tvg-name="Discovery ID [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/id.png" group-title="Discovery",Discovery ID [4]
+#EXTINF:-1 tvg-id="ID.br" tvg-name="Discovery ID [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/id.png" group-title="DISCOVERY",Discovery ID [4]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532434.m3u8
-#EXTINF:-1 tvg-id="ID.br" tvg-name="Discovery ID [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/id.png" group-title="Discovery",Discovery ID [5]
+#EXTINF:-1 tvg-id="ID.br" tvg-name="Discovery ID [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/id.png" group-title="DISCOVERY",Discovery ID [5]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27511517.m3u8
-#EXTINF:-1 tvg-id="Discovery Science.br" tvg-name="Discovery Science [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-science.png" group-title="Discovery",Discovery Science [1]
+#EXTINF:-1 tvg-id="Discovery Science.br" tvg-name="Discovery Science [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-science.png" group-title="DISCOVERY",Discovery Science [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27511531.m3u8
-#EXTINF:-1 tvg-id="Discovery Science.br" tvg-name="Discovery Science [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-science.png" group-title="Discovery",Discovery Science [2]
+#EXTINF:-1 tvg-id="Discovery Science.br" tvg-name="Discovery Science [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-science.png" group-title="DISCOVERY",Discovery Science [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532323.m3u8
-#EXTINF:-1 tvg-id="Discovery Science.br" tvg-name="Discovery Science [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-science.png" group-title="Discovery",Discovery Science [3]
+#EXTINF:-1 tvg-id="Discovery Science.br" tvg-name="Discovery Science [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-science.png" group-title="DISCOVERY",Discovery Science [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27511530.m3u8
-#EXTINF:-1 tvg-id="Discovery Science.br" tvg-name="Discovery Science [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-science.png" group-title="Discovery",Discovery Science [4]
+#EXTINF:-1 tvg-id="Discovery Science.br" tvg-name="Discovery Science [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-science.png" group-title="DISCOVERY",Discovery Science [4]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532394.m3u8
-#EXTINF:-1 tvg-id="Discovery Science.br" tvg-name="Discovery Science [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-science.png" group-title="Discovery",Discovery Science [5]
+#EXTINF:-1 tvg-id="Discovery Science.br" tvg-name="Discovery Science [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-science.png" group-title="DISCOVERY",Discovery Science [5]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27511529.m3u8
-#EXTINF:-1 tvg-id="Cartoon Network.br" tvg-name="Cartoon Network [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cartoon-network.png" group-title="Infantil",Cartoon Network [1]
+#EXTINF:-1 tvg-id="Cartoon Network.br" tvg-name="Cartoon Network [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cartoon-network.png" group-title="INFANTIL",Cartoon Network [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27512548.m3u8
-#EXTINF:-1 tvg-id="Cartoon Network.br" tvg-name="Cartoon Network [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cartoon-network.png" group-title="Infantil",Cartoon Network [2]
+#EXTINF:-1 tvg-id="Cartoon Network.br" tvg-name="Cartoon Network [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cartoon-network.png" group-title="INFANTIL",Cartoon Network [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27512547.m3u8
-#EXTINF:-1 tvg-id="Cartoon Network.br" tvg-name="Cartoon Network [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cartoon-network.png" group-title="Infantil",Cartoon Network [3]
+#EXTINF:-1 tvg-id="Cartoon Network.br" tvg-name="Cartoon Network [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cartoon-network.png" group-title="INFANTIL",Cartoon Network [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27512546.m3u8
-#EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="Cartoonito [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cartoonito.png" group-title="Infantil",Cartoonito [1]
+#EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="Cartoonito [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cartoonito.png" group-title="INFANTIL",Cartoonito [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27512545.m3u8
-#EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="Cartoonito [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cartoonito.png" group-title="Infantil",Cartoonito [2]
+#EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="Cartoonito [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cartoonito.png" group-title="INFANTIL",Cartoonito [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27512544.m3u8
-#EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="Cartoonito [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cartoonito.png" group-title="Infantil",Cartoonito [3]
+#EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="Cartoonito [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cartoonito.png" group-title="INFANTIL",Cartoonito [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27512543.m3u8
-#EXTINF:-1 tvg-id="Discovery Kids.br" tvg-name="Discovery Kids [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-kids.png" group-title="Infantil",Discovery Kids [1]
+#EXTINF:-1 tvg-id="Discovery Kids.br" tvg-name="Discovery Kids [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-kids.png" group-title="INFANTIL",Discovery Kids [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27512542.m3u8
-#EXTINF:-1 tvg-id="Discovery Kids.br" tvg-name="Discovery Kids [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-kids.png" group-title="Infantil",Discovery Kids [2]
+#EXTINF:-1 tvg-id="Discovery Kids.br" tvg-name="Discovery Kids [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-kids.png" group-title="INFANTIL",Discovery Kids [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532322.m3u8
-#EXTINF:-1 tvg-id="Discovery Kids.br" tvg-name="Discovery Kids [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-kids.png" group-title="Infantil",Discovery Kids [3]
+#EXTINF:-1 tvg-id="Discovery Kids.br" tvg-name="Discovery Kids [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-kids.png" group-title="INFANTIL",Discovery Kids [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27512541.m3u8
-#EXTINF:-1 tvg-id="Discovery Kids.br" tvg-name="Discovery Kids [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-kids.png" group-title="Infantil",Discovery Kids [4]
+#EXTINF:-1 tvg-id="Discovery Kids.br" tvg-name="Discovery Kids [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-kids.png" group-title="INFANTIL",Discovery Kids [4]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532393.m3u8
-#EXTINF:-1 tvg-id="Discovery Kids.br" tvg-name="Discovery Kids [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-kids.png" group-title="Infantil",Discovery Kids [5]
+#EXTINF:-1 tvg-id="Discovery Kids.br" tvg-name="Discovery Kids [5]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-kids.png" group-title="INFANTIL",Discovery Kids [5]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27512540.m3u8
-#EXTINF:-1 tvg-id="dumdum.br" tvg-name="Dum Dum [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/dumdum.png" group-title="Infantil",Dum Dum [1]
+#EXTINF:-1 tvg-id="dumdum.br" tvg-name="Dum Dum [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/dumdum.png" group-title="INFANTIL",Dum Dum [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27512539.m3u8
-#EXTINF:-1 tvg-id="dumdum.br" tvg-name="Dum Dum [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/dumdum.png" group-title="Infantil",Dum Dum [2]
+#EXTINF:-1 tvg-id="dumdum.br" tvg-name="Dum Dum [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/dumdum.png" group-title="INFANTIL",Dum Dum [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27512538.m3u8
-#EXTINF:-1 tvg-id="dumdum.br" tvg-name="Dum Dum [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/dumdum.png" group-title="Infantil",Dum Dum [3]
+#EXTINF:-1 tvg-id="dumdum.br" tvg-name="Dum Dum [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/dumdum.png" group-title="INFANTIL",Dum Dum [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27512537.m3u8
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="Gloob [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/gloob.png" group-title="Infantil",Gloob [1]
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="Gloob [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/gloob.png" group-title="INFANTIL",Gloob [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27512536.m3u8
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="Gloob [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/gloob.png" group-title="Infantil",Gloob [2]
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="Gloob [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/gloob.png" group-title="INFANTIL",Gloob [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27512535.m3u8
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="Gloob [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/gloob.png" group-title="Infantil",Gloob [3]
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="Gloob [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/gloob.png" group-title="INFANTIL",Gloob [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27512534.m3u8
-#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="Gloobinho [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/gloobinho.png" group-title="Infantil",Gloobinho [1]
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="Gloobinho [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/gloobinho.png" group-title="INFANTIL",Gloobinho [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27512533.m3u8
-#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="Gloobinho [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/gloobinho.png" group-title="Infantil",Gloobinho [2]
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="Gloobinho [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/gloobinho.png" group-title="INFANTIL",Gloobinho [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27512532.m3u8
-#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="Gloobinho [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/gloobinho.png" group-title="Infantil",Gloobinho [3]
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="Gloobinho [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/gloobinho.png" group-title="INFANTIL",Gloobinho [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27512531.m3u8
-#EXTINF:-1 tvg-id="Nick Jr..br" tvg-name="Nick Jr. [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/nick-jr.png" group-title="Infantil",Nick Jr. [1]
+#EXTINF:-1 tvg-id="Nick Jr..br" tvg-name="Nick Jr. [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/nick-jr.png" group-title="INFANTIL",Nick Jr. [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27512530.m3u8
-#EXTINF:-1 tvg-id="Nick Jr..br" tvg-name="Nick Jr. [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/nick-jr.png" group-title="Infantil",Nick Jr. [2]
+#EXTINF:-1 tvg-id="Nick Jr..br" tvg-name="Nick Jr. [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/nick-jr.png" group-title="INFANTIL",Nick Jr. [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27512529.m3u8
-#EXTINF:-1 tvg-id="Nick Jr..br" tvg-name="Nick Jr. [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/nick-jr.png" group-title="Infantil",Nick Jr. [3]
+#EXTINF:-1 tvg-id="Nick Jr..br" tvg-name="Nick Jr. [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/nick-jr.png" group-title="INFANTIL",Nick Jr. [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27512528.m3u8
-#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="Tooncast [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tooncast.png" group-title="Infantil",Tooncast [1]
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="Tooncast [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tooncast.png" group-title="INFANTIL",Tooncast [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27512524.m3u8
-#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="Tooncast [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tooncast.png" group-title="Infantil",Tooncast [2]
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="Tooncast [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tooncast.png" group-title="INFANTIL",Tooncast [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27512523.m3u8
-#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="Tooncast [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tooncast.png" group-title="Infantil",Tooncast [3]
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="Tooncast [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tooncast.png" group-title="INFANTIL",Tooncast [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27512522.m3u8
-#EXTINF:-1 tvg-id="TV RÁ Tim Bum.br" tvg-name="TV Ra Tim Bum [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-ra-tim-bum.png" group-title="Infantil",TV Ra Tim Bum [1]
+#EXTINF:-1 tvg-id="TV RÁ Tim Bum.br" tvg-name="TV Ra Tim Bum [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-ra-tim-bum.png" group-title="INFANTIL",TV Ra Tim Bum [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27512521.m3u8
-#EXTINF:-1 tvg-id="TV RÁ Tim Bum.br" tvg-name="TV Ra Tim Bum [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-ra-tim-bum.png" group-title="Infantil",TV Ra Tim Bum [2]
+#EXTINF:-1 tvg-id="TV RÁ Tim Bum.br" tvg-name="TV Ra Tim Bum [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-ra-tim-bum.png" group-title="INFANTIL",TV Ra Tim Bum [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513335.m3u8
-#EXTINF:-1 tvg-id="TV RÁ Tim Bum.br" tvg-name="TV Ra Tim Bum [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-ra-tim-bum.png" group-title="Infantil",TV Ra Tim Bum [3]
+#EXTINF:-1 tvg-id="TV RÁ Tim Bum.br" tvg-name="TV Ra Tim Bum [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-ra-tim-bum.png" group-title="INFANTIL",TV Ra Tim Bum [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27512520.m3u8
-#EXTINF:-1 tvg-id="TV RÁ Tim Bum.br" tvg-name="TV Ra Tim Bum [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-ra-tim-bum.png" group-title="Infantil",TV Ra Tim Bum [4]
+#EXTINF:-1 tvg-id="TV RÁ Tim Bum.br" tvg-name="TV Ra Tim Bum [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-ra-tim-bum.png" group-title="INFANTIL",TV Ra Tim Bum [4]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27512519.m3u8
-#EXTINF:-1 tvg-id="Animal Planet.br" tvg-name="Animal Planet [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/animal-planet.png" group-title="Documentários",Animal Planet [1]
+#EXTINF:-1 tvg-id="Animal Planet.br" tvg-name="Animal Planet [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/animal-planet.png" group-title="DOCUMENTÁRIOS",Animal Planet [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514606.m3u8
-#EXTINF:-1 tvg-id="Animal Planet.br" tvg-name="Animal Planet [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/animal-planet.png" group-title="Documentários",Animal Planet [2]
+#EXTINF:-1 tvg-id="Animal Planet.br" tvg-name="Animal Planet [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/animal-planet.png" group-title="DOCUMENTÁRIOS",Animal Planet [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532295.m3u8
-#EXTINF:-1 tvg-id="Animal Planet.br" tvg-name="Animal Planet [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/animal-planet.png" group-title="Documentários",Animal Planet [3]
+#EXTINF:-1 tvg-id="Animal Planet.br" tvg-name="Animal Planet [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/animal-planet.png" group-title="DOCUMENTÁRIOS",Animal Planet [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514605.m3u8
-#EXTINF:-1 tvg-id="Animal Planet.br" tvg-name="Animal Planet [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/animal-planet.png" group-title="Documentários",Animal Planet [4]
+#EXTINF:-1 tvg-id="Animal Planet.br" tvg-name="Animal Planet [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/animal-planet.png" group-title="DOCUMENTÁRIOS",Animal Planet [4]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514604.m3u8
-#EXTINF:-1 tvg-id="HGTV.br" tvg-name="HGTV [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hgtv.png" group-title="Documentários",HGTV [1]
+#EXTINF:-1 tvg-id="HGTV.br" tvg-name="HGTV [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hgtv.png" group-title="DOCUMENTÁRIOS",HGTV [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514603.m3u8
-#EXTINF:-1 tvg-id="HGTV.br" tvg-name="HGTV [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hgtv.png" group-title="Documentários",HGTV [2]
+#EXTINF:-1 tvg-id="HGTV.br" tvg-name="HGTV [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hgtv.png" group-title="DOCUMENTÁRIOS",HGTV [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513405.m3u8
-#EXTINF:-1 tvg-id="HGTV.br" tvg-name="HGTV [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hgtv.png" group-title="Documentários",HGTV [3]
+#EXTINF:-1 tvg-id="HGTV.br" tvg-name="HGTV [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hgtv.png" group-title="DOCUMENTÁRIOS",HGTV [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514602.m3u8
-#EXTINF:-1 tvg-id="HGTV.br" tvg-name="HGTV [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hgtv.png" group-title="Documentários",HGTV [4]
+#EXTINF:-1 tvg-id="HGTV.br" tvg-name="HGTV [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hgtv.png" group-title="DOCUMENTÁRIOS",HGTV [4]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514601.m3u8
-#EXTINF:-1 tvg-id="History Channel.br" tvg-name="History [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/history.png" group-title="Documentários",History [1]
+#EXTINF:-1 tvg-id="History Channel.br" tvg-name="History [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/history.png" group-title="DOCUMENTÁRIOS",History [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514600.m3u8
-#EXTINF:-1 tvg-id="History Channel.br" tvg-name="History [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/history.png" group-title="Documentários",History [2]
+#EXTINF:-1 tvg-id="History Channel.br" tvg-name="History [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/history.png" group-title="DOCUMENTÁRIOS",History [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513403.m3u8
-#EXTINF:-1 tvg-id="History Channel.br" tvg-name="History [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/history.png" group-title="Documentários",History [3]
+#EXTINF:-1 tvg-id="History Channel.br" tvg-name="History [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/history.png" group-title="DOCUMENTÁRIOS",History [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514599.m3u8
-#EXTINF:-1 tvg-id="History Channel.br" tvg-name="History [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/history.png" group-title="Documentários",History [4]
+#EXTINF:-1 tvg-id="History Channel.br" tvg-name="History [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/history.png" group-title="DOCUMENTÁRIOS",History [4]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514598.m3u8
-#EXTINF:-1 tvg-id="History 2.br" tvg-name="History 2 [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/history2.png" group-title="Documentários",History 2 [1]
+#EXTINF:-1 tvg-id="History 2.br" tvg-name="History 2 [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/history2.png" group-title="DOCUMENTÁRIOS",History 2 [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514597.m3u8
-#EXTINF:-1 tvg-id="History 2.br" tvg-name="History 2 [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/history2.png" group-title="Documentários",History 2 [2]
+#EXTINF:-1 tvg-id="History 2.br" tvg-name="History 2 [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/history2.png" group-title="DOCUMENTÁRIOS",History 2 [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513404.m3u8
-#EXTINF:-1 tvg-id="History 2.br" tvg-name="History 2 [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/history2.png" group-title="Documentários",History 2 [3]
+#EXTINF:-1 tvg-id="History 2.br" tvg-name="History 2 [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/history2.png" group-title="DOCUMENTÁRIOS",History 2 [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514596.m3u8
-#EXTINF:-1 tvg-id="History 2.br" tvg-name="History 2 [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/history2.png" group-title="Documentários",History 2 [4]
+#EXTINF:-1 tvg-id="History 2.br" tvg-name="History 2 [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/history2.png" group-title="DOCUMENTÁRIOS",History 2 [4]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514595.m3u8
-#EXTINF:-1 tvg-id="Markket.br" tvg-name="Markket [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/markket-tv.png" group-title="Documentários",Markket [1]
+#EXTINF:-1 tvg-id="Markket.br" tvg-name="Markket [1]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/markket-tv.png" group-title="DOCUMENTÁRIOS",Markket [1]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514594.m3u8
-#EXTINF:-1 tvg-id="Markket.br" tvg-name="Markket [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/markket-tv.png" group-title="Documentários",Markket [2]
+#EXTINF:-1 tvg-id="Markket.br" tvg-name="Markket [2]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/markket-tv.png" group-title="DOCUMENTÁRIOS",Markket [2]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513398.m3u8
-#EXTINF:-1 tvg-id="Markket.br" tvg-name="Markket [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/markket-tv.png" group-title="Documentários",Markket [3]
+#EXTINF:-1 tvg-id="Markket.br" tvg-name="Markket [3]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/markket-tv.png" group-title="DOCUMENTÁRIOS",Markket [3]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514593.m3u8
-#EXTINF:-1 tvg-id="Markket.br" tvg-name="Markket [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/markket-tv.png" group-title="Documentários",Markket [4]
+#EXTINF:-1 tvg-id="Markket.br" tvg-name="Markket [4]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/markket-tv.png" group-title="DOCUMENTÁRIOS",Markket [4]
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514592.m3u8
