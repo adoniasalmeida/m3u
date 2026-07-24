@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://www.open-epg.com/files/brazil1.xml"
+#EXTM3U url-tvg="https://www.open-epg.com/files/brazil1.xml,https://www.open-epg.com/files/brazil4.xml,https://iptv-epg.org/files/epg-br.xml"
 #EXTINF:-1 tvg-id="Globo HD.br" tvg-name="GLOBO SP 4K FHDR" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globo.png" group-title="🔴 CANAIS UHD 4K",GLOBO SP 4K FHDR
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/100718.ts
 #EXTINF:-1 tvg-id="AMC Brasil.br" tvg-name="AMC 4K" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/amc.png" group-title="🔴 CANAIS UHD 4K",AMC 4K
@@ -27,37 +27,37 @@ http://bmnew26.site:80/live/Saldanha/Capoeira2308/100724.ts
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/100700.ts
 #EXTINF:-1 tvg-id="Viva HD.br" tvg-name="GLOBOPLAY NOVELAS 4K" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globoplay-novelas.png" group-title="🔴 CANAIS UHD 4K",GLOBOPLAY NOVELAS 4K
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/100699.ts
-#EXTINF:-1 tvg-id="Globo SP.br" tvg-name="GLOBO SP FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globo.png" group-title="🔴  GLOBO CAPITAIS",GLOBO SP FHD
+#EXTINF:-1 tvg-id="Globo SP.br" tvg-name="GLOBO SP FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globo.png" group-title="🔴 GLOBO CAPITAIS",GLOBO SP FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784469.ts
-#EXTINF:-1 tvg-id="Globo SP.br" tvg-name="GLOBO SP FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globo.png" group-title="🔴  GLOBO CAPITAIS",GLOBO SP FHD [ALT]
+#EXTINF:-1 tvg-id="Globo SP.br" tvg-name="GLOBO SP FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globo.png" group-title="🔴 GLOBO CAPITAIS",GLOBO SP FHD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479830.ts
-#EXTINF:-1 tvg-id="Globo SP.br" tvg-name="GLOBO SP HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globo.png" group-title="🔴  GLOBO CAPITAIS",GLOBO SP HD
+#EXTINF:-1 tvg-id="Globo SP.br" tvg-name="GLOBO SP HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globo.png" group-title="🔴 GLOBO CAPITAIS",GLOBO SP HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784470.ts
-#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="GLOBO SP HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globo.png" group-title="🔴  GLOBO CAPITAIS",GLOBO SP HD [ALT]
+#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="GLOBO SP HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globo.png" group-title="🔴 GLOBO CAPITAIS",GLOBO SP HD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479831.ts
-#EXTINF:-1 tvg-id="Globo SP.br" tvg-name="GLOBO SP SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globo.png" group-title="🔴  GLOBO CAPITAIS",GLOBO SP SD
+#EXTINF:-1 tvg-id="Globo SP.br" tvg-name="GLOBO SP SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globo.png" group-title="🔴 GLOBO CAPITAIS",GLOBO SP SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784471.ts
-#EXTINF:-1 tvg-id="TV Verdes Mares HD.br" tvg-name="GLOBO VERDES MARES CEARA FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/verdes-mares.png" group-title="🔴  GLOBO CAPITAIS",GLOBO VERDES MARES CEARA FHD
+#EXTINF:-1 tvg-id="TV Verdes Mares HD.br" tvg-name="GLOBO VERDES MARES CEARA FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/verdes-mares.png" group-title="🔴 GLOBO CAPITAIS",GLOBO VERDES MARES CEARA FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784574.ts
-#EXTINF:-1 tvg-id="TV Verdes Mares HD.br" tvg-name="GLOBO VERDES MARES CEARA HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/verdes-mares.png" group-title="🔴  GLOBO CAPITAIS",GLOBO VERDES MARES CEARA HD
+#EXTINF:-1 tvg-id="TV Verdes Mares HD.br" tvg-name="GLOBO VERDES MARES CEARA HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/verdes-mares.png" group-title="🔴 GLOBO CAPITAIS",GLOBO VERDES MARES CEARA HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784577.ts
-#EXTINF:-1 tvg-id="TV Verdes Mares HD.br" tvg-name="GLOBO VERDES MARES CEARA SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/verdes-mares.png" group-title="🔴  GLOBO CAPITAIS",GLOBO VERDES MARES CEARA SD
+#EXTINF:-1 tvg-id="TV Verdes Mares HD.br" tvg-name="GLOBO VERDES MARES CEARA SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/verdes-mares.png" group-title="🔴 GLOBO CAPITAIS",GLOBO VERDES MARES CEARA SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784576.ts
-#EXTINF:-1 tvg-id="Record TV HD.br" tvg-name="RECORD SP FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/record.png" group-title="🔴  REDE RECORD",RECORD SP FHD
+#EXTINF:-1 tvg-id="Record TV HD.br" tvg-name="RECORD SP FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/record.png" group-title="🔴 REDE RECORD",RECORD SP FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784811.ts
-#EXTINF:-1 tvg-id="Record TV HD.br" tvg-name="RECORD SP HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/record.png" group-title="🔴  REDE RECORD",RECORD SP HD
+#EXTINF:-1 tvg-id="Record TV HD.br" tvg-name="RECORD SP HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/record.png" group-title="🔴 REDE RECORD",RECORD SP HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784812.ts
-#EXTINF:-1 tvg-id="Record TV HD.br" tvg-name="RECORD SP SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/record.png" group-title="🔴  REDE RECORD",RECORD SP SD
+#EXTINF:-1 tvg-id="Record TV HD.br" tvg-name="RECORD SP SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/record.png" group-title="🔴 REDE RECORD",RECORD SP SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784813.ts
-#EXTINF:-1 tvg-id="Record TV Fortaleza.br" tvg-name="RECORD TV CIDADE CEARA" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-cidade.png" group-title="🔴  REDE RECORD",RECORD TV CIDADE CEARA
+#EXTINF:-1 tvg-id="Record TV Fortaleza.br" tvg-name="RECORD TV CIDADE CEARA" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-cidade.png" group-title="🔴 REDE RECORD",RECORD TV CIDADE CEARA
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784815.ts
-#EXTINF:-1 tvg-id="SBT HD.br" tvg-name="SBT SP FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/sbt.png" group-title="🔴  SBT",SBT SP FHD
+#EXTINF:-1 tvg-id="SBT HD.br" tvg-name="SBT SP FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/sbt.png" group-title="🔴 SBT",SBT SP FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/91854.ts
-#EXTINF:-1 tvg-id="SBT HD.br" tvg-name="SBT SP HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/sbt.png" group-title="🔴  SBT",SBT SP HD
+#EXTINF:-1 tvg-id="SBT HD.br" tvg-name="SBT SP HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/sbt.png" group-title="🔴 SBT",SBT SP HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/91855.ts
-#EXTINF:-1 tvg-id="SBT HD.br" tvg-name="SBT SP SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/sbt.png" group-title="🔴  SBT",SBT SP SD
+#EXTINF:-1 tvg-id="SBT HD.br" tvg-name="SBT SP SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/sbt.png" group-title="🔴 SBT",SBT SP SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208410.ts
-#EXTINF:-1 tvg-id="TV Jangadeiro.br" tvg-name="SBT TV JANGADEIRO -CEARA" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-jangadeiro.png" group-title="🔴  SBT",SBT TV JANGADEIRO -CEARA
+#EXTINF:-1 tvg-id="TV Jangadeiro.br" tvg-name="SBT TV JANGADEIRO -CEARA" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-jangadeiro.png" group-title="🔴 SBT",SBT TV JANGADEIRO -CEARA
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/91870.ts
 #EXTINF:-1 tvg-id="Band HD.br" tvg-name="BAND SP FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/band.png" group-title="🔴 REDE BANDEIRANTES",BAND SP FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/102793.ts
@@ -69,409 +69,409 @@ http://bmnew26.site:80/live/Saldanha/Capoeira2308/208415.ts
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/102799.ts
 #EXTINF:-1 tvg-id="Band HD.br" tvg-name="BAND CEARA FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/band.png" group-title="🔴 REDE BANDEIRANTES",BAND CEARA FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/102803.ts
-#EXTINF:-1 tvg-id="Arte 1 HD.br" tvg-name="ARTE 1  FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/arte1.png" group-title="🔴  VARIEDADES",ARTE 1  FHD [ALT]
+#EXTINF:-1 tvg-id="Arte 1 HD.br" tvg-name="ARTE 1  FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/arte1.png" group-title="🔴 VARIEDADES",ARTE 1  FHD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479525.ts
-#EXTINF:-1 tvg-id="Arte 1 HD.br" tvg-name="ARTE 1  HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/arte1.png" group-title="🔴  VARIEDADES",ARTE 1  HD [ALT]
+#EXTINF:-1 tvg-id="Arte 1 HD.br" tvg-name="ARTE 1  HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/arte1.png" group-title="🔴 VARIEDADES",ARTE 1  HD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479526.ts
-#EXTINF:-1 tvg-id="Arte 1 HD.br" tvg-name="ARTE 1  SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/arte1.png" group-title="🔴  VARIEDADES",ARTE 1  SD
+#EXTINF:-1 tvg-id="Arte 1 HD.br" tvg-name="ARTE 1  SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/arte1.png" group-title="🔴 VARIEDADES",ARTE 1  SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99934.ts
-#EXTINF:-1 tvg-id="Arte 1 HD.br" tvg-name="ARTE 1 FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/arte1.png" group-title="🔴  VARIEDADES",ARTE 1 FHD
+#EXTINF:-1 tvg-id="Arte 1 HD.br" tvg-name="ARTE 1 FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/arte1.png" group-title="🔴 VARIEDADES",ARTE 1 FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99935.ts
-#EXTINF:-1 tvg-id="Arte 1 HD.br" tvg-name="ARTE 1 HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/arte1.png" group-title="🔴  VARIEDADES",ARTE 1 HD
+#EXTINF:-1 tvg-id="Arte 1 HD.br" tvg-name="ARTE 1 HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/arte1.png" group-title="🔴 VARIEDADES",ARTE 1 HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99936.ts
-#EXTINF:-1 tvg-id="BIS HD.br" tvg-name="BIS FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/bis.png" group-title="🔴  VARIEDADES",BIS FHD
+#EXTINF:-1 tvg-id="BIS HD.br" tvg-name="BIS FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/bis.png" group-title="🔴 VARIEDADES",BIS FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99937.ts
-#EXTINF:-1 tvg-id="BIS HD.br" tvg-name="BIS FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/bis.png" group-title="🔴  VARIEDADES",BIS FHD [ALT]
+#EXTINF:-1 tvg-id="BIS HD.br" tvg-name="BIS FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/bis.png" group-title="🔴 VARIEDADES",BIS FHD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479528.ts
-#EXTINF:-1 tvg-id="BIS HD.br" tvg-name="BIS HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/bis.png" group-title="🔴  VARIEDADES",BIS HD
+#EXTINF:-1 tvg-id="BIS HD.br" tvg-name="BIS HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/bis.png" group-title="🔴 VARIEDADES",BIS HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99938.ts
-#EXTINF:-1 tvg-id="BIS HD.br" tvg-name="BIS HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/bis.png" group-title="🔴  VARIEDADES",BIS HD [ALT]
+#EXTINF:-1 tvg-id="BIS HD.br" tvg-name="BIS HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/bis.png" group-title="🔴 VARIEDADES",BIS HD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479529.ts
-#EXTINF:-1 tvg-id="BIS HD.br" tvg-name="BIS SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/bis.png" group-title="🔴  VARIEDADES",BIS SD
+#EXTINF:-1 tvg-id="BIS HD.br" tvg-name="BIS SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/bis.png" group-title="🔴 VARIEDADES",BIS SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99939.ts
-#EXTINF:-1 tvg-id="TLC HD.br" tvg-name="DISCOVERY TLC FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tlc.png" group-title="🔴  VARIEDADES",DISCOVERY TLC FHD
+#EXTINF:-1 tvg-id="TLC HD.br" tvg-name="DISCOVERY TLC FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tlc.png" group-title="🔴 VARIEDADES",DISCOVERY TLC FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99961.ts
-#EXTINF:-1 tvg-id="TLC HD.br" tvg-name="DISCOVERY TLC HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tlc.png" group-title="🔴  VARIEDADES",DISCOVERY TLC HD
+#EXTINF:-1 tvg-id="TLC HD.br" tvg-name="DISCOVERY TLC HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tlc.png" group-title="🔴 VARIEDADES",DISCOVERY TLC HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99962.ts
-#EXTINF:-1 tvg-id="E! HD.br" tvg-name="E! FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/e!.png" group-title="🔴  VARIEDADES",E! FHD
+#EXTINF:-1 tvg-id="E! HD.br" tvg-name="E! FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/e!.png" group-title="🔴 VARIEDADES",E! FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99943.ts
-#EXTINF:-1 tvg-id="E! HD.br" tvg-name="E! FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/e!.png" group-title="🔴  VARIEDADES",E! FHD [ALT]
+#EXTINF:-1 tvg-id="E! HD.br" tvg-name="E! FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/e!.png" group-title="🔴 VARIEDADES",E! FHD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479542.ts
-#EXTINF:-1 tvg-id="E! HD.br" tvg-name="E! HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/e!.png" group-title="🔴  VARIEDADES",E! HD
+#EXTINF:-1 tvg-id="E! HD.br" tvg-name="E! HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/e!.png" group-title="🔴 VARIEDADES",E! HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99944.ts
-#EXTINF:-1 tvg-id="E! HD.br" tvg-name="E! HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/e!.png" group-title="🔴  VARIEDADES",E! HD [ALT]
+#EXTINF:-1 tvg-id="E! HD.br" tvg-name="E! HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/e!.png" group-title="🔴 VARIEDADES",E! HD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479543.ts
-#EXTINF:-1 tvg-id="E! HD.br" tvg-name="E! SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/e!.png" group-title="🔴  VARIEDADES",E! SD
+#EXTINF:-1 tvg-id="E! HD.br" tvg-name="E! SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/e!.png" group-title="🔴 VARIEDADES",E! SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99945.ts
-#EXTINF:-1 tvg-id="Eurochannel.br" tvg-name="EUROCHANNEL FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/euro-channel.png" group-title="🔴  VARIEDADES",EUROCHANNEL FHD
+#EXTINF:-1 tvg-id="Eurochannel.br" tvg-name="EUROCHANNEL FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/euro-channel.png" group-title="🔴 VARIEDADES",EUROCHANNEL FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/727315.ts
-#EXTINF:-1 tvg-id="Eurochannel.br" tvg-name="EUROCHANNEL HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/euro-channel.png" group-title="🔴  VARIEDADES",EUROCHANNEL HD
+#EXTINF:-1 tvg-id="Eurochannel.br" tvg-name="EUROCHANNEL HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/euro-channel.png" group-title="🔴 VARIEDADES",EUROCHANNEL HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/727314.ts
-#EXTINF:-1 tvg-id="Food Network HD Brasil.br" tvg-name="FOOD NETWORK FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/food-network.png" group-title="🔴  VARIEDADES",FOOD NETWORK FHD
+#EXTINF:-1 tvg-id="Food Network HD Brasil.br" tvg-name="FOOD NETWORK FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/food-network.png" group-title="🔴 VARIEDADES",FOOD NETWORK FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99946.ts
-#EXTINF:-1 tvg-id="Food Network HD Brasil.br" tvg-name="FOOD NETWORK FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/food-network.png" group-title="🔴  VARIEDADES",FOOD NETWORK FHD [ALT]
+#EXTINF:-1 tvg-id="Food Network HD Brasil.br" tvg-name="FOOD NETWORK FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/food-network.png" group-title="🔴 VARIEDADES",FOOD NETWORK FHD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479553.ts
-#EXTINF:-1 tvg-id="Food Network HD Brasil.br" tvg-name="FOOD NETWORK HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/food-network.png" group-title="🔴  VARIEDADES",FOOD NETWORK HD
+#EXTINF:-1 tvg-id="Food Network HD Brasil.br" tvg-name="FOOD NETWORK HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/food-network.png" group-title="🔴 VARIEDADES",FOOD NETWORK HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99947.ts
-#EXTINF:-1 tvg-id="Food Network HD Brasil.br" tvg-name="FOOD NETWORK HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/food-network.png" group-title="🔴  VARIEDADES",FOOD NETWORK HD [ALT]
+#EXTINF:-1 tvg-id="Food Network HD Brasil.br" tvg-name="FOOD NETWORK HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/food-network.png" group-title="🔴 VARIEDADES",FOOD NETWORK HD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479554.ts
-#EXTINF:-1 tvg-id="Food Network HD Brasil.br" tvg-name="FOOD NETWORK SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/food-network.png" group-title="🔴  VARIEDADES",FOOD NETWORK SD
+#EXTINF:-1 tvg-id="Food Network HD Brasil.br" tvg-name="FOOD NETWORK SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/food-network.png" group-title="🔴 VARIEDADES",FOOD NETWORK SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99948.ts
-#EXTINF:-1 tvg-id="GNT HD.br" tvg-name="GNT FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/gnt.png" group-title="🔴  VARIEDADES",GNT FHD
+#EXTINF:-1 tvg-id="GNT HD.br" tvg-name="GNT FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/gnt.png" group-title="🔴 VARIEDADES",GNT FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99949.ts
-#EXTINF:-1 tvg-id="GNT HD.br" tvg-name="GNT FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/gnt.png" group-title="🔴  VARIEDADES",GNT FHD [ALT]
+#EXTINF:-1 tvg-id="GNT HD.br" tvg-name="GNT FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/gnt.png" group-title="🔴 VARIEDADES",GNT FHD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479557.ts
-#EXTINF:-1 tvg-id="GNT HD.br" tvg-name="GNT HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/gnt.png" group-title="🔴  VARIEDADES",GNT HD
+#EXTINF:-1 tvg-id="GNT HD.br" tvg-name="GNT HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/gnt.png" group-title="🔴 VARIEDADES",GNT HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99950.ts
-#EXTINF:-1 tvg-id="GNT HD.br" tvg-name="GNT HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/gnt.png" group-title="🔴  VARIEDADES",GNT HD [ALT]
+#EXTINF:-1 tvg-id="GNT HD.br" tvg-name="GNT HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/gnt.png" group-title="🔴 VARIEDADES",GNT HD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479558.ts
-#EXTINF:-1 tvg-id="GNT HD.br" tvg-name="GNT SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/gnt.png" group-title="🔴  VARIEDADES",GNT SD
+#EXTINF:-1 tvg-id="GNT HD.br" tvg-name="GNT SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/gnt.png" group-title="🔴 VARIEDADES",GNT SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99951.ts
-#EXTINF:-1 tvg-id="Ideal TV.br" tvg-name="IDEAL TV HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/ideal-tv.png" group-title="🔴  VARIEDADES",IDEAL TV HD
+#EXTINF:-1 tvg-id="Ideal TV.br" tvg-name="IDEAL TV HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/ideal-tv.png" group-title="🔴 VARIEDADES",IDEAL TV HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/727282.ts
-#EXTINF:-1 tvg-id="Lifetime Brazil.br" tvg-name="LIFETIME  HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/lifetime.png" group-title="🔴  VARIEDADES",LIFETIME  HD [ALT]
+#EXTINF:-1 tvg-id="Lifetime Brazil.br" tvg-name="LIFETIME  HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/lifetime.png" group-title="🔴 VARIEDADES",LIFETIME  HD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479565.ts
-#EXTINF:-1 tvg-id="Lifetime Brazil.br" tvg-name="LIFETIME  SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/lifetime.png" group-title="🔴  VARIEDADES",LIFETIME  SD
+#EXTINF:-1 tvg-id="Lifetime Brazil.br" tvg-name="LIFETIME  SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/lifetime.png" group-title="🔴 VARIEDADES",LIFETIME  SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99952.ts
-#EXTINF:-1 tvg-id="Lifetime Brazil.br" tvg-name="LIFETIME FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/lifetime.png" group-title="🔴  VARIEDADES",LIFETIME FHD
+#EXTINF:-1 tvg-id="Lifetime Brazil.br" tvg-name="LIFETIME FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/lifetime.png" group-title="🔴 VARIEDADES",LIFETIME FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99953.ts
-#EXTINF:-1 tvg-id="Lifetime Brazil.br" tvg-name="LIFETIME FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/lifetime.png" group-title="🔴  VARIEDADES",LIFETIME FHD [ALT]
+#EXTINF:-1 tvg-id="Lifetime Brazil.br" tvg-name="LIFETIME FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/lifetime.png" group-title="🔴 VARIEDADES",LIFETIME FHD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479564.ts
-#EXTINF:-1 tvg-id="Lifetime Brazil.br" tvg-name="LIFETIME HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/lifetime.png" group-title="🔴  VARIEDADES",LIFETIME HD
+#EXTINF:-1 tvg-id="Lifetime Brazil.br" tvg-name="LIFETIME HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/lifetime.png" group-title="🔴 VARIEDADES",LIFETIME HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99954.ts
-#EXTINF:-1 tvg-name="LIKE FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/canal-like.png" group-title="🔴  VARIEDADES",LIKE FHD [ALT]
+#EXTINF:-1 tvg-name="LIKE FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/canal-like.png" group-title="🔴 VARIEDADES",LIKE FHD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479567.ts
-#EXTINF:-1 tvg-name="LIKE HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/canal-like.png" group-title="🔴  VARIEDADES",LIKE HD [ALT]
+#EXTINF:-1 tvg-name="LIKE HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/canal-like.png" group-title="🔴 VARIEDADES",LIKE HD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479568.ts
-#EXTINF:-1 tvg-id="Multishow HD.br" tvg-name="MULTISHOW FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/multshow.png" group-title="🔴  VARIEDADES",MULTISHOW FHD
+#EXTINF:-1 tvg-id="Multishow HD.br" tvg-name="MULTISHOW FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/multshow.png" group-title="🔴 VARIEDADES",MULTISHOW FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99957.ts
-#EXTINF:-1 tvg-id="Multishow HD.br" tvg-name="MULTISHOW FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/multshow.png" group-title="🔴  VARIEDADES",MULTISHOW FHD [ALT]
+#EXTINF:-1 tvg-id="Multishow HD.br" tvg-name="MULTISHOW FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/multshow.png" group-title="🔴 VARIEDADES",MULTISHOW FHD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479581.ts
-#EXTINF:-1 tvg-id="Multishow HD.br" tvg-name="MULTISHOW HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/multshow.png" group-title="🔴  VARIEDADES",MULTISHOW HD
+#EXTINF:-1 tvg-id="Multishow HD.br" tvg-name="MULTISHOW HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/multshow.png" group-title="🔴 VARIEDADES",MULTISHOW HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99958.ts
-#EXTINF:-1 tvg-id="Multishow HD.br" tvg-name="MULTISHOW HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/multshow.png" group-title="🔴  VARIEDADES",MULTISHOW HD [ALT]
+#EXTINF:-1 tvg-id="Multishow HD.br" tvg-name="MULTISHOW HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/multshow.png" group-title="🔴 VARIEDADES",MULTISHOW HD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479582.ts
-#EXTINF:-1 tvg-id="Multishow HD.br" tvg-name="MULTISHOW SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/multshow.png" group-title="🔴  VARIEDADES",MULTISHOW SD
+#EXTINF:-1 tvg-id="Multishow HD.br" tvg-name="MULTISHOW SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/multshow.png" group-title="🔴 VARIEDADES",MULTISHOW SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99959.ts
-#EXTINF:-1 tvg-id="Music Box Brasil HD.br" tvg-name="MUSIC BOX BRASIL  FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/music-box.png" group-title="🔴  VARIEDADES",MUSIC BOX BRASIL  FHD [ALT]
+#EXTINF:-1 tvg-id="Music Box Brasil HD.br" tvg-name="MUSIC BOX BRASIL  FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/music-box.png" group-title="🔴 VARIEDADES",MUSIC BOX BRASIL  FHD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479584.ts
-#EXTINF:-1 tvg-id="Music Box Brasil HD.br" tvg-name="MUSIC BOX BRASIL  SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/music-box.png" group-title="🔴  VARIEDADES",MUSIC BOX BRASIL  SD
+#EXTINF:-1 tvg-id="Music Box Brasil HD.br" tvg-name="MUSIC BOX BRASIL  SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/music-box.png" group-title="🔴 VARIEDADES",MUSIC BOX BRASIL  SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99960.ts
-#EXTINF:-1 tvg-id="Music Box Brasil HD.br" tvg-name="MUSIC BOX BRASIL FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/music-box.png" group-title="🔴  VARIEDADES",MUSIC BOX BRASIL FHD
+#EXTINF:-1 tvg-id="Music Box Brasil HD.br" tvg-name="MUSIC BOX BRASIL FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/music-box.png" group-title="🔴 VARIEDADES",MUSIC BOX BRASIL FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/727288.ts
-#EXTINF:-1 tvg-id="Music Box Brasil HD.br" tvg-name="MUSIC BOX BRASIL HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/music-box.png" group-title="🔴  VARIEDADES",MUSIC BOX BRASIL HD
+#EXTINF:-1 tvg-id="Music Box Brasil HD.br" tvg-name="MUSIC BOX BRASIL HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/music-box.png" group-title="🔴 VARIEDADES",MUSIC BOX BRASIL HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/727289.ts
-#EXTINF:-1 tvg-id="Music Box Brasil HD.br" tvg-name="MUSIC BOX BRASIL HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/music-box.png" group-title="🔴  VARIEDADES",MUSIC BOX BRASIL HD [ALT]
+#EXTINF:-1 tvg-id="Music Box Brasil HD.br" tvg-name="MUSIC BOX BRASIL HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/music-box.png" group-title="🔴 VARIEDADES",MUSIC BOX BRASIL HD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479585.ts
-#EXTINF:-1 tvg-id="Prime Box Brazil HD.br" tvg-name="PRIME BOX BRAZIL SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/prime-box.png" group-title="🔴  VARIEDADES",PRIME BOX BRAZIL SD
+#EXTINF:-1 tvg-id="Prime Box Brazil HD.br" tvg-name="PRIME BOX BRAZIL SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/prime-box.png" group-title="🔴 VARIEDADES",PRIME BOX BRAZIL SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208359.ts
-#EXTINF:-1 tvg-name="SABOR & ARTE  FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/sabor-arte.png" group-title="🔴  VARIEDADES",SABOR & ARTE  FHD [ALT]
+#EXTINF:-1 tvg-name="SABOR & ARTE  FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/sabor-arte.png" group-title="🔴 VARIEDADES",SABOR & ARTE  FHD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479599.ts
-#EXTINF:-1 tvg-name="SABOR & ARTE  HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/sabor-arte.png" group-title="🔴  VARIEDADES",SABOR & ARTE  HD [ALT]
+#EXTINF:-1 tvg-name="SABOR & ARTE  HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/sabor-arte.png" group-title="🔴 VARIEDADES",SABOR & ARTE  HD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479600.ts
-#EXTINF:-1 tvg-id="Syfy HD.br" tvg-name="SYFY FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/syfy.png" group-title="🔴  VARIEDADES",SYFY FHD [ALT]
+#EXTINF:-1 tvg-id="Syfy HD.br" tvg-name="SYFY FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/syfy.png" group-title="🔴 VARIEDADES",SYFY FHD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479601.ts
-#EXTINF:-1 tvg-id="Syfy HD.br" tvg-name="SYFY HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/syfy.png" group-title="🔴  VARIEDADES",SYFY HD [ALT]
+#EXTINF:-1 tvg-id="Syfy HD.br" tvg-name="SYFY HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/syfy.png" group-title="🔴 VARIEDADES",SYFY HD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479602.ts
-#EXTINF:-1 tvg-id="Trace Brazuca.br" tvg-name="TRACE BRAZUCA HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/trace-brazuca.png" group-title="🔴  VARIEDADES",TRACE BRAZUCA HD
+#EXTINF:-1 tvg-id="Trace Brazuca.br" tvg-name="TRACE BRAZUCA HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/trace-brazuca.png" group-title="🔴 VARIEDADES",TRACE BRAZUCA HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208420.ts
-#EXTINF:-1 tvg-id="Travel Box Brazil.br" tvg-name="TRAVEL BOX  BRAZIL HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/travel-box.png" group-title="🔴  VARIEDADES",TRAVEL BOX  BRAZIL HD
+#EXTINF:-1 tvg-id="Travel Box Brazil.br" tvg-name="TRAVEL BOX  BRAZIL HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/travel-box.png" group-title="🔴 VARIEDADES",TRAVEL BOX  BRAZIL HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99963.ts
-#EXTINF:-1 tvg-id="Travel Box Brazil HD.br" tvg-name="TRAVEL BOX BRASIL FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/travel-box.png" group-title="🔴  VARIEDADES",TRAVEL BOX BRASIL FHD
+#EXTINF:-1 tvg-id="Travel Box Brazil HD.br" tvg-name="TRAVEL BOX BRASIL FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/travel-box.png" group-title="🔴 VARIEDADES",TRAVEL BOX BRASIL FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/727292.ts
-#EXTINF:-1 tvg-id="Travel Box Brazil HD.br" tvg-name="TRAVEL BOX BRAZIL FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/travel-box.png" group-title="🔴  VARIEDADES",TRAVEL BOX BRAZIL FHD [ALT]
+#EXTINF:-1 tvg-id="Travel Box Brazil HD.br" tvg-name="TRAVEL BOX BRAZIL FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/travel-box.png" group-title="🔴 VARIEDADES",TRAVEL BOX BRAZIL FHD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479606.ts
-#EXTINF:-1 tvg-id="Travel Box Brazil HD.br" tvg-name="TRAVEL BOX BRAZIL HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/travel-box.png" group-title="🔴  VARIEDADES",TRAVEL BOX BRAZIL HD [ALT]
+#EXTINF:-1 tvg-id="Travel Box Brazil HD.br" tvg-name="TRAVEL BOX BRAZIL HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/travel-box.png" group-title="🔴 VARIEDADES",TRAVEL BOX BRAZIL HD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479607.ts
-#EXTINF:-1 tvg-id="Viva HD.br" tvg-name="GLOBOPLAY NOVELAS HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globoplay-novelas.png" group-title="🔴  VARIEDADES",GLOBOPLAY NOVELAS HD [ALT]
+#EXTINF:-1 tvg-id="Viva HD.br" tvg-name="GLOBOPLAY NOVELAS HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globoplay-novelas.png" group-title="🔴 VARIEDADES",GLOBOPLAY NOVELAS HD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479616.ts
-#EXTINF:-1 tvg-id="Viva HD.br" tvg-name="GLOBOPLAY NOVELAS FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globoplay-novelas.png" group-title="🔴  VARIEDADES",GLOBOPLAY NOVELAS FHD
+#EXTINF:-1 tvg-id="Viva HD.br" tvg-name="GLOBOPLAY NOVELAS FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globoplay-novelas.png" group-title="🔴 VARIEDADES",GLOBOPLAY NOVELAS FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99964.ts
-#EXTINF:-1 tvg-id="Viva HD.br" tvg-name="GLOBOPLAY NOVELAS FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globoplay-novelas.png" group-title="🔴  VARIEDADES",GLOBOPLAY NOVELAS FHD [ALT]
+#EXTINF:-1 tvg-id="Viva HD.br" tvg-name="GLOBOPLAY NOVELAS FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globoplay-novelas.png" group-title="🔴 VARIEDADES",GLOBOPLAY NOVELAS FHD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479615.ts
-#EXTINF:-1 tvg-id="Viva HD.br" tvg-name="GLOBOPLAY NOVELAS HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globoplay-novelas.png" group-title="🔴  VARIEDADES",GLOBOPLAY NOVELAS HD
+#EXTINF:-1 tvg-id="Viva HD.br" tvg-name="GLOBOPLAY NOVELAS HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globoplay-novelas.png" group-title="🔴 VARIEDADES",GLOBOPLAY NOVELAS HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99966.ts
-#EXTINF:-1 tvg-id="Viva HD.br" tvg-name="GLOBOPLAY NOVELAS SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globoplay-novelas.png" group-title="🔴  VARIEDADES",GLOBOPLAY NOVELAS SD
+#EXTINF:-1 tvg-id="Viva HD.br" tvg-name="GLOBOPLAY NOVELAS SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globoplay-novelas.png" group-title="🔴 VARIEDADES",GLOBOPLAY NOVELAS SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/99967.ts
-#EXTINF:-1 tvg-id="Discovery HD.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery.png" group-title="🔴  DISCOVERY",DISCOVERY CHANNEL FHD
+#EXTINF:-1 tvg-id="Discovery HD.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery.png" group-title="🔴 DISCOVERY",DISCOVERY CHANNEL FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/196480.ts
-#EXTINF:-1 tvg-id="Discovery HD.br" tvg-name="DISCOVERY  CHANNEL FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery.png" group-title="🔴  DISCOVERY",DISCOVERY  CHANNEL FHD [ALT]
+#EXTINF:-1 tvg-id="Discovery HD.br" tvg-name="DISCOVERY  CHANNEL FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery.png" group-title="🔴 DISCOVERY",DISCOVERY  CHANNEL FHD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479307.ts
-#EXTINF:-1 tvg-id="Discovery HD.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery.png" group-title="🔴  DISCOVERY",DISCOVERY CHANNEL HD
+#EXTINF:-1 tvg-id="Discovery HD.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery.png" group-title="🔴 DISCOVERY",DISCOVERY CHANNEL HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/196487.ts
-#EXTINF:-1 tvg-id="Discovery HD.br" tvg-name="DISCOVERY  CHANNEL HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery.png" group-title="🔴  DISCOVERY",DISCOVERY  CHANNEL HD [ALT]
+#EXTINF:-1 tvg-id="Discovery HD.br" tvg-name="DISCOVERY  CHANNEL HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery.png" group-title="🔴 DISCOVERY",DISCOVERY  CHANNEL HD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479308.ts
-#EXTINF:-1 tvg-id="Discovery HD.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery.png" group-title="🔴  DISCOVERY",DISCOVERY CHANNEL SD
+#EXTINF:-1 tvg-id="Discovery HD.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery.png" group-title="🔴 DISCOVERY",DISCOVERY CHANNEL SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/196467.ts
-#EXTINF:-1 tvg-id="Discovery Theater.br" tvg-name="DISCOVERY  THEATHER FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-theater.png" group-title="🔴  DISCOVERY",DISCOVERY  THEATHER FHD [ALT]
+#EXTINF:-1 tvg-id="Discovery Theater.br" tvg-name="DISCOVERY  THEATHER FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-theater.png" group-title="🔴 DISCOVERY",DISCOVERY  THEATHER FHD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479326.ts
-#EXTINF:-1 tvg-id="Discovery Theater.br" tvg-name="DISCOVERY  THEATHER HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-theater.png" group-title="🔴  DISCOVERY",DISCOVERY  THEATHER HD [ALT]
+#EXTINF:-1 tvg-id="Discovery Theater.br" tvg-name="DISCOVERY  THEATHER HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-theater.png" group-title="🔴 DISCOVERY",DISCOVERY  THEATHER HD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479327.ts
-#EXTINF:-1 tvg-id="Discovery Home & Health HD.br" tvg-name="DISCOVERY  H&H SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-hh.png" group-title="🔴  DISCOVERY",DISCOVERY  H&H SD
+#EXTINF:-1 tvg-id="Discovery Home & Health HD.br" tvg-name="DISCOVERY  H&H SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-hh.png" group-title="🔴 DISCOVERY",DISCOVERY  H&H SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208386.ts
-#EXTINF:-1 tvg-id="Discovery Home & Health HD.br" tvg-name="DISCOVERY H&H FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-hh.png" group-title="🔴  DISCOVERY",DISCOVERY H&H FHD
+#EXTINF:-1 tvg-id="Discovery Home & Health HD.br" tvg-name="DISCOVERY H&H FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-hh.png" group-title="🔴 DISCOVERY",DISCOVERY H&H FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208157.ts
-#EXTINF:-1 tvg-id="Discovery Home & Health HD.br" tvg-name="DISCOVERY H&H FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-hh.png" group-title="🔴  DISCOVERY",DISCOVERY H&H FHD [ALT]
+#EXTINF:-1 tvg-id="Discovery Home & Health HD.br" tvg-name="DISCOVERY H&H FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-hh.png" group-title="🔴 DISCOVERY",DISCOVERY H&H FHD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479310.ts
-#EXTINF:-1 tvg-id="Discovery Home & Health HD.br" tvg-name="DISCOVERY H&H HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-hh.png" group-title="🔴  DISCOVERY",DISCOVERY H&H HD
+#EXTINF:-1 tvg-id="Discovery Home & Health HD.br" tvg-name="DISCOVERY H&H HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-hh.png" group-title="🔴 DISCOVERY",DISCOVERY H&H HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208158.ts
-#EXTINF:-1 tvg-id="Discovery Home & Health HD.br" tvg-name="DISCOVERY H&H HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-hh.png" group-title="🔴  DISCOVERY",DISCOVERY H&H HD [ALT]
+#EXTINF:-1 tvg-id="Discovery Home & Health HD.br" tvg-name="DISCOVERY H&H HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-hh.png" group-title="🔴 DISCOVERY",DISCOVERY H&H HD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479311.ts
-#EXTINF:-1 tvg-id="Investigação Discovery HD.br" tvg-name="DISCOVERY ID FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/id.png" group-title="🔴  DISCOVERY",DISCOVERY ID FHD
+#EXTINF:-1 tvg-id="Investigação Discovery HD.br" tvg-name="DISCOVERY ID FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/id.png" group-title="🔴 DISCOVERY",DISCOVERY ID FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/92128.ts
-#EXTINF:-1 tvg-id="Investigação Discovery HD.br" tvg-name="DISCOVERY ID FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/id.png" group-title="🔴  DISCOVERY",DISCOVERY ID FHD [ALT]
+#EXTINF:-1 tvg-id="Investigação Discovery HD.br" tvg-name="DISCOVERY ID FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/id.png" group-title="🔴 DISCOVERY",DISCOVERY ID FHD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479320.ts
-#EXTINF:-1 tvg-id="Investigação Discovery HD.br" tvg-name="DISCOVERY ID HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/id.png" group-title="🔴  DISCOVERY",DISCOVERY ID HD
+#EXTINF:-1 tvg-id="Investigação Discovery HD.br" tvg-name="DISCOVERY ID HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/id.png" group-title="🔴 DISCOVERY",DISCOVERY ID HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/92129.ts
-#EXTINF:-1 tvg-id="Investigação Discovery HD.br" tvg-name="DISCOVERY ID HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/id.png" group-title="🔴  DISCOVERY",DISCOVERY ID HD [ALT]
+#EXTINF:-1 tvg-id="Investigação Discovery HD.br" tvg-name="DISCOVERY ID HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/id.png" group-title="🔴 DISCOVERY",DISCOVERY ID HD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479321.ts
-#EXTINF:-1 tvg-id="Investigação Discovery HD.br" tvg-name="DISCOVERY ID SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/id.png" group-title="🔴  DISCOVERY",DISCOVERY ID SD
+#EXTINF:-1 tvg-id="Investigação Discovery HD.br" tvg-name="DISCOVERY ID SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/id.png" group-title="🔴 DISCOVERY",DISCOVERY ID SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208433.ts
-#EXTINF:-1 tvg-id="Discovery Science HD.br" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-science.png" group-title="🔴  DISCOVERY",DISCOVERY SCIENCE FHD
+#EXTINF:-1 tvg-id="Discovery Science HD.br" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-science.png" group-title="🔴 DISCOVERY",DISCOVERY SCIENCE FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208159.ts
-#EXTINF:-1 tvg-id="Discovery Science HD.br" tvg-name="DISCOVERY SCIENCE FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-science.png" group-title="🔴  DISCOVERY",DISCOVERY SCIENCE FHD [ALT]
+#EXTINF:-1 tvg-id="Discovery Science HD.br" tvg-name="DISCOVERY SCIENCE FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-science.png" group-title="🔴 DISCOVERY",DISCOVERY SCIENCE FHD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479323.ts
-#EXTINF:-1 tvg-id="Discovery Science HD.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-science.png" group-title="🔴  DISCOVERY",DISCOVERY SCIENCE HD
+#EXTINF:-1 tvg-id="Discovery Science HD.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-science.png" group-title="🔴 DISCOVERY",DISCOVERY SCIENCE HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/92130.ts
-#EXTINF:-1 tvg-id="Discovery Science HD.br" tvg-name="DISCOVERY SCIENCE HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-science.png" group-title="🔴  DISCOVERY",DISCOVERY SCIENCE HD [ALT]
+#EXTINF:-1 tvg-id="Discovery Science HD.br" tvg-name="DISCOVERY SCIENCE HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-science.png" group-title="🔴 DISCOVERY",DISCOVERY SCIENCE HD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479324.ts
-#EXTINF:-1 tvg-id="Discovery Science HD.br" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-science.png" group-title="🔴  DISCOVERY",DISCOVERY SCIENCE SD
+#EXTINF:-1 tvg-id="Discovery Science HD.br" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-science.png" group-title="🔴 DISCOVERY",DISCOVERY SCIENCE SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208404.ts
-#EXTINF:-1 tvg-id="Discovery Theater.br" tvg-name="DISCOVERY THEATER FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-theater.png" group-title="🔴  DISCOVERY",DISCOVERY THEATER FHD
+#EXTINF:-1 tvg-id="Discovery Theater.br" tvg-name="DISCOVERY THEATER FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-theater.png" group-title="🔴 DISCOVERY",DISCOVERY THEATER FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208160.ts
-#EXTINF:-1 tvg-id="Discovery Theater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-theater.png" group-title="🔴  DISCOVERY",DISCOVERY THEATER HD
+#EXTINF:-1 tvg-id="Discovery Theater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-theater.png" group-title="🔴 DISCOVERY",DISCOVERY THEATER HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208161.ts
-#EXTINF:-1 tvg-id="Discovery Theater.br" tvg-name="DISCOVERY THEATER SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-theater.png" group-title="🔴  DISCOVERY",DISCOVERY THEATER SD
+#EXTINF:-1 tvg-id="Discovery Theater.br" tvg-name="DISCOVERY THEATER SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-theater.png" group-title="🔴 DISCOVERY",DISCOVERY THEATER SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208403.ts
-#EXTINF:-1 tvg-id="Discovery Turbo HD.br" tvg-name="DISCOVERY TURBO FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-turbo.png" group-title="🔴  DISCOVERY",DISCOVERY TURBO FHD
+#EXTINF:-1 tvg-id="Discovery Turbo HD.br" tvg-name="DISCOVERY TURBO FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-turbo.png" group-title="🔴 DISCOVERY",DISCOVERY TURBO FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/92134.ts
-#EXTINF:-1 tvg-id="Discovery Turbo HD.br" tvg-name="DISCOVERY TURBO FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-turbo.png" group-title="🔴  DISCOVERY",DISCOVERY TURBO FHD [ALT]
+#EXTINF:-1 tvg-id="Discovery Turbo HD.br" tvg-name="DISCOVERY TURBO FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-turbo.png" group-title="🔴 DISCOVERY",DISCOVERY TURBO FHD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479313.ts
-#EXTINF:-1 tvg-id="Discovery Turbo HD.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-turbo.png" group-title="🔴  DISCOVERY",DISCOVERY TURBO HD
+#EXTINF:-1 tvg-id="Discovery Turbo HD.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-turbo.png" group-title="🔴 DISCOVERY",DISCOVERY TURBO HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/92136.ts
-#EXTINF:-1 tvg-id="Discovery Turbo HD.br" tvg-name="DISCOVERY TURBO HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-turbo.png" group-title="🔴  DISCOVERY",DISCOVERY TURBO HD [ALT]
+#EXTINF:-1 tvg-id="Discovery Turbo HD.br" tvg-name="DISCOVERY TURBO HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-turbo.png" group-title="🔴 DISCOVERY",DISCOVERY TURBO HD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479314.ts
-#EXTINF:-1 tvg-id="Discovery Turbo HD.br" tvg-name="DISCOVERY TURBO SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-turbo.png" group-title="🔴  DISCOVERY",DISCOVERY TURBO SD
+#EXTINF:-1 tvg-id="Discovery Turbo HD.br" tvg-name="DISCOVERY TURBO SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-turbo.png" group-title="🔴 DISCOVERY",DISCOVERY TURBO SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/92135.ts
-#EXTINF:-1 tvg-id="Discovery World.br" tvg-name="DISCOVERY WORLD FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-world.png" group-title="🔴  DISCOVERY",DISCOVERY WORLD FHD
+#EXTINF:-1 tvg-id="Discovery World.br" tvg-name="DISCOVERY WORLD FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-world.png" group-title="🔴 DISCOVERY",DISCOVERY WORLD FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/92138.ts
-#EXTINF:-1 tvg-id="Discovery World.br" tvg-name="DISCOVERY WORLD FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-world.png" group-title="🔴  DISCOVERY",DISCOVERY WORLD FHD [ALT]
+#EXTINF:-1 tvg-id="Discovery World.br" tvg-name="DISCOVERY WORLD FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-world.png" group-title="🔴 DISCOVERY",DISCOVERY WORLD FHD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479329.ts
-#EXTINF:-1 tvg-id="Discovery World.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-world.png" group-title="🔴  DISCOVERY",DISCOVERY WORLD HD
+#EXTINF:-1 tvg-id="Discovery World.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-world.png" group-title="🔴 DISCOVERY",DISCOVERY WORLD HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/92139.ts
-#EXTINF:-1 tvg-id="Discovery World.br" tvg-name="DISCOVERY WORLD HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-world.png" group-title="🔴  DISCOVERY",DISCOVERY WORLD HD [ALT]
+#EXTINF:-1 tvg-id="Discovery World.br" tvg-name="DISCOVERY WORLD HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-world.png" group-title="🔴 DISCOVERY",DISCOVERY WORLD HD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479330.ts
-#EXTINF:-1 tvg-id="Discovery World.br" tvg-name="DISCOVERY WORLD SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-world.png" group-title="🔴  DISCOVERY",DISCOVERY WORLD SD
+#EXTINF:-1 tvg-id="Discovery World.br" tvg-name="DISCOVERY WORLD SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-world.png" group-title="🔴 DISCOVERY",DISCOVERY WORLD SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208405.ts
-#EXTINF:-1 tvg-id="History 2.br" tvg-name="HISTORY 2 FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/history2.png" group-title="🔴  HISTORY",HISTORY 2 FHD
+#EXTINF:-1 tvg-id="History 2.br" tvg-name="HISTORY 2 FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/history2.png" group-title="🔴 HISTORY",HISTORY 2 FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94212.ts
-#EXTINF:-1 tvg-id="History 2.br" tvg-name="HISTORY 2 FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/history2.png" group-title="🔴  HISTORY",HISTORY 2 FHD [ALT]
+#EXTINF:-1 tvg-id="History 2.br" tvg-name="HISTORY 2 FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/history2.png" group-title="🔴 HISTORY",HISTORY 2 FHD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479332.ts
-#EXTINF:-1 tvg-id="History 2.br" tvg-name="HISTORY 2 HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/history2.png" group-title="🔴  HISTORY",HISTORY 2 HD
+#EXTINF:-1 tvg-id="History 2.br" tvg-name="HISTORY 2 HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/history2.png" group-title="🔴 HISTORY",HISTORY 2 HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94213.ts
-#EXTINF:-1 tvg-id="History 2.br" tvg-name="HISTORY 2 HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/history2.png" group-title="🔴  HISTORY",HISTORY 2 HD [ALT]
+#EXTINF:-1 tvg-id="History 2.br" tvg-name="HISTORY 2 HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/history2.png" group-title="🔴 HISTORY",HISTORY 2 HD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479333.ts
-#EXTINF:-1 tvg-id="History 2.br" tvg-name="HISTORY 2 SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/history2.png" group-title="🔴  HISTORY",HISTORY 2 SD
+#EXTINF:-1 tvg-id="History 2.br" tvg-name="HISTORY 2 SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/history2.png" group-title="🔴 HISTORY",HISTORY 2 SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94202.ts
-#EXTINF:-1 tvg-id="HISTORY CHANNEL HD.br" tvg-name="HISTORY CHANNEL FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/history.png" group-title="🔴  HISTORY",HISTORY CHANNEL FHD
+#EXTINF:-1 tvg-id="HISTORY CHANNEL HD.br" tvg-name="HISTORY CHANNEL FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/history.png" group-title="🔴 HISTORY",HISTORY CHANNEL FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94214.ts
-#EXTINF:-1 tvg-id="HISTORY CHANNEL HD.br" tvg-name="HISTORY CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/history.png" group-title="🔴  HISTORY",HISTORY CHANNEL HD
+#EXTINF:-1 tvg-id="HISTORY CHANNEL HD.br" tvg-name="HISTORY CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/history.png" group-title="🔴 HISTORY",HISTORY CHANNEL HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94215.ts
-#EXTINF:-1 tvg-id="HISTORY CHANNEL HD.br" tvg-name="HISTORY CHANNEL SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/history.png" group-title="🔴  HISTORY",HISTORY CHANNEL SD
+#EXTINF:-1 tvg-id="HISTORY CHANNEL HD.br" tvg-name="HISTORY CHANNEL SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/history.png" group-title="🔴 HISTORY",HISTORY CHANNEL SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/442943.ts
-#EXTINF:-1 tvg-id="HISTORY CHANNEL HD.br" tvg-name="HISTORY FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/history.png" group-title="🔴  HISTORY",HISTORY FHD [ALT]
+#EXTINF:-1 tvg-id="HISTORY CHANNEL HD.br" tvg-name="HISTORY FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/history.png" group-title="🔴 HISTORY",HISTORY FHD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479335.ts
-#EXTINF:-1 tvg-id="HISTORY CHANNEL HD.br" tvg-name="HISTORY HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/history.png" group-title="🔴  HISTORY",HISTORY HD
+#EXTINF:-1 tvg-id="HISTORY CHANNEL HD.br" tvg-name="HISTORY HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/history.png" group-title="🔴 HISTORY",HISTORY HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479625.ts
-#EXTINF:-1 tvg-id="HISTORY CHANNEL HD.br" tvg-name="HISTORY SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/history.png" group-title="🔴  HISTORY",HISTORY SD
+#EXTINF:-1 tvg-id="HISTORY CHANNEL HD.br" tvg-name="HISTORY SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/history.png" group-title="🔴 HISTORY",HISTORY SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94201.ts
-#EXTINF:-1 tvg-id="Animal Planet HD.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/animal-planet.png" group-title="🔴  DOCUMENTÁRIOS",ANIMAL PLANET FHD
+#EXTINF:-1 tvg-id="Animal Planet HD.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/animal-planet.png" group-title="🔴 DOCUMENTÁRIOS",ANIMAL PLANET FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94203.ts
-#EXTINF:-1 tvg-id="Animal Planet HD.br" tvg-name="ANIMAL PLANET FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/animal-planet.png" group-title="🔴  DOCUMENTÁRIOS",ANIMAL PLANET FHD [ALT]
+#EXTINF:-1 tvg-id="Animal Planet HD.br" tvg-name="ANIMAL PLANET FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/animal-planet.png" group-title="🔴 DOCUMENTÁRIOS",ANIMAL PLANET FHD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479317.ts
-#EXTINF:-1 tvg-id="Animal Planet HD.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/animal-planet.png" group-title="🔴  DOCUMENTÁRIOS",ANIMAL PLANET HD
+#EXTINF:-1 tvg-id="Animal Planet HD.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/animal-planet.png" group-title="🔴 DOCUMENTÁRIOS",ANIMAL PLANET HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94204.ts
-#EXTINF:-1 tvg-id="Animal Planet HD.br" tvg-name="ANIMAL PLANET HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/animal-planet.png" group-title="🔴  DOCUMENTÁRIOS",ANIMAL PLANET HD [ALT]
+#EXTINF:-1 tvg-id="Animal Planet HD.br" tvg-name="ANIMAL PLANET HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/animal-planet.png" group-title="🔴 DOCUMENTÁRIOS",ANIMAL PLANET HD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479318.ts
-#EXTINF:-1 tvg-id="Animal Planet HD.br" tvg-name="ANIMAL PLANET SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/animal-planet.png" group-title="🔴  DOCUMENTÁRIOS",ANIMAL PLANET SD
+#EXTINF:-1 tvg-id="Animal Planet HD.br" tvg-name="ANIMAL PLANET SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/animal-planet.png" group-title="🔴 DOCUMENTÁRIOS",ANIMAL PLANET SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94205.ts
-#EXTINF:-1 tvg-id="DOGTV HD.br" tvg-name="DOG TV FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/dog-tv.png" group-title="🔴  DOCUMENTÁRIOS",DOG TV FHD
+#EXTINF:-1 tvg-id="DOGTV HD.br" tvg-name="DOG TV FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/dog-tv.png" group-title="🔴 DOCUMENTÁRIOS",DOG TV FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94206.ts
-#EXTINF:-1 tvg-id="DOGTV HD.br" tvg-name="DOG TV HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/dog-tv.png" group-title="🔴  DOCUMENTÁRIOS",DOG TV HD
+#EXTINF:-1 tvg-id="DOGTV HD.br" tvg-name="DOG TV HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/dog-tv.png" group-title="🔴 DOCUMENTÁRIOS",DOG TV HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94207.ts
-#EXTINF:-1 tvg-id="DOGTV HD.br" tvg-name="DOG TV HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/dog-tv.png" group-title="🔴  DOCUMENTÁRIOS",DOG TV HD [ALT]
+#EXTINF:-1 tvg-id="DOGTV HD.br" tvg-name="DOG TV HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/dog-tv.png" group-title="🔴 DOCUMENTÁRIOS",DOG TV HD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479316.ts
-#EXTINF:-1 tvg-id="DOGTV HD.br" tvg-name="DOG TV SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/dog-tv.png" group-title="🔴  DOCUMENTÁRIOS",DOG TV SD
+#EXTINF:-1 tvg-id="DOGTV HD.br" tvg-name="DOG TV SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/dog-tv.png" group-title="🔴 DOCUMENTÁRIOS",DOG TV SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94208.ts
-#EXTINF:-1 tvg-id="Fashion TV.br" tvg-name="FASHIONTV BRASIL FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/fashion-tv.png" group-title="🔴  DOCUMENTÁRIOS",FASHIONTV BRASIL FHD
+#EXTINF:-1 tvg-id="Fashion TV.br" tvg-name="FASHIONTV BRASIL FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/fashion-tv.png" group-title="🔴 DOCUMENTÁRIOS",FASHIONTV BRASIL FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208162.ts
-#EXTINF:-1 tvg-id="Fashion TV.br" tvg-name="FASHIONTV BRASIL FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/fashion-tv.png" group-title="🔴  DOCUMENTÁRIOS",FASHIONTV BRASIL FHD [ALT]
+#EXTINF:-1 tvg-id="Fashion TV.br" tvg-name="FASHIONTV BRASIL FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/fashion-tv.png" group-title="🔴 DOCUMENTÁRIOS",FASHIONTV BRASIL FHD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479552.ts
-#EXTINF:-1 tvg-id="Fashion TV.br" tvg-name="FASHIONTV BRASIL HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/fashion-tv.png" group-title="🔴  DOCUMENTÁRIOS",FASHIONTV BRASIL HD
+#EXTINF:-1 tvg-id="Fashion TV.br" tvg-name="FASHIONTV BRASIL HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/fashion-tv.png" group-title="🔴 DOCUMENTÁRIOS",FASHIONTV BRASIL HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208163.ts
-#EXTINF:-1 tvg-id="Fashion TV.br" tvg-name="FASHIONTV BRASIL SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/fashion-tv.png" group-title="🔴  DOCUMENTÁRIOS",FASHIONTV BRASIL SD
+#EXTINF:-1 tvg-id="Fashion TV.br" tvg-name="FASHIONTV BRASIL SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/fashion-tv.png" group-title="🔴 DOCUMENTÁRIOS",FASHIONTV BRASIL SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208406.ts
-#EXTINF:-1 tvg-id="Fish TV HD.br" tvg-name="FISH TV FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/fish-tv.png" group-title="🔴  DOCUMENTÁRIOS",FISH TV FHD
+#EXTINF:-1 tvg-id="Fish TV HD.br" tvg-name="FISH TV FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/fish-tv.png" group-title="🔴 DOCUMENTÁRIOS",FISH TV FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94209.ts
-#EXTINF:-1 tvg-id="Fish TV HD.br" tvg-name="FISH TV HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/fish-tv.png" group-title="🔴  DOCUMENTÁRIOS",FISH TV HD
+#EXTINF:-1 tvg-id="Fish TV HD.br" tvg-name="FISH TV HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/fish-tv.png" group-title="🔴 DOCUMENTÁRIOS",FISH TV HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94210.ts
-#EXTINF:-1 tvg-id="Fish TV HD.br" tvg-name="FISH TV SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/fish-tv.png" group-title="🔴  DOCUMENTÁRIOS",FISH TV SD
+#EXTINF:-1 tvg-id="Fish TV HD.br" tvg-name="FISH TV SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/fish-tv.png" group-title="🔴 DOCUMENTÁRIOS",FISH TV SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94211.ts
-#EXTINF:-1 tvg-id="HGTV HD.br" tvg-name="HGTV FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hgtv.png" group-title="🔴  DOCUMENTÁRIOS",HGTV FHD
+#EXTINF:-1 tvg-id="HGTV HD.br" tvg-name="HGTV FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hgtv.png" group-title="🔴 DOCUMENTÁRIOS",HGTV FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208170.ts
-#EXTINF:-1 tvg-id="HGTV HD.br" tvg-name="HGTV FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hgtv.png" group-title="🔴  DOCUMENTÁRIOS",HGTV FHD [ALT]
+#EXTINF:-1 tvg-id="HGTV HD.br" tvg-name="HGTV FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hgtv.png" group-title="🔴 DOCUMENTÁRIOS",HGTV FHD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479560.ts
-#EXTINF:-1 tvg-id="HGTV HD.br" tvg-name="HGTV HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hgtv.png" group-title="🔴  DOCUMENTÁRIOS",HGTV HD
+#EXTINF:-1 tvg-id="HGTV HD.br" tvg-name="HGTV HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hgtv.png" group-title="🔴 DOCUMENTÁRIOS",HGTV HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208171.ts
-#EXTINF:-1 tvg-id="HGTV HD.br" tvg-name="HGTV HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hgtv.png" group-title="🔴  DOCUMENTÁRIOS",HGTV HD [ALT]
+#EXTINF:-1 tvg-id="HGTV HD.br" tvg-name="HGTV HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hgtv.png" group-title="🔴 DOCUMENTÁRIOS",HGTV HD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479561.ts
-#EXTINF:-1 tvg-id="HGTV HD.br" tvg-name="HGTV SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hgtv.png" group-title="🔴  DOCUMENTÁRIOS",HGTV SD
+#EXTINF:-1 tvg-id="HGTV HD.br" tvg-name="HGTV SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hgtv.png" group-title="🔴 DOCUMENTÁRIOS",HGTV SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208401.ts
-#EXTINF:-1 tvg-name="LOVE NATURE HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/love-nature.png" group-title="🔴  DOCUMENTÁRIOS",LOVE NATURE HD [ALT]
+#EXTINF:-1 tvg-name="LOVE NATURE HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/love-nature.png" group-title="🔴 DOCUMENTÁRIOS",LOVE NATURE HD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479569.ts
-#EXTINF:-1 tvg-id="NHK HD.br" tvg-name="NHK HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/nhk.png" group-title="🔴  DOCUMENTÁRIOS",NHK HD
+#EXTINF:-1 tvg-id="NHK HD.br" tvg-name="NHK HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/nhk.png" group-title="🔴 DOCUMENTÁRIOS",NHK HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94223.ts
-#EXTINF:-1 tvg-id="NHK HD.br" tvg-name="NHK SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/nhk.png" group-title="🔴  DOCUMENTÁRIOS",NHK SD
+#EXTINF:-1 tvg-id="NHK HD.br" tvg-name="NHK SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/nhk.png" group-title="🔴 DOCUMENTÁRIOS",NHK SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94222.ts
-#EXTINF:-1 tvg-id="Telecine Action HD.br" tvg-name="TELECINE ACTION FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-action.png" group-title="🔴  TELECINE",TELECINE ACTION FHD
+#EXTINF:-1 tvg-id="Telecine Action HD.br" tvg-name="TELECINE ACTION FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-action.png" group-title="🔴 TELECINE",TELECINE ACTION FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784708.ts
-#EXTINF:-1 tvg-id="Telecine Action HD.br" tvg-name="TELECINE ACTION FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-action.png" group-title="🔴  TELECINE",TELECINE ACTION FHD [ALT]
+#EXTINF:-1 tvg-id="Telecine Action HD.br" tvg-name="TELECINE ACTION FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-action.png" group-title="🔴 TELECINE",TELECINE ACTION FHD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479265.ts
-#EXTINF:-1 tvg-id="Telecine Action HD.br" tvg-name="TELECINE ACTION HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-action.png" group-title="🔴  TELECINE",TELECINE ACTION HD
+#EXTINF:-1 tvg-id="Telecine Action HD.br" tvg-name="TELECINE ACTION HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-action.png" group-title="🔴 TELECINE",TELECINE ACTION HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784709.ts
-#EXTINF:-1 tvg-id="Telecine Action HD.br" tvg-name="TELECINE ACTION HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-action.png" group-title="🔴  TELECINE",TELECINE ACTION HD [ALT]
+#EXTINF:-1 tvg-id="Telecine Action HD.br" tvg-name="TELECINE ACTION HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-action.png" group-title="🔴 TELECINE",TELECINE ACTION HD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479266.ts
-#EXTINF:-1 tvg-id="Telecine Action HD.br" tvg-name="TELECINE ACTION SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-action.png" group-title="🔴  TELECINE",TELECINE ACTION SD
+#EXTINF:-1 tvg-id="Telecine Action HD.br" tvg-name="TELECINE ACTION SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-action.png" group-title="🔴 TELECINE",TELECINE ACTION SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784710.ts
-#EXTINF:-1 tvg-id="Telecine Cult HD.br" tvg-name="TELECINE CULT FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-cult.png" group-title="🔴  TELECINE",TELECINE CULT FHD
+#EXTINF:-1 tvg-id="Telecine Cult HD.br" tvg-name="TELECINE CULT FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-cult.png" group-title="🔴 TELECINE",TELECINE CULT FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784711.ts
-#EXTINF:-1 tvg-id="Telecine Cult HD.br" tvg-name="TELECINE CULT FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-cult.png" group-title="🔴  TELECINE",TELECINE CULT FHD [ALT]
+#EXTINF:-1 tvg-id="Telecine Cult HD.br" tvg-name="TELECINE CULT FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-cult.png" group-title="🔴 TELECINE",TELECINE CULT FHD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479268.ts
-#EXTINF:-1 tvg-id="Telecine Cult HD.br" tvg-name="TELECINE CULT HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-cult.png" group-title="🔴  TELECINE",TELECINE CULT HD
+#EXTINF:-1 tvg-id="Telecine Cult HD.br" tvg-name="TELECINE CULT HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-cult.png" group-title="🔴 TELECINE",TELECINE CULT HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784712.ts
-#EXTINF:-1 tvg-id="Telecine Cult HD.br" tvg-name="TELECINE CULT HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-cult.png" group-title="🔴  TELECINE",TELECINE CULT HD [ALT]
+#EXTINF:-1 tvg-id="Telecine Cult HD.br" tvg-name="TELECINE CULT HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-cult.png" group-title="🔴 TELECINE",TELECINE CULT HD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479269.ts
-#EXTINF:-1 tvg-id="Telecine Cult HD.br" tvg-name="TELECINE CULT SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-cult.png" group-title="🔴  TELECINE",TELECINE CULT SD
+#EXTINF:-1 tvg-id="Telecine Cult HD.br" tvg-name="TELECINE CULT SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-cult.png" group-title="🔴 TELECINE",TELECINE CULT SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784713.ts
-#EXTINF:-1 tvg-id="Telecine Fun HD.br" tvg-name="TELECINE FUN FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-fun.png" group-title="🔴  TELECINE",TELECINE FUN FHD
+#EXTINF:-1 tvg-id="Telecine Fun HD.br" tvg-name="TELECINE FUN FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-fun.png" group-title="🔴 TELECINE",TELECINE FUN FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784714.ts
-#EXTINF:-1 tvg-id="Telecine Fun HD.br" tvg-name="TELECINE FUN FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-fun.png" group-title="🔴  TELECINE",TELECINE FUN FHD [ALT]
+#EXTINF:-1 tvg-id="Telecine Fun HD.br" tvg-name="TELECINE FUN FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-fun.png" group-title="🔴 TELECINE",TELECINE FUN FHD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479271.ts
-#EXTINF:-1 tvg-id="Telecine Fun HD.br" tvg-name="TELECINE FUN HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-fun.png" group-title="🔴  TELECINE",TELECINE FUN HD
+#EXTINF:-1 tvg-id="Telecine Fun HD.br" tvg-name="TELECINE FUN HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-fun.png" group-title="🔴 TELECINE",TELECINE FUN HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784715.ts
-#EXTINF:-1 tvg-id="Telecine Fun HD.br" tvg-name="TELECINE FUN HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-fun.png" group-title="🔴  TELECINE",TELECINE FUN HD [ALT]
+#EXTINF:-1 tvg-id="Telecine Fun HD.br" tvg-name="TELECINE FUN HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-fun.png" group-title="🔴 TELECINE",TELECINE FUN HD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479272.ts
-#EXTINF:-1 tvg-id="Telecine Fun HD.br" tvg-name="TELECINE FUN SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-fun.png" group-title="🔴  TELECINE",TELECINE FUN SD
+#EXTINF:-1 tvg-id="Telecine Fun HD.br" tvg-name="TELECINE FUN SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-fun.png" group-title="🔴 TELECINE",TELECINE FUN SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784716.ts
-#EXTINF:-1 tvg-id="Telecine Pipoca HD.br" tvg-name="TELECINE PIPOCA FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-pipoca.png" group-title="🔴  TELECINE",TELECINE PIPOCA FHD
+#EXTINF:-1 tvg-id="Telecine Pipoca HD.br" tvg-name="TELECINE PIPOCA FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-pipoca.png" group-title="🔴 TELECINE",TELECINE PIPOCA FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784717.ts
-#EXTINF:-1 tvg-id="Telecine Pipoca HD.br" tvg-name="TELECINE PIPOCA FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-pipoca.png" group-title="🔴  TELECINE",TELECINE PIPOCA FHD [ALT]
+#EXTINF:-1 tvg-id="Telecine Pipoca HD.br" tvg-name="TELECINE PIPOCA FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-pipoca.png" group-title="🔴 TELECINE",TELECINE PIPOCA FHD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479274.ts
-#EXTINF:-1 tvg-id="Telecine Pipoca HD.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-pipoca.png" group-title="🔴  TELECINE",TELECINE PIPOCA HD
+#EXTINF:-1 tvg-id="Telecine Pipoca HD.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-pipoca.png" group-title="🔴 TELECINE",TELECINE PIPOCA HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784718.ts
-#EXTINF:-1 tvg-id="Telecine Pipoca HD.br" tvg-name="TELECINE PIPOCA HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-pipoca.png" group-title="🔴  TELECINE",TELECINE PIPOCA HD [ALT]
+#EXTINF:-1 tvg-id="Telecine Pipoca HD.br" tvg-name="TELECINE PIPOCA HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-pipoca.png" group-title="🔴 TELECINE",TELECINE PIPOCA HD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479275.ts
-#EXTINF:-1 tvg-id="Telecine Pipoca HD.br" tvg-name="TELECINE PIPOCA SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-pipoca.png" group-title="🔴  TELECINE",TELECINE PIPOCA SD
+#EXTINF:-1 tvg-id="Telecine Pipoca HD.br" tvg-name="TELECINE PIPOCA SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-pipoca.png" group-title="🔴 TELECINE",TELECINE PIPOCA SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784719.ts
-#EXTINF:-1 tvg-id="Telecine Premium HD.br" tvg-name="TELECINE PREMIUM FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-premium.png" group-title="🔴  TELECINE",TELECINE PREMIUM FHD
+#EXTINF:-1 tvg-id="Telecine Premium HD.br" tvg-name="TELECINE PREMIUM FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-premium.png" group-title="🔴 TELECINE",TELECINE PREMIUM FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784720.ts
-#EXTINF:-1 tvg-id="Telecine Premium HD.br" tvg-name="TELECINE PREMIUM FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-premium.png" group-title="🔴  TELECINE",TELECINE PREMIUM FHD [ALT]
+#EXTINF:-1 tvg-id="Telecine Premium HD.br" tvg-name="TELECINE PREMIUM FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-premium.png" group-title="🔴 TELECINE",TELECINE PREMIUM FHD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479277.ts
-#EXTINF:-1 tvg-id="Telecine Premium HD.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-premium.png" group-title="🔴  TELECINE",TELECINE PREMIUM HD
+#EXTINF:-1 tvg-id="Telecine Premium HD.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-premium.png" group-title="🔴 TELECINE",TELECINE PREMIUM HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784721.ts
-#EXTINF:-1 tvg-id="Telecine Premium HD.br" tvg-name="TELECINE PREMIUM HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-premium.png" group-title="🔴  TELECINE",TELECINE PREMIUM HD [ALT]
+#EXTINF:-1 tvg-id="Telecine Premium HD.br" tvg-name="TELECINE PREMIUM HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-premium.png" group-title="🔴 TELECINE",TELECINE PREMIUM HD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479278.ts
-#EXTINF:-1 tvg-id="Telecine Premium HD.br" tvg-name="TELECINE PREMIUM SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-premium.png" group-title="🔴  TELECINE",TELECINE PREMIUM SD
+#EXTINF:-1 tvg-id="Telecine Premium HD.br" tvg-name="TELECINE PREMIUM SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-premium.png" group-title="🔴 TELECINE",TELECINE PREMIUM SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784722.ts
-#EXTINF:-1 tvg-id="Telecine Touch HD.br" tvg-name="TELECINE TOUCH FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-touch.png" group-title="🔴  TELECINE",TELECINE TOUCH FHD
+#EXTINF:-1 tvg-id="Telecine Touch HD.br" tvg-name="TELECINE TOUCH FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-touch.png" group-title="🔴 TELECINE",TELECINE TOUCH FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784723.ts
-#EXTINF:-1 tvg-id="Telecine Touch HD.br" tvg-name="TELECINE TOUCH FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-touch.png" group-title="🔴  TELECINE",TELECINE TOUCH FHD [ALT]
+#EXTINF:-1 tvg-id="Telecine Touch HD.br" tvg-name="TELECINE TOUCH FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-touch.png" group-title="🔴 TELECINE",TELECINE TOUCH FHD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479280.ts
-#EXTINF:-1 tvg-id="Telecine Touch HD.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-touch.png" group-title="🔴  TELECINE",TELECINE TOUCH HD
+#EXTINF:-1 tvg-id="Telecine Touch HD.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-touch.png" group-title="🔴 TELECINE",TELECINE TOUCH HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784724.ts
-#EXTINF:-1 tvg-id="Telecine Touch HD.br" tvg-name="TELECINE TOUCH HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-touch.png" group-title="🔴  TELECINE",TELECINE TOUCH HD [ALT]
+#EXTINF:-1 tvg-id="Telecine Touch HD.br" tvg-name="TELECINE TOUCH HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-touch.png" group-title="🔴 TELECINE",TELECINE TOUCH HD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479281.ts
-#EXTINF:-1 tvg-id="Telecine Touch HD.br" tvg-name="TELECINE TOUCH SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-touch.png" group-title="🔴  TELECINE",TELECINE TOUCH SD
+#EXTINF:-1 tvg-id="Telecine Touch HD.br" tvg-name="TELECINE TOUCH SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-touch.png" group-title="🔴 TELECINE",TELECINE TOUCH SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784725.ts
-#EXTINF:-1 tvg-id="HBO HD.br" tvg-name="HBO FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo.png" group-title="🔴  HBO",HBO FHD
+#EXTINF:-1 tvg-id="HBO HD.br" tvg-name="HBO FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo.png" group-title="🔴 HBO",HBO FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784732.ts
-#EXTINF:-1 tvg-id="HBO HD.br" tvg-name="HBO FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo.png" group-title="🔴  HBO",HBO FHD [ALT]
+#EXTINF:-1 tvg-id="HBO HD.br" tvg-name="HBO FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo.png" group-title="🔴 HBO",HBO FHD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479289.ts
-#EXTINF:-1 tvg-id="HBO HD.br" tvg-name="HBO HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo.png" group-title="🔴  HBO",HBO HD
+#EXTINF:-1 tvg-id="HBO HD.br" tvg-name="HBO HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo.png" group-title="🔴 HBO",HBO HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784749.ts
-#EXTINF:-1 tvg-id="HBO HD.br" tvg-name="HBO HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo.png" group-title="🔴  HBO",HBO HD [ALT]
+#EXTINF:-1 tvg-id="HBO HD.br" tvg-name="HBO HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo.png" group-title="🔴 HBO",HBO HD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479290.ts
-#EXTINF:-1 tvg-id="HBO HD.br" tvg-name="HBO SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo.png" group-title="🔴  HBO",HBO SD
+#EXTINF:-1 tvg-id="HBO HD.br" tvg-name="HBO SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo.png" group-title="🔴 HBO",HBO SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784739.ts
-#EXTINF:-1 tvg-id="HBO 2.br" tvg-name="HBO 2 FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo2.png" group-title="🔴  HBO",HBO 2 FHD
+#EXTINF:-1 tvg-id="HBO 2.br" tvg-name="HBO 2 FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo2.png" group-title="🔴 HBO",HBO 2 FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784726.ts
-#EXTINF:-1 tvg-id="HBO 2.br" tvg-name="HBO 2 FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo2.png" group-title="🔴  HBO",HBO 2 FHD [ALT]
+#EXTINF:-1 tvg-id="HBO 2.br" tvg-name="HBO 2 FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo2.png" group-title="🔴 HBO",HBO 2 FHD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479283.ts
-#EXTINF:-1 tvg-id="HBO 2.br" tvg-name="HBO 2 HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo2.png" group-title="🔴  HBO",HBO 2 HD
+#EXTINF:-1 tvg-id="HBO 2.br" tvg-name="HBO 2 HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo2.png" group-title="🔴 HBO",HBO 2 HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784727.ts
-#EXTINF:-1 tvg-id="HBO 2.br" tvg-name="HBO 2 HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo2.png" group-title="🔴  HBO",HBO 2 HD [ALT]
+#EXTINF:-1 tvg-id="HBO 2.br" tvg-name="HBO 2 HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo2.png" group-title="🔴 HBO",HBO 2 HD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479284.ts
-#EXTINF:-1 tvg-id="HBO 2.br" tvg-name="HBO 2 SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo2.png" group-title="🔴  HBO",HBO 2 SD
+#EXTINF:-1 tvg-id="HBO 2.br" tvg-name="HBO 2 SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo2.png" group-title="🔴 HBO",HBO 2 SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784728.ts
-#EXTINF:-1 tvg-id="HBO Family HD.br" tvg-name="HBO FAMILY FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-family.png" group-title="🔴  HBO",HBO FAMILY FHD
+#EXTINF:-1 tvg-id="HBO Family HD.br" tvg-name="HBO FAMILY FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-family.png" group-title="🔴 HBO",HBO FAMILY FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784729.ts
-#EXTINF:-1 tvg-id="HBO Family HD.br" tvg-name="HBO FAMILY FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-family.png" group-title="🔴  HBO",HBO FAMILY FHD [ALT]
+#EXTINF:-1 tvg-id="HBO Family HD.br" tvg-name="HBO FAMILY FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-family.png" group-title="🔴 HBO",HBO FAMILY FHD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479286.ts
-#EXTINF:-1 tvg-id="HBO Family HD.br" tvg-name="HBO FAMILY HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-family.png" group-title="🔴  HBO",HBO FAMILY HD
+#EXTINF:-1 tvg-id="HBO Family HD.br" tvg-name="HBO FAMILY HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-family.png" group-title="🔴 HBO",HBO FAMILY HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784730.ts
-#EXTINF:-1 tvg-id="HBO Family HD.br" tvg-name="HBO FAMILY HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-family.png" group-title="🔴  HBO",HBO FAMILY HD [ALT]
+#EXTINF:-1 tvg-id="HBO Family HD.br" tvg-name="HBO FAMILY HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-family.png" group-title="🔴 HBO",HBO FAMILY HD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479287.ts
-#EXTINF:-1 tvg-id="HBO Family HD.br" tvg-name="HBO FAMILY SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-family.png" group-title="🔴  HBO",HBO FAMILY SD
+#EXTINF:-1 tvg-id="HBO Family HD.br" tvg-name="HBO FAMILY SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-family.png" group-title="🔴 HBO",HBO FAMILY SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784731.ts
-#EXTINF:-1 tvg-id="HBO Mundi.br" tvg-name="HBO MUNDI FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-mundi.png" group-title="🔴  HBO",HBO MUNDI FHD
+#EXTINF:-1 tvg-id="HBO Mundi.br" tvg-name="HBO MUNDI FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-mundi.png" group-title="🔴 HBO",HBO MUNDI FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784733.ts
-#EXTINF:-1 tvg-id="HBO Mundi.br" tvg-name="HBO MUNDI FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-mundi.png" group-title="🔴  HBO",HBO MUNDI FHD [ALT]
+#EXTINF:-1 tvg-id="HBO Mundi.br" tvg-name="HBO MUNDI FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-mundi.png" group-title="🔴 HBO",HBO MUNDI FHD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479291.ts
-#EXTINF:-1 tvg-id="HBO Mundi.br" tvg-name="HBO MUNDI HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-mundi.png" group-title="🔴  HBO",HBO MUNDI HD
+#EXTINF:-1 tvg-id="HBO Mundi.br" tvg-name="HBO MUNDI HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-mundi.png" group-title="🔴 HBO",HBO MUNDI HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784734.ts
-#EXTINF:-1 tvg-id="HBO Mundi.br" tvg-name="HBO MUNDI HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-mundi.png" group-title="🔴  HBO",HBO MUNDI HD [ALT]
+#EXTINF:-1 tvg-id="HBO Mundi.br" tvg-name="HBO MUNDI HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-mundi.png" group-title="🔴 HBO",HBO MUNDI HD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479292.ts
-#EXTINF:-1 tvg-id="HBO Mundi.br" tvg-name="HBO MUNDI SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-mundi.png" group-title="🔴  HBO",HBO MUNDI SD
+#EXTINF:-1 tvg-id="HBO Mundi.br" tvg-name="HBO MUNDI SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-mundi.png" group-title="🔴 HBO",HBO MUNDI SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784735.ts
-#EXTINF:-1 tvg-id="HBO Pop.br" tvg-name="HBO POP FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-pop.png" group-title="🔴  HBO",HBO POP FHD
+#EXTINF:-1 tvg-id="HBO Pop.br" tvg-name="HBO POP FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-pop.png" group-title="🔴 HBO",HBO POP FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784736.ts
-#EXTINF:-1 tvg-id="HBO Pop.br" tvg-name="HBO POP FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-pop.png" group-title="🔴  HBO",HBO POP FHD [ALT]
+#EXTINF:-1 tvg-id="HBO Pop.br" tvg-name="HBO POP FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-pop.png" group-title="🔴 HBO",HBO POP FHD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479297.ts
-#EXTINF:-1 tvg-id="HBO Pop.br" tvg-name="HBO POP HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-pop.png" group-title="🔴  HBO",HBO POP HD
+#EXTINF:-1 tvg-id="HBO Pop.br" tvg-name="HBO POP HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-pop.png" group-title="🔴 HBO",HBO POP HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784737.ts
-#EXTINF:-1 tvg-id="HBO Pop.br" tvg-name="HBO POP HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-pop.png" group-title="🔴  HBO",HBO POP HD [ALT]
+#EXTINF:-1 tvg-id="HBO Pop.br" tvg-name="HBO POP HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-pop.png" group-title="🔴 HBO",HBO POP HD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479298.ts
-#EXTINF:-1 tvg-id="HBO Pop.br" tvg-name="HBO POP SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-pop.png" group-title="🔴  HBO",HBO POP SD
+#EXTINF:-1 tvg-id="HBO Pop.br" tvg-name="HBO POP SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-pop.png" group-title="🔴 HBO",HBO POP SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784738.ts
-#EXTINF:-1 tvg-id="HBO Signature HD.br" tvg-name="HBO SIGNATURE FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-signature.png" group-title="🔴  HBO",HBO SIGNATURE FHD
+#EXTINF:-1 tvg-id="HBO Signature HD.br" tvg-name="HBO SIGNATURE FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-signature.png" group-title="🔴 HBO",HBO SIGNATURE FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784740.ts
-#EXTINF:-1 tvg-id="HBO Signature HD.br" tvg-name="HBO SIGNATURE FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-signature.png" group-title="🔴  HBO",HBO SIGNATURE FHD [ALT]
+#EXTINF:-1 tvg-id="HBO Signature HD.br" tvg-name="HBO SIGNATURE FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-signature.png" group-title="🔴 HBO",HBO SIGNATURE FHD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479301.ts
-#EXTINF:-1 tvg-id="HBO Signature HD.br" tvg-name="HBO SIGNATURE HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-signature.png" group-title="🔴  HBO",HBO SIGNATURE HD
+#EXTINF:-1 tvg-id="HBO Signature HD.br" tvg-name="HBO SIGNATURE HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-signature.png" group-title="🔴 HBO",HBO SIGNATURE HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784741.ts
-#EXTINF:-1 tvg-id="HBO Signature HD.br" tvg-name="HBO SIGNATURE HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-signature.png" group-title="🔴  HBO",HBO SIGNATURE HD [ALT]
+#EXTINF:-1 tvg-id="HBO Signature HD.br" tvg-name="HBO SIGNATURE HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-signature.png" group-title="🔴 HBO",HBO SIGNATURE HD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479302.ts
-#EXTINF:-1 tvg-id="HBO Signature HD.br" tvg-name="HBO SIGNATURE SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-signature.png" group-title="🔴  HBO",HBO SIGNATURE SD
+#EXTINF:-1 tvg-id="HBO Signature HD.br" tvg-name="HBO SIGNATURE SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-signature.png" group-title="🔴 HBO",HBO SIGNATURE SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784742.ts
-#EXTINF:-1 tvg-id="HBO Xtreme.br" tvg-name="HBO XTREME FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-xtreme.png" group-title="🔴  HBO",HBO XTREME FHD
+#EXTINF:-1 tvg-id="HBO Xtreme.br" tvg-name="HBO XTREME FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-xtreme.png" group-title="🔴 HBO",HBO XTREME FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784743.ts
-#EXTINF:-1 tvg-id="HBO Xtreme.br" tvg-name="HBO XTREME FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-xtreme.png" group-title="🔴  HBO",HBO XTREME FHD [ALT]
+#EXTINF:-1 tvg-id="HBO Xtreme.br" tvg-name="HBO XTREME FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-xtreme.png" group-title="🔴 HBO",HBO XTREME FHD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479304.ts
-#EXTINF:-1 tvg-id="HBO Xtreme.br" tvg-name="HBO XTREME HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-xtreme.png" group-title="🔴  HBO",HBO XTREME HD
+#EXTINF:-1 tvg-id="HBO Xtreme.br" tvg-name="HBO XTREME HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-xtreme.png" group-title="🔴 HBO",HBO XTREME HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784744.ts
-#EXTINF:-1 tvg-id="HBO Xtreme.br" tvg-name="HBO XTREME HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-xtreme.png" group-title="🔴  HBO",HBO XTREME HD [ALT]
+#EXTINF:-1 tvg-id="HBO Xtreme.br" tvg-name="HBO XTREME HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-xtreme.png" group-title="🔴 HBO",HBO XTREME HD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479305.ts
-#EXTINF:-1 tvg-id="HBO Xtreme.br" tvg-name="HBO XTREME SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-xtreme.png" group-title="🔴  HBO",HBO XTREME SD
+#EXTINF:-1 tvg-id="HBO Xtreme.br" tvg-name="HBO XTREME SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-xtreme.png" group-title="🔴 HBO",HBO XTREME SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784745.ts
-#EXTINF:-1 tvg-id="HBO Plus HD.br" tvg-name="HBO+ FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-plus.png" group-title="🔴  HBO",HBO+ FHD
+#EXTINF:-1 tvg-id="HBO Plus HD.br" tvg-name="HBO+ FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-plus.png" group-title="🔴 HBO",HBO+ FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784746.ts
-#EXTINF:-1 tvg-id="HBO Plus HD.br" tvg-name="HBO+ FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-plus.png" group-title="🔴  HBO",HBO+ FHD [ALT]
+#EXTINF:-1 tvg-id="HBO Plus HD.br" tvg-name="HBO+ FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-plus.png" group-title="🔴 HBO",HBO+ FHD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479294.ts
-#EXTINF:-1 tvg-id="HBO Plus HD.br" tvg-name="HBO+ HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-plus.png" group-title="🔴  HBO",HBO+ HD
+#EXTINF:-1 tvg-id="HBO Plus HD.br" tvg-name="HBO+ HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-plus.png" group-title="🔴 HBO",HBO+ HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784747.ts
-#EXTINF:-1 tvg-id="HBO Plus HD.br" tvg-name="HBO+ HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-plus.png" group-title="🔴  HBO",HBO+ HD [ALT]
+#EXTINF:-1 tvg-id="HBO Plus HD.br" tvg-name="HBO+ HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-plus.png" group-title="🔴 HBO",HBO+ HD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479295.ts
-#EXTINF:-1 tvg-id="HBO Plus HD.br" tvg-name="HBO+ SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-plus.png" group-title="🔴  HBO",HBO+ SD
+#EXTINF:-1 tvg-id="HBO Plus HD.br" tvg-name="HBO+ SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-plus.png" group-title="🔴 HBO",HBO+ SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/784748.ts
 #EXTINF:-1 tvg-id="Cartoon Network Brazil HD.br" tvg-name="CARTOON NETWORK FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cartoon-network.png" group-title="🔴 INFANTIL",CARTOON NETWORK FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/94576.ts
@@ -557,121 +557,121 @@ http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479490.ts
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/4167169.ts
 #EXTINF:-1 tvg-name="ADULT SWIM HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/adult-swim.png" group-title="🔴 INFANTIL",ADULT SWIM HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/4167168.ts
-#EXTINF:-1 tvg-id="Band News.br" tvg-name="BAND NEWS FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/band-news.png" group-title="🔴  NOTICIAS",BAND NEWS FHD
+#EXTINF:-1 tvg-id="Band News.br" tvg-name="BAND NEWS FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/band-news.png" group-title="🔴 NOTICIAS",BAND NEWS FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/97945.ts
-#EXTINF:-1 tvg-id="Band News.br" tvg-name="BAND NEWS FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/band-news.png" group-title="🔴  NOTICIAS",BAND NEWS FHD [ALT]
+#EXTINF:-1 tvg-id="Band News.br" tvg-name="BAND NEWS FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/band-news.png" group-title="🔴 NOTICIAS",BAND NEWS FHD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479492.ts
-#EXTINF:-1 tvg-id="Band News.br" tvg-name="BAND NEWS HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/band-news.png" group-title="🔴  NOTICIAS",BAND NEWS HD
+#EXTINF:-1 tvg-id="Band News.br" tvg-name="BAND NEWS HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/band-news.png" group-title="🔴 NOTICIAS",BAND NEWS HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/97946.ts
-#EXTINF:-1 tvg-id="Band News.br" tvg-name="BAND NEWS HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/band-news.png" group-title="🔴  NOTICIAS",BAND NEWS HD [ALT]
+#EXTINF:-1 tvg-id="Band News.br" tvg-name="BAND NEWS HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/band-news.png" group-title="🔴 NOTICIAS",BAND NEWS HD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479493.ts
-#EXTINF:-1 tvg-id="Band News.br" tvg-name="BAND NEWS SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/band-news.png" group-title="🔴  NOTICIAS",BAND NEWS SD
+#EXTINF:-1 tvg-id="Band News.br" tvg-name="BAND NEWS SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/band-news.png" group-title="🔴 NOTICIAS",BAND NEWS SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/97947.ts
-#EXTINF:-1 tvg-id="BBC News HD.br" tvg-name="BBC HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/bbc-news.png" group-title="🔴  NOTICIAS",BBC HD
+#EXTINF:-1 tvg-id="BBC News HD.br" tvg-name="BBC HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/bbc-news.png" group-title="🔴 NOTICIAS",BBC HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/4167170.ts
-#EXTINF:-1 tvg-id="BBC News HD.br" tvg-name="BBC SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/bbc-news.png" group-title="🔴  NOTICIAS",BBC SD
+#EXTINF:-1 tvg-id="BBC News HD.br" tvg-name="BBC SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/bbc-news.png" group-title="🔴 NOTICIAS",BBC SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/4167171.ts
-#EXTINF:-1 tvg-name="CANAL UOL HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/uol.png" group-title="🔴  NOTICIAS",CANAL UOL HD
+#EXTINF:-1 tvg-name="CANAL UOL HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/uol.png" group-title="🔴 NOTICIAS",CANAL UOL HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/776551.ts
-#EXTINF:-1 tvg-name="CANAL UOL HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/uol.png" group-title="🔴  NOTICIAS",CANAL UOL HD [ALT]
+#EXTINF:-1 tvg-name="CANAL UOL HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/uol.png" group-title="🔴 NOTICIAS",CANAL UOL HD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479532.ts
-#EXTINF:-1 tvg-name="CANAL UOL SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/uol.png" group-title="🔴  NOTICIAS",CANAL UOL SD
+#EXTINF:-1 tvg-name="CANAL UOL SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/uol.png" group-title="🔴 NOTICIAS",CANAL UOL SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/776552.ts
-#EXTINF:-1 tvg-id="CNN Brasil.br" tvg-name="CNN BRASIL FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-brasil.png" group-title="🔴  NOTICIAS",CNN BRASIL FHD
+#EXTINF:-1 tvg-id="CNN Brasil.br" tvg-name="CNN BRASIL FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-brasil.png" group-title="🔴 NOTICIAS",CNN BRASIL FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/97948.ts
-#EXTINF:-1 tvg-id="CNN Brasil.br" tvg-name="CNN BRASIL FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-brasil.png" group-title="🔴  NOTICIAS",CNN BRASIL FHD [ALT]
+#EXTINF:-1 tvg-id="CNN Brasil.br" tvg-name="CNN BRASIL FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-brasil.png" group-title="🔴 NOTICIAS",CNN BRASIL FHD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479499.ts
-#EXTINF:-1 tvg-id="CNN Brasil.br" tvg-name="CNN BRASIL HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-brasil.png" group-title="🔴  NOTICIAS",CNN BRASIL HD
+#EXTINF:-1 tvg-id="CNN Brasil.br" tvg-name="CNN BRASIL HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-brasil.png" group-title="🔴 NOTICIAS",CNN BRASIL HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/97949.ts
-#EXTINF:-1 tvg-id="CNN Brasil.br" tvg-name="CNN BRASIL SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-brasil.png" group-title="🔴  NOTICIAS",CNN BRASIL SD
+#EXTINF:-1 tvg-id="CNN Brasil.br" tvg-name="CNN BRASIL SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-brasil.png" group-title="🔴 NOTICIAS",CNN BRASIL SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208385.ts
-#EXTINF:-1 tvg-id="CNN Brasil.br" tvg-name="CNN BRASIL HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-brasil.png" group-title="🔴  NOTICIAS",CNN BRASIL HD [ALT]
+#EXTINF:-1 tvg-id="CNN Brasil.br" tvg-name="CNN BRASIL HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-brasil.png" group-title="🔴 NOTICIAS",CNN BRASIL HD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479500.ts
-#EXTINF:-1 tvg-name="CNN BRASIL MONEY FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-money.png" group-title="🔴  NOTICIAS",CNN BRASIL MONEY FHD
+#EXTINF:-1 tvg-name="CNN BRASIL MONEY FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-money.png" group-title="🔴 NOTICIAS",CNN BRASIL MONEY FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208341.ts
-#EXTINF:-1 tvg-name="CNN BRASIL MONEY HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-money.png" group-title="🔴  NOTICIAS",CNN BRASIL MONEY HD
+#EXTINF:-1 tvg-name="CNN BRASIL MONEY HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-money.png" group-title="🔴 NOTICIAS",CNN BRASIL MONEY HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208339.ts
-#EXTINF:-1 tvg-name="CNN BRASIL MONEY HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-money.png" group-title="🔴  NOTICIAS",CNN BRASIL MONEY HD [ALT]
+#EXTINF:-1 tvg-name="CNN BRASIL MONEY HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-money.png" group-title="🔴 NOTICIAS",CNN BRASIL MONEY HD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479507.ts
-#EXTINF:-1 tvg-name="CNN BRASIL MONEY SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-money.png" group-title="🔴  NOTICIAS",CNN BRASIL MONEY SD
+#EXTINF:-1 tvg-name="CNN BRASIL MONEY SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-money.png" group-title="🔴 NOTICIAS",CNN BRASIL MONEY SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208340.ts
-#EXTINF:-1 tvg-id="CNN en Español HD.br" tvg-name="CNN ESPANHOL  HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-espanhol.png" group-title="🔴  NOTICIAS",CNN ESPANHOL  HD [ALT]
+#EXTINF:-1 tvg-id="CNN en Español HD.br" tvg-name="CNN ESPANHOL  HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-espanhol.png" group-title="🔴 NOTICIAS",CNN ESPANHOL  HD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479503.ts
-#EXTINF:-1 tvg-id="CNN en Español HD.br" tvg-name="CNN ESPANHOL FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-espanhol.png" group-title="🔴  NOTICIAS",CNN ESPANHOL FHD [ALT]
+#EXTINF:-1 tvg-id="CNN en Español HD.br" tvg-name="CNN ESPANHOL FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-espanhol.png" group-title="🔴 NOTICIAS",CNN ESPANHOL FHD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479502.ts
-#EXTINF:-1 tvg-id="CNN International HD.br" tvg-name="CNN INTERNACIONAL FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-internacional.png" group-title="🔴  NOTICIAS",CNN INTERNACIONAL FHD
+#EXTINF:-1 tvg-id="CNN International HD.br" tvg-name="CNN INTERNACIONAL FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-internacional.png" group-title="🔴 NOTICIAS",CNN INTERNACIONAL FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479505.ts
-#EXTINF:-1 tvg-id="CNN International HD.br" tvg-name="CNN INTERNACIONAL HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-internacional.png" group-title="🔴  NOTICIAS",CNN INTERNACIONAL HD
+#EXTINF:-1 tvg-id="CNN International HD.br" tvg-name="CNN INTERNACIONAL HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-internacional.png" group-title="🔴 NOTICIAS",CNN INTERNACIONAL HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/97950.ts
-#EXTINF:-1 tvg-id="CNN International HD.br" tvg-name="CNN INTERNACIONAL HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-internacional.png" group-title="🔴  NOTICIAS",CNN INTERNACIONAL HD [ALT]
+#EXTINF:-1 tvg-id="CNN International HD.br" tvg-name="CNN INTERNACIONAL HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-internacional.png" group-title="🔴 NOTICIAS",CNN INTERNACIONAL HD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479506.ts
-#EXTINF:-1 tvg-id="CNN International HD.br" tvg-name="CNN INTERNACIONAL SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-internacional.png" group-title="🔴  NOTICIAS",CNN INTERNACIONAL SD
+#EXTINF:-1 tvg-id="CNN International HD.br" tvg-name="CNN INTERNACIONAL SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-internacional.png" group-title="🔴 NOTICIAS",CNN INTERNACIONAL SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/208452.ts
-#EXTINF:-1 tvg-id="Globo News HD.br" tvg-name="GLOBO NEWS FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globo-news.png" group-title="🔴  NOTICIAS",GLOBO NEWS FHD
+#EXTINF:-1 tvg-id="Globo News HD.br" tvg-name="GLOBO NEWS FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globo-news.png" group-title="🔴 NOTICIAS",GLOBO NEWS FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/96575.ts
-#EXTINF:-1 tvg-id="Globo News HD.br" tvg-name="GLOBO NEWS FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globo-news.png" group-title="🔴  NOTICIAS",GLOBO NEWS FHD [ALT]
+#EXTINF:-1 tvg-id="Globo News HD.br" tvg-name="GLOBO NEWS FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globo-news.png" group-title="🔴 NOTICIAS",GLOBO NEWS FHD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479516.ts
-#EXTINF:-1 tvg-id="Globo News HD.br" tvg-name="GLOBO NEWS HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globo-news.png" group-title="🔴  NOTICIAS",GLOBO NEWS HD
+#EXTINF:-1 tvg-id="Globo News HD.br" tvg-name="GLOBO NEWS HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globo-news.png" group-title="🔴 NOTICIAS",GLOBO NEWS HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/96576.ts
-#EXTINF:-1 tvg-id="Globo News HD.br" tvg-name="GLOBO NEWS HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globo-news.png" group-title="🔴  NOTICIAS",GLOBO NEWS HD [ALT]
+#EXTINF:-1 tvg-id="Globo News HD.br" tvg-name="GLOBO NEWS HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globo-news.png" group-title="🔴 NOTICIAS",GLOBO NEWS HD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479517.ts
-#EXTINF:-1 tvg-id="Globo News HD.br" tvg-name="GLOBO NEWS SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globo-news.png" group-title="🔴  NOTICIAS",GLOBO NEWS SD
+#EXTINF:-1 tvg-id="Globo News HD.br" tvg-name="GLOBO NEWS SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globo-news.png" group-title="🔴 NOTICIAS",GLOBO NEWS SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/96758.ts
-#EXTINF:-1 tvg-name="JOVEM PAN NEWS  HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/jovempan-news.png" group-title="🔴  NOTICIAS",JOVEM PAN NEWS  HD [ALT]
+#EXTINF:-1 tvg-name="JOVEM PAN NEWS  HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/jovempan-news.png" group-title="🔴 NOTICIAS",JOVEM PAN NEWS  HD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479520.ts
-#EXTINF:-1 tvg-name="JOVEM PAN NEWS FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/jovempan-news.png" group-title="🔴  NOTICIAS",JOVEM PAN NEWS FHD
+#EXTINF:-1 tvg-name="JOVEM PAN NEWS FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/jovempan-news.png" group-title="🔴 NOTICIAS",JOVEM PAN NEWS FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/97951.ts
-#EXTINF:-1 tvg-name="JOVEM PAN NEWS FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/jovempan-news.png" group-title="🔴  NOTICIAS",JOVEM PAN NEWS FHD [ALT]
+#EXTINF:-1 tvg-name="JOVEM PAN NEWS FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/jovempan-news.png" group-title="🔴 NOTICIAS",JOVEM PAN NEWS FHD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479519.ts
-#EXTINF:-1 tvg-name="JOVEM PAN NEWS HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/jovempan-news.png" group-title="🔴  NOTICIAS",JOVEM PAN NEWS HD
+#EXTINF:-1 tvg-name="JOVEM PAN NEWS HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/jovempan-news.png" group-title="🔴 NOTICIAS",JOVEM PAN NEWS HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/97952.ts
-#EXTINF:-1 tvg-name="JOVEM PAN NEWS SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/jovempan-news.png" group-title="🔴  NOTICIAS",JOVEM PAN NEWS SD
+#EXTINF:-1 tvg-name="JOVEM PAN NEWS SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/jovempan-news.png" group-title="🔴 NOTICIAS",JOVEM PAN NEWS SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/97953.ts
-#EXTINF:-1 tvg-id="Record News HD.br" tvg-name="RECORD NEWS FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/record-news.png" group-title="🔴  NOTICIAS",RECORD NEWS FHD
+#EXTINF:-1 tvg-id="Record News HD.br" tvg-name="RECORD NEWS FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/record-news.png" group-title="🔴 NOTICIAS",RECORD NEWS FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/97954.ts
-#EXTINF:-1 tvg-id="Record News HD.br" tvg-name="RECORD NEWS FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/record-news.png" group-title="🔴  NOTICIAS",RECORD NEWS FHD [ALT]
+#EXTINF:-1 tvg-id="Record News HD.br" tvg-name="RECORD NEWS FHD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/record-news.png" group-title="🔴 NOTICIAS",RECORD NEWS FHD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479521.ts
-#EXTINF:-1 tvg-id="Record News HD.br" tvg-name="RECORD NEWS HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/record-news.png" group-title="🔴  NOTICIAS",RECORD NEWS HD
+#EXTINF:-1 tvg-id="Record News HD.br" tvg-name="RECORD NEWS HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/record-news.png" group-title="🔴 NOTICIAS",RECORD NEWS HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/97955.ts
-#EXTINF:-1 tvg-id="Record News HD.br" tvg-name="RECORD NEWS SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/record-news.png" group-title="🔴  NOTICIAS",RECORD NEWS SD
+#EXTINF:-1 tvg-id="Record News HD.br" tvg-name="RECORD NEWS SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/record-news.png" group-title="🔴 NOTICIAS",RECORD NEWS SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/97956.ts
-#EXTINF:-1 tvg-id="Record News HD.br" tvg-name="RECORD NEWS HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/record-news.png" group-title="🔴  NOTICIAS",RECORD NEWS HD [ALT]
+#EXTINF:-1 tvg-id="Record News HD.br" tvg-name="RECORD NEWS HD [ALT]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/record-news.png" group-title="🔴 NOTICIAS",RECORD NEWS HD [ALT]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/1479522.ts
-#EXTINF:-1 tvg-name="SBT NEWS FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/sbt-news.png" group-title="🔴  NOTICIAS",SBT NEWS FHD
+#EXTINF:-1 tvg-name="SBT NEWS FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/sbt-news.png" group-title="🔴 NOTICIAS",SBT NEWS FHD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/4167315.ts
-#EXTINF:-1 tvg-name="SBT NEWS HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/sbt-news.png" group-title="🔴  NOTICIAS",SBT NEWS HD
+#EXTINF:-1 tvg-name="SBT NEWS HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/sbt-news.png" group-title="🔴 NOTICIAS",SBT NEWS HD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/4167316.ts
-#EXTINF:-1 tvg-name="SBT NEWS SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/sbt-news.png" group-title="🔴  NOTICIAS",SBT NEWS SD
+#EXTINF:-1 tvg-name="SBT NEWS SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/sbt-news.png" group-title="🔴 NOTICIAS",SBT NEWS SD
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/4167317.ts
-#EXTINF:-1 tvg-name="CINE SKY 01" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cine-sky.png" group-title="🔴  CINE SKY",CINE SKY 01
+#EXTINF:-1 tvg-name="CINE SKY 01" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cine-sky.png" group-title="🔴 CINE SKY",CINE SKY 01
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/3456091.ts
-#EXTINF:-1 tvg-name="CINE SKY 02" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cine-sky.png" group-title="🔴  CINE SKY",CINE SKY 02
+#EXTINF:-1 tvg-name="CINE SKY 02" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cine-sky.png" group-title="🔴 CINE SKY",CINE SKY 02
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/3456092.ts
-#EXTINF:-1 tvg-name="CINE SKY 03" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cine-sky.png" group-title="🔴  CINE SKY",CINE SKY 03
+#EXTINF:-1 tvg-name="CINE SKY 03" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cine-sky.png" group-title="🔴 CINE SKY",CINE SKY 03
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/3456093.ts
-#EXTINF:-1 tvg-name="CINE SKY 04" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cine-sky.png" group-title="🔴  CINE SKY",CINE SKY 04
+#EXTINF:-1 tvg-name="CINE SKY 04" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cine-sky.png" group-title="🔴 CINE SKY",CINE SKY 04
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/3456094.ts
-#EXTINF:-1 tvg-name="CINE SKY 05" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cine-sky.png" group-title="🔴  CINE SKY",CINE SKY 05
+#EXTINF:-1 tvg-name="CINE SKY 05" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cine-sky.png" group-title="🔴 CINE SKY",CINE SKY 05
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/3456095.ts
-#EXTINF:-1 tvg-name="CINE SKY 06" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cine-sky.png" group-title="🔴  CINE SKY",CINE SKY 06
+#EXTINF:-1 tvg-name="CINE SKY 06" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cine-sky.png" group-title="🔴 CINE SKY",CINE SKY 06
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/3456096.ts
-#EXTINF:-1 tvg-name="CINE SKY 07" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cine-sky.png" group-title="🔴  CINE SKY",CINE SKY 07
+#EXTINF:-1 tvg-name="CINE SKY 07" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cine-sky.png" group-title="🔴 CINE SKY",CINE SKY 07
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/3456097.ts
-#EXTINF:-1 tvg-name="CINE SKY 08" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cine-sky.png" group-title="🔴  CINE SKY",CINE SKY 08
+#EXTINF:-1 tvg-name="CINE SKY 08" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cine-sky.png" group-title="🔴 CINE SKY",CINE SKY 08
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/3456098.ts
-#EXTINF:-1 tvg-name="CINE SKY 09" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cine-sky.png" group-title="🔴  CINE SKY",CINE SKY 09
+#EXTINF:-1 tvg-name="CINE SKY 09" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cine-sky.png" group-title="🔴 CINE SKY",CINE SKY 09
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/3456099.ts
-#EXTINF:-1 tvg-name="CINE SKY 10" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cine-sky.png" group-title="🔴  CINE SKY",CINE SKY 10
+#EXTINF:-1 tvg-name="CINE SKY 10" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cine-sky.png" group-title="🔴 CINE SKY",CINE SKY 10
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/3456100.ts
-#EXTINF:-1 tvg-name="CINE SKY 11" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cine-sky.png" group-title="🔴  CINE SKY",CINE SKY 11
+#EXTINF:-1 tvg-name="CINE SKY 11" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cine-sky.png" group-title="🔴 CINE SKY",CINE SKY 11
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/3456101.ts
-#EXTINF:-1 tvg-name="CINE SKY 12" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cine-sky.png" group-title="🔴  CINE SKY",CINE SKY 12
+#EXTINF:-1 tvg-name="CINE SKY 12" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cine-sky.png" group-title="🔴 CINE SKY",CINE SKY 12
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/3456102.ts
-#EXTINF:-1 tvg-name="CINE SKY 13" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cine-sky.png" group-title="🔴  CINE SKY",CINE SKY 13
+#EXTINF:-1 tvg-name="CINE SKY 13" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cine-sky.png" group-title="🔴 CINE SKY",CINE SKY 13
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/3456103.ts
-#EXTINF:-1 tvg-name="CINE SKY 14" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cine-sky.png" group-title="🔴  CINE SKY",CINE SKY 14
+#EXTINF:-1 tvg-name="CINE SKY 14" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cine-sky.png" group-title="🔴 CINE SKY",CINE SKY 14
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/3456104.ts
-#EXTINF:-1 tvg-name="CINE SKY 15" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cine-sky.png" group-title="🔴  CINE SKY",CINE SKY 15
+#EXTINF:-1 tvg-name="CINE SKY 15" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cine-sky.png" group-title="🔴 CINE SKY",CINE SKY 15
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/3456090.ts
 #EXTINF:-1 tvg-id="Globo RJ.br" tvg-name="GLOBO RJ FHD [H265]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globo.png" group-title="🔴 CANAIS FHD H265",GLOBO RJ FHD [H265]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785170.ts
@@ -679,7 +679,7 @@ http://bmnew26.site:80/live/Saldanha/Capoeira2308/785170.ts
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785203.ts
 #EXTINF:-1 tvg-id="Band HD.br" tvg-name="BAND SP FHD [H265]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/band.png" group-title="🔴 CANAIS FHD H265",BAND SP FHD [H265]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785138.ts
-#EXTINF:-1 tvg-id="A&E HD.br" tvg-name="A&E FHD [H265]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/e!.png" group-title="🔴 CANAIS FHD H265",A&E FHD [H265]
+#EXTINF:-1 tvg-id="A&E HD.br" tvg-name="A&E FHD [H265]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/a-e.png" group-title="🔴 CANAIS FHD H265",A&E FHD [H265]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785134.ts
 #EXTINF:-1 tvg-id="Animal Planet HD.br" tvg-name="ANIMAL PLANET FHD [H265]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/animal-planet.png" group-title="🔴 CANAIS FHD H265",ANIMAL PLANET FHD [H265]
 http://bmnew26.site:80/live/Saldanha/Capoeira2308/785135.ts
@@ -2063,75 +2063,75 @@ http://strming.cloud:80/live/jonyalbo/8162628Kk/27512519.ts
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532322.ts
 #EXTINF:-1 tvg-id="Discovery Kids HD.br" tvg-name="DISCOVERY KIDS • H265" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-kids.png" group-title="🟣 INFANTIL",DISCOVERY KIDS • H265
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532393.ts
-#EXTINF:-1 tvg-id="Band News.br" tvg-name="BAND NEWS • FHDR" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/band-news.png" group-title="🟣  NOTÍCIAS",BAND NEWS • FHDR
+#EXTINF:-1 tvg-id="Band News.br" tvg-name="BAND NEWS • FHDR" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/band-news.png" group-title="🟣 NOTÍCIAS",BAND NEWS • FHDR
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532299.ts
-#EXTINF:-1 tvg-id="Band News.br" tvg-name="BAND NEWS • H265" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/band-news.png" group-title="🟣  NOTÍCIAS",BAND NEWS • H265
+#EXTINF:-1 tvg-id="Band News.br" tvg-name="BAND NEWS • H265" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/band-news.png" group-title="🟣 NOTÍCIAS",BAND NEWS • H265
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532370.ts
-#EXTINF:-1 tvg-id="Band News.br" tvg-name="BAND NEWS • FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/band-news.png" group-title="🟣  NOTÍCIAS",BAND NEWS • FHD
+#EXTINF:-1 tvg-id="Band News.br" tvg-name="BAND NEWS • FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/band-news.png" group-title="🟣 NOTÍCIAS",BAND NEWS • FHD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514696.ts
-#EXTINF:-1 tvg-id="Band News.br" tvg-name="BAND NEWS • HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/band-news.png" group-title="🟣  NOTÍCIAS",BAND NEWS • HD
+#EXTINF:-1 tvg-id="Band News.br" tvg-name="BAND NEWS • HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/band-news.png" group-title="🟣 NOTÍCIAS",BAND NEWS • HD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514695.ts
-#EXTINF:-1 tvg-id="Band News.br" tvg-name="BAND NEWS • SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/band-news.png" group-title="🟣  NOTÍCIAS",BAND NEWS • SD
+#EXTINF:-1 tvg-id="Band News.br" tvg-name="BAND NEWS • SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/band-news.png" group-title="🟣 NOTÍCIAS",BAND NEWS • SD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514694.ts
-#EXTINF:-1 tvg-id="BBC News HD.br" tvg-name="BBC WORLD • FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/bbc-news.png" group-title="🟣  NOTÍCIAS",BBC WORLD • FHD
+#EXTINF:-1 tvg-id="BBC News HD.br" tvg-name="BBC WORLD • FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/bbc-news.png" group-title="🟣 NOTÍCIAS",BBC WORLD • FHD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27519118.ts
-#EXTINF:-1 tvg-id="BBC News HD.br" tvg-name="BBC WORLD • HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/bbc-news.png" group-title="🟣  NOTÍCIAS",BBC WORLD • HD
+#EXTINF:-1 tvg-id="BBC News HD.br" tvg-name="BBC WORLD • HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/bbc-news.png" group-title="🟣 NOTÍCIAS",BBC WORLD • HD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27519117.ts
-#EXTINF:-1 tvg-id="CNN Brasil.br" tvg-name="CNN BRASIL • FHDR" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-brasil.png" group-title="🟣  NOTÍCIAS",CNN BRASIL • FHDR
+#EXTINF:-1 tvg-id="CNN Brasil.br" tvg-name="CNN BRASIL • FHDR" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-brasil.png" group-title="🟣 NOTÍCIAS",CNN BRASIL • FHDR
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532315.ts
-#EXTINF:-1 tvg-id="CNN Brasil.br" tvg-name="CNN BRASIL • H265" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-brasil.png" group-title="🟣  NOTÍCIAS",CNN BRASIL • H265
+#EXTINF:-1 tvg-id="CNN Brasil.br" tvg-name="CNN BRASIL • H265" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-brasil.png" group-title="🟣 NOTÍCIAS",CNN BRASIL • H265
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532386.ts
-#EXTINF:-1 tvg-id="CNN Brasil.br" tvg-name="CNN BRASIL • FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-brasil.png" group-title="🟣  NOTÍCIAS",CNN BRASIL • FHD
+#EXTINF:-1 tvg-id="CNN Brasil.br" tvg-name="CNN BRASIL • FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-brasil.png" group-title="🟣 NOTÍCIAS",CNN BRASIL • FHD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514693.ts
-#EXTINF:-1 tvg-id="CNN Brasil.br" tvg-name="CNN BRASIL • HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-brasil.png" group-title="🟣  NOTÍCIAS",CNN BRASIL • HD
+#EXTINF:-1 tvg-id="CNN Brasil.br" tvg-name="CNN BRASIL • HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-brasil.png" group-title="🟣 NOTÍCIAS",CNN BRASIL • HD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514692.ts
-#EXTINF:-1 tvg-id="CNN Brasil.br" tvg-name="CNN BRASIL • SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-brasil.png" group-title="🟣  NOTÍCIAS",CNN BRASIL • SD
+#EXTINF:-1 tvg-id="CNN Brasil.br" tvg-name="CNN BRASIL • SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-brasil.png" group-title="🟣 NOTÍCIAS",CNN BRASIL • SD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514691.ts
-#EXTINF:-1 tvg-name="CNN BRASIL MONEY • FHDR" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-money.png" group-title="🟣  NOTÍCIAS",CNN BRASIL MONEY • FHDR
+#EXTINF:-1 tvg-name="CNN BRASIL MONEY • FHDR" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-money.png" group-title="🟣 NOTÍCIAS",CNN BRASIL MONEY • FHDR
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532106.ts
-#EXTINF:-1 tvg-name="CNN BRASIL MONEY • H265" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-money.png" group-title="🟣  NOTÍCIAS",CNN BRASIL MONEY • H265
+#EXTINF:-1 tvg-name="CNN BRASIL MONEY • H265" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-money.png" group-title="🟣 NOTÍCIAS",CNN BRASIL MONEY • H265
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532107.ts
-#EXTINF:-1 tvg-name="CNN BRASIL MONEY • FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-money.png" group-title="🟣  NOTÍCIAS",CNN BRASIL MONEY • FHD
+#EXTINF:-1 tvg-name="CNN BRASIL MONEY • FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-money.png" group-title="🟣 NOTÍCIAS",CNN BRASIL MONEY • FHD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514690.ts
-#EXTINF:-1 tvg-name="CNN BRASIL MONEY • HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-money.png" group-title="🟣  NOTÍCIAS",CNN BRASIL MONEY • HD
+#EXTINF:-1 tvg-name="CNN BRASIL MONEY • HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-money.png" group-title="🟣 NOTÍCIAS",CNN BRASIL MONEY • HD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514689.ts
-#EXTINF:-1 tvg-name="CNN BRASIL MONEY • SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-money.png" group-title="🟣  NOTÍCIAS",CNN BRASIL MONEY • SD
+#EXTINF:-1 tvg-name="CNN BRASIL MONEY • SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-money.png" group-title="🟣 NOTÍCIAS",CNN BRASIL MONEY • SD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514688.ts
-#EXTINF:-1 tvg-id="CNN en Español HD.br" tvg-name="CNN ESPANHOL" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-espanhol.png" group-title="🟣  NOTÍCIAS",CNN ESPANHOL
+#EXTINF:-1 tvg-id="CNN en Español HD.br" tvg-name="CNN ESPANHOL" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-espanhol.png" group-title="🟣 NOTÍCIAS",CNN ESPANHOL
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514687.ts
-#EXTINF:-1 tvg-id="CNN International HD.br" tvg-name="CNN INTERNACIONAL" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-internacional.png" group-title="🟣  NOTÍCIAS",CNN INTERNACIONAL
+#EXTINF:-1 tvg-id="CNN International HD.br" tvg-name="CNN INTERNACIONAL" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-internacional.png" group-title="🟣 NOTÍCIAS",CNN INTERNACIONAL
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514686.ts
-#EXTINF:-1 tvg-id="Globo News.br" tvg-name="GLOBONEWS • FHDR" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globo-news.png" group-title="🟣  NOTÍCIAS",GLOBONEWS • FHDR
+#EXTINF:-1 tvg-id="Globo News.br" tvg-name="GLOBONEWS • FHDR" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globo-news.png" group-title="🟣 NOTÍCIAS",GLOBONEWS • FHDR
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532345.ts
-#EXTINF:-1 tvg-id="Globo News.br" tvg-name="GLOBONEWS • H265" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globo-news.png" group-title="🟣  NOTÍCIAS",GLOBONEWS • H265
+#EXTINF:-1 tvg-id="Globo News.br" tvg-name="GLOBONEWS • H265" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globo-news.png" group-title="🟣 NOTÍCIAS",GLOBONEWS • H265
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532417.ts
-#EXTINF:-1 tvg-id="Globo News.br" tvg-name="GLOBONEWS • FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globo-news.png" group-title="🟣  NOTÍCIAS",GLOBONEWS • FHD
+#EXTINF:-1 tvg-id="Globo News.br" tvg-name="GLOBONEWS • FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globo-news.png" group-title="🟣 NOTÍCIAS",GLOBONEWS • FHD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514685.ts
-#EXTINF:-1 tvg-id="Globo News.br" tvg-name="GLOBONEWS • HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globo-news.png" group-title="🟣  NOTÍCIAS",GLOBONEWS • HD
+#EXTINF:-1 tvg-id="Globo News.br" tvg-name="GLOBONEWS • HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globo-news.png" group-title="🟣 NOTÍCIAS",GLOBONEWS • HD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514684.ts
-#EXTINF:-1 tvg-id="Globo News.br" tvg-name="GLOBONEWS • SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globo-news.png" group-title="🟣  NOTÍCIAS",GLOBONEWS • SD
+#EXTINF:-1 tvg-id="Globo News.br" tvg-name="GLOBONEWS • SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/globo-news.png" group-title="🟣 NOTÍCIAS",GLOBONEWS • SD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514683.ts
-#EXTINF:-1 tvg-name="JOVEM PAN NEWS • FHDR" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/jovempan-news.png" group-title="🟣  NOTÍCIAS",JOVEM PAN NEWS • FHDR
+#EXTINF:-1 tvg-name="JOVEM PAN NEWS • FHDR" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/jovempan-news.png" group-title="🟣 NOTÍCIAS",JOVEM PAN NEWS • FHDR
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513401.ts
-#EXTINF:-1 tvg-name="JOVEM PAN NEWS • FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/jovempan-news.png" group-title="🟣  NOTÍCIAS",JOVEM PAN NEWS • FHD
+#EXTINF:-1 tvg-name="JOVEM PAN NEWS • FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/jovempan-news.png" group-title="🟣 NOTÍCIAS",JOVEM PAN NEWS • FHD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514682.ts
-#EXTINF:-1 tvg-name="JOVEM PAN NEWS • HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/jovempan-news.png" group-title="🟣  NOTÍCIAS",JOVEM PAN NEWS • HD
+#EXTINF:-1 tvg-name="JOVEM PAN NEWS • HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/jovempan-news.png" group-title="🟣 NOTÍCIAS",JOVEM PAN NEWS • HD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514681.ts
-#EXTINF:-1 tvg-name="JOVEM PAN NEWS • SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/jovempan-news.png" group-title="🟣  NOTÍCIAS",JOVEM PAN NEWS • SD
+#EXTINF:-1 tvg-name="JOVEM PAN NEWS • SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/jovempan-news.png" group-title="🟣 NOTÍCIAS",JOVEM PAN NEWS • SD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514680.ts
-#EXTINF:-1 tvg-id="Record News HD.br" tvg-name="RECORD NEWS • FHDR" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/record-news.png" group-title="🟣  NOTÍCIAS",RECORD NEWS • FHDR
+#EXTINF:-1 tvg-id="Record News HD.br" tvg-name="RECORD NEWS • FHDR" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/record-news.png" group-title="🟣 NOTÍCIAS",RECORD NEWS • FHDR
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513371.ts
-#EXTINF:-1 tvg-id="Record News HD.br" tvg-name="RECORD NEWS • FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/record-news.png" group-title="🟣  NOTÍCIAS",RECORD NEWS • FHD
+#EXTINF:-1 tvg-id="Record News HD.br" tvg-name="RECORD NEWS • FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/record-news.png" group-title="🟣 NOTÍCIAS",RECORD NEWS • FHD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514679.ts
-#EXTINF:-1 tvg-id="Record News HD.br" tvg-name="RECORD NEWS • HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/record-news.png" group-title="🟣  NOTÍCIAS",RECORD NEWS • HD
+#EXTINF:-1 tvg-id="Record News HD.br" tvg-name="RECORD NEWS • HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/record-news.png" group-title="🟣 NOTÍCIAS",RECORD NEWS • HD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514678.ts
-#EXTINF:-1 tvg-id="Record News HD.br" tvg-name="RECORD NEWS • SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/record-news.png" group-title="🟣  NOTÍCIAS",RECORD NEWS • SD
+#EXTINF:-1 tvg-id="Record News HD.br" tvg-name="RECORD NEWS • SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/record-news.png" group-title="🟣 NOTÍCIAS",RECORD NEWS • SD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514677.ts
-#EXTINF:-1 tvg-name="SBT NEWS" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/sbt-news.png" group-title="🟣  NOTÍCIAS",SBT NEWS
+#EXTINF:-1 tvg-name="SBT NEWS" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/sbt-news.png" group-title="🟣 NOTÍCIAS",SBT NEWS
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27531941.ts
-#EXTINF:-1 tvg-name="TIMES BRASIL • FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/times-brasil.png" group-title="🟣  NOTÍCIAS",TIMES BRASIL • FHD
+#EXTINF:-1 tvg-name="TIMES BRASIL • FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/times-brasil.png" group-title="🟣 NOTÍCIAS",TIMES BRASIL • FHD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514676.ts
-#EXTINF:-1 tvg-name="TIMES BRASIL • HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/times-brasil.png" group-title="🟣  NOTÍCIAS",TIMES BRASIL • HD
+#EXTINF:-1 tvg-name="TIMES BRASIL • HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/times-brasil.png" group-title="🟣 NOTÍCIAS",TIMES BRASIL • HD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514675.ts
 #EXTINF:-1 tvg-name="ADULT SWIM • FHDR" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/adult-swim.png" group-title="🟣 VARIEDADES",ADULT SWIM • FHDR
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532162.ts
@@ -2421,69 +2421,69 @@ http://strming.cloud:80/live/jonyalbo/8162628Kk/27510285.ts
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27510284.ts
 #EXTINF:-1 tvg-id="Telecine Touch HD.br" tvg-name="TELECINE TOUCH • SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/telecine-touch.png" group-title="🟣 TELECINE",TELECINE TOUCH • SD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27510283.ts
-#EXTINF:-1 tvg-id="HBO HD.br" tvg-name="HBO • FHDR" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo.png" group-title="🟣  HBO",HBO • FHDR
+#EXTINF:-1 tvg-id="HBO HD.br" tvg-name="HBO • FHDR" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo.png" group-title="🟣 HBO",HBO • FHDR
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513410.ts
-#EXTINF:-1 tvg-id="HBO HD.br" tvg-name="HBO • FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo.png" group-title="🟣  HBO",HBO • FHD
+#EXTINF:-1 tvg-id="HBO HD.br" tvg-name="HBO • FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo.png" group-title="🟣 HBO",HBO • FHD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514141.ts
-#EXTINF:-1 tvg-id="HBO HD.br" tvg-name="HBO • HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo.png" group-title="🟣  HBO",HBO • HD
+#EXTINF:-1 tvg-id="HBO HD.br" tvg-name="HBO • HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo.png" group-title="🟣 HBO",HBO • HD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514140.ts
-#EXTINF:-1 tvg-id="HBO HD.br" tvg-name="HBO • SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo.png" group-title="🟣  HBO",HBO • SD
+#EXTINF:-1 tvg-id="HBO HD.br" tvg-name="HBO • SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo.png" group-title="🟣 HBO",HBO • SD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514139.ts
-#EXTINF:-1 tvg-id="HBO 2.br" tvg-name="HBO 2 • FHDR" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo2.png" group-title="🟣  HBO",HBO 2 • FHDR
+#EXTINF:-1 tvg-id="HBO 2.br" tvg-name="HBO 2 • FHDR" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo2.png" group-title="🟣 HBO",HBO 2 • FHDR
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513412.ts
-#EXTINF:-1 tvg-id="HBO 2.br" tvg-name="HBO 2 • FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo2.png" group-title="🟣  HBO",HBO 2 • FHD
+#EXTINF:-1 tvg-id="HBO 2.br" tvg-name="HBO 2 • FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo2.png" group-title="🟣 HBO",HBO 2 • FHD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514135.ts
-#EXTINF:-1 tvg-id="HBO 2.br" tvg-name="HBO 2 • HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo2.png" group-title="🟣  HBO",HBO 2 • HD
+#EXTINF:-1 tvg-id="HBO 2.br" tvg-name="HBO 2 • HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo2.png" group-title="🟣 HBO",HBO 2 • HD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514134.ts
-#EXTINF:-1 tvg-id="HBO 2.br" tvg-name="HBO 2 • SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo2.png" group-title="🟣  HBO",HBO 2 • SD
+#EXTINF:-1 tvg-id="HBO 2.br" tvg-name="HBO 2 • SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo2.png" group-title="🟣 HBO",HBO 2 • SD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514133.ts
-#EXTINF:-1 tvg-id="HBO Family HD.br" tvg-name="HBO FAMILY • FHDR" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-family.png" group-title="🟣  HBO",HBO FAMILY • FHDR
+#EXTINF:-1 tvg-id="HBO Family HD.br" tvg-name="HBO FAMILY • FHDR" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-family.png" group-title="🟣 HBO",HBO FAMILY • FHDR
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513411.ts
-#EXTINF:-1 tvg-id="HBO Family HD.br" tvg-name="HBO FAMILY • FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-family.png" group-title="🟣  HBO",HBO FAMILY • FHD
+#EXTINF:-1 tvg-id="HBO Family HD.br" tvg-name="HBO FAMILY • FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-family.png" group-title="🟣 HBO",HBO FAMILY • FHD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514132.ts
-#EXTINF:-1 tvg-id="HBO Family HD.br" tvg-name="HBO FAMILY • HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-family.png" group-title="🟣  HBO",HBO FAMILY • HD
+#EXTINF:-1 tvg-id="HBO Family HD.br" tvg-name="HBO FAMILY • HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-family.png" group-title="🟣 HBO",HBO FAMILY • HD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514131.ts
-#EXTINF:-1 tvg-id="HBO Family HD.br" tvg-name="HBO FAMILY • SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-family.png" group-title="🟣  HBO",HBO FAMILY • SD
+#EXTINF:-1 tvg-id="HBO Family HD.br" tvg-name="HBO FAMILY • SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-family.png" group-title="🟣 HBO",HBO FAMILY • SD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514130.ts
-#EXTINF:-1 tvg-id="HBO Mundi.br" tvg-name="HBO MUNDI • FHDR" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-mundi.png" group-title="🟣  HBO",HBO MUNDI • FHDR
+#EXTINF:-1 tvg-id="HBO Mundi.br" tvg-name="HBO MUNDI • FHDR" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-mundi.png" group-title="🟣 HBO",HBO MUNDI • FHDR
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513409.ts
-#EXTINF:-1 tvg-id="HBO Mundi.br" tvg-name="HBO MUNDI • FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-mundi.png" group-title="🟣  HBO",HBO MUNDI • FHD
+#EXTINF:-1 tvg-id="HBO Mundi.br" tvg-name="HBO MUNDI • FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-mundi.png" group-title="🟣 HBO",HBO MUNDI • FHD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514129.ts
-#EXTINF:-1 tvg-id="HBO Mundi.br" tvg-name="HBO MUNDI • HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-mundi.png" group-title="🟣  HBO",HBO MUNDI • HD
+#EXTINF:-1 tvg-id="HBO Mundi.br" tvg-name="HBO MUNDI • HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-mundi.png" group-title="🟣 HBO",HBO MUNDI • HD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514128.ts
-#EXTINF:-1 tvg-id="HBO Mundi.br" tvg-name="HBO MUNDI • SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-mundi.png" group-title="🟣  HBO",HBO MUNDI • SD
+#EXTINF:-1 tvg-id="HBO Mundi.br" tvg-name="HBO MUNDI • SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-mundi.png" group-title="🟣 HBO",HBO MUNDI • SD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514127.ts
-#EXTINF:-1 tvg-id="HBO Pop.br" tvg-name="HBO POP • FHDR" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-pop.png" group-title="🟣  HBO",HBO POP • FHDR
+#EXTINF:-1 tvg-id="HBO Pop.br" tvg-name="HBO POP • FHDR" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-pop.png" group-title="🟣 HBO",HBO POP • FHDR
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513408.ts
-#EXTINF:-1 tvg-id="HBO Pop.br" tvg-name="HBO POP • FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-pop.png" group-title="🟣  HBO",HBO POP • FHD
+#EXTINF:-1 tvg-id="HBO Pop.br" tvg-name="HBO POP • FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-pop.png" group-title="🟣 HBO",HBO POP • FHD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514126.ts
-#EXTINF:-1 tvg-id="HBO Pop.br" tvg-name="HBO POP • HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-pop.png" group-title="🟣  HBO",HBO POP • HD
+#EXTINF:-1 tvg-id="HBO Pop.br" tvg-name="HBO POP • HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-pop.png" group-title="🟣 HBO",HBO POP • HD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514125.ts
-#EXTINF:-1 tvg-id="HBO Pop.br" tvg-name="HBO POP • SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-pop.png" group-title="🟣  HBO",HBO POP • SD
+#EXTINF:-1 tvg-id="HBO Pop.br" tvg-name="HBO POP • SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-pop.png" group-title="🟣 HBO",HBO POP • SD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514124.ts
-#EXTINF:-1 tvg-id="HBO Signature HD.br" tvg-name="HBO SIGNATURE • FHDR" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-signature.png" group-title="🟣  HBO",HBO SIGNATURE • FHDR
+#EXTINF:-1 tvg-id="HBO Signature HD.br" tvg-name="HBO SIGNATURE • FHDR" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-signature.png" group-title="🟣 HBO",HBO SIGNATURE • FHDR
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513407.ts
-#EXTINF:-1 tvg-id="HBO Signature HD.br" tvg-name="HBO SIGNATURE • FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-signature.png" group-title="🟣  HBO",HBO SIGNATURE • FHD
+#EXTINF:-1 tvg-id="HBO Signature HD.br" tvg-name="HBO SIGNATURE • FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-signature.png" group-title="🟣 HBO",HBO SIGNATURE • FHD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514123.ts
-#EXTINF:-1 tvg-id="HBO Signature HD.br" tvg-name="HBO SIGNATURE • HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-signature.png" group-title="🟣  HBO",HBO SIGNATURE • HD
+#EXTINF:-1 tvg-id="HBO Signature HD.br" tvg-name="HBO SIGNATURE • HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-signature.png" group-title="🟣 HBO",HBO SIGNATURE • HD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514122.ts
-#EXTINF:-1 tvg-id="HBO Signature HD.br" tvg-name="HBO SIGNATURE • SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-signature.png" group-title="🟣  HBO",HBO SIGNATURE • SD
+#EXTINF:-1 tvg-id="HBO Signature HD.br" tvg-name="HBO SIGNATURE • SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-signature.png" group-title="🟣 HBO",HBO SIGNATURE • SD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514121.ts
-#EXTINF:-1 tvg-id="HBO Xtreme.br" tvg-name="HBO XTREME • FHDR" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-xtreme.png" group-title="🟣  HBO",HBO XTREME • FHDR
+#EXTINF:-1 tvg-id="HBO Xtreme.br" tvg-name="HBO XTREME • FHDR" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-xtreme.png" group-title="🟣 HBO",HBO XTREME • FHDR
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513406.ts
-#EXTINF:-1 tvg-id="HBO Xtreme.br" tvg-name="HBO XTREME • FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-xtreme.png" group-title="🟣  HBO",HBO XTREME • FHD
+#EXTINF:-1 tvg-id="HBO Xtreme.br" tvg-name="HBO XTREME • FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-xtreme.png" group-title="🟣 HBO",HBO XTREME • FHD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514120.ts
-#EXTINF:-1 tvg-id="HBO Xtreme.br" tvg-name="HBO XTREME • HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-xtreme.png" group-title="🟣  HBO",HBO XTREME • HD
+#EXTINF:-1 tvg-id="HBO Xtreme.br" tvg-name="HBO XTREME • HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-xtreme.png" group-title="🟣 HBO",HBO XTREME • HD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514119.ts
-#EXTINF:-1 tvg-id="HBO Xtreme.br" tvg-name="HBO XTREME • SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-xtreme.png" group-title="🟣  HBO",HBO XTREME • SD
+#EXTINF:-1 tvg-id="HBO Xtreme.br" tvg-name="HBO XTREME • SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-xtreme.png" group-title="🟣 HBO",HBO XTREME • SD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514118.ts
-#EXTINF:-1 tvg-id="HBO Plus HD.br" tvg-name="HBO+ • FHDR" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-plus.png" group-title="🟣  HBO",HBO+ • FHDR
+#EXTINF:-1 tvg-id="HBO Plus HD.br" tvg-name="HBO+ • FHDR" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-plus.png" group-title="🟣 HBO",HBO+ • FHDR
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532351.ts
-#EXTINF:-1 tvg-id="HBO Plus HD.br" tvg-name="HBO+ • FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-plus.png" group-title="🟣  HBO",HBO+ • FHD
+#EXTINF:-1 tvg-id="HBO Plus HD.br" tvg-name="HBO+ • FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-plus.png" group-title="🟣 HBO",HBO+ • FHD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514138.ts
-#EXTINF:-1 tvg-id="HBO Plus HD.br" tvg-name="HBO+ • HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-plus.png" group-title="🟣  HBO",HBO+ • HD
+#EXTINF:-1 tvg-id="HBO Plus HD.br" tvg-name="HBO+ • HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-plus.png" group-title="🟣 HBO",HBO+ • HD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514137.ts
-#EXTINF:-1 tvg-id="HBO Plus HD.br" tvg-name="HBO+ • SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-plus.png" group-title="🟣  HBO",HBO+ • SD
+#EXTINF:-1 tvg-id="HBO Plus HD.br" tvg-name="HBO+ • SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/hbo-plus.png" group-title="🟣 HBO",HBO+ • SD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514136.ts
 #EXTINF:-1 tvg-id="Record TV HD.br" tvg-name="RECORD TV SP • FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/record.png" group-title="🟣 RECORD TV",RECORD TV SP • FHD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27557091.ts
@@ -2517,49 +2517,49 @@ http://strming.cloud:80/live/jonyalbo/8162628Kk/27514195.ts
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514194.ts
 #EXTINF:-1 tvg-id="TV Verdes Mares HD.br" tvg-name="GLOBO TV VERDES MARES • SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/verdes-mares.png" group-title="🟣 GLOBOS • NORDESTE",GLOBO TV VERDES MARES • SD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27514193.ts
-#EXTINF:-1 tvg-id="TNT HD.br" tvg-name="TNT • FHDR" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tnt.png" group-title="🟣  TNT",TNT • FHDR
+#EXTINF:-1 tvg-id="TNT HD.br" tvg-name="TNT • FHDR" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tnt.png" group-title="🟣 TNT",TNT • FHDR
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513345.ts
-#EXTINF:-1 tvg-id="TNT HD.br" tvg-name="TNT • FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tnt.png" group-title="🟣  TNT",TNT • FHD
+#EXTINF:-1 tvg-id="TNT HD.br" tvg-name="TNT • FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tnt.png" group-title="🟣 TNT",TNT • FHD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27511289.ts
-#EXTINF:-1 tvg-id="TNT HD.br" tvg-name="TNT • HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tnt.png" group-title="🟣  TNT",TNT • HD
+#EXTINF:-1 tvg-id="TNT HD.br" tvg-name="TNT • HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tnt.png" group-title="🟣 TNT",TNT • HD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27511288.ts
-#EXTINF:-1 tvg-id="TNT HD.br" tvg-name="TNT • SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tnt.png" group-title="🟣  TNT",TNT • SD
+#EXTINF:-1 tvg-id="TNT HD.br" tvg-name="TNT • SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tnt.png" group-title="🟣 TNT",TNT • SD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27511287.ts
-#EXTINF:-1 tvg-name="TNT NOVELAS • FHDR" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tnt-novelas.png" group-title="🟣  TNT",TNT NOVELAS • FHDR
+#EXTINF:-1 tvg-name="TNT NOVELAS • FHDR" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tnt-novelas.png" group-title="🟣 TNT",TNT NOVELAS • FHDR
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513344.ts
-#EXTINF:-1 tvg-name="TNT NOVELAS • FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tnt-novelas.png" group-title="🟣  TNT",TNT NOVELAS • FHD
+#EXTINF:-1 tvg-name="TNT NOVELAS • FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tnt-novelas.png" group-title="🟣 TNT",TNT NOVELAS • FHD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27511286.ts
-#EXTINF:-1 tvg-name="TNT NOVELAS • HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tnt-novelas.png" group-title="🟣  TNT",TNT NOVELAS • HD
+#EXTINF:-1 tvg-name="TNT NOVELAS • HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tnt-novelas.png" group-title="🟣 TNT",TNT NOVELAS • HD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27511285.ts
-#EXTINF:-1 tvg-name="TNT NOVELAS • SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tnt-novelas.png" group-title="🟣  TNT",TNT NOVELAS • SD
+#EXTINF:-1 tvg-name="TNT NOVELAS • SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tnt-novelas.png" group-title="🟣 TNT",TNT NOVELAS • SD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27511284.ts
-#EXTINF:-1 tvg-id="TNT Series HD.br" tvg-name="TNT SERIES • FHDR" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tnt-series.png" group-title="🟣  TNT",TNT SERIES • FHDR
+#EXTINF:-1 tvg-id="TNT Series HD.br" tvg-name="TNT SERIES • FHDR" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tnt-series.png" group-title="🟣 TNT",TNT SERIES • FHDR
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513343.ts
-#EXTINF:-1 tvg-id="TNT Series HD.br" tvg-name="TNT SERIES • FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tnt-series.png" group-title="🟣  TNT",TNT SERIES • FHD
+#EXTINF:-1 tvg-id="TNT Series HD.br" tvg-name="TNT SERIES • FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tnt-series.png" group-title="🟣 TNT",TNT SERIES • FHD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27511283.ts
-#EXTINF:-1 tvg-id="TNT Series.br" tvg-name="TNT SERIES • HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tnt-series.png" group-title="🟣  TNT",TNT SERIES • HD
+#EXTINF:-1 tvg-id="TNT Series HD.br" tvg-name="TNT SERIES • HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tnt-series.png" group-title="🟣 TNT",TNT SERIES • HD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27511282.ts
-#EXTINF:-1 tvg-id="TNT Series HD.br" tvg-name="TNT SERIES • SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tnt-series.png" group-title="🟣  TNT",TNT SERIES • SD
+#EXTINF:-1 tvg-id="TNT Series HD.br" tvg-name="TNT SERIES • SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tnt-series.png" group-title="🟣 TNT",TNT SERIES • SD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27511281.ts
-#EXTINF:-1 tvg-id="SBT HD.br" tvg-name="SBT SP • FHDR" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/sbt.png" group-title="🟣  SBT",SBT SP • FHDR
+#EXTINF:-1 tvg-id="SBT HD.br" tvg-name="SBT SP • FHDR" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/sbt.png" group-title="🟣 SBT",SBT SP • FHDR
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27513365.ts
-#EXTINF:-1 tvg-id="TV Jangadeiro HD.br" tvg-name="SBT CEARA TV JANGADEIRO  • FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-jangadeiro.png" group-title="🟣  SBT",SBT CEARA TV JANGADEIRO  • FHD
+#EXTINF:-1 tvg-id="TV Jangadeiro HD.br" tvg-name="SBT CEARA TV JANGADEIRO  • FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-jangadeiro.png" group-title="🟣 SBT",SBT CEARA TV JANGADEIRO  • FHD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27510742.ts
-#EXTINF:-1 tvg-id="TV Jangadeiro HD.br" tvg-name="SBT CEARA TV JANGADEIRO • HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-jangadeiro.png" group-title="🟣  SBT",SBT CEARA TV JANGADEIRO • HD
+#EXTINF:-1 tvg-id="TV Jangadeiro HD.br" tvg-name="SBT CEARA TV JANGADEIRO • HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-jangadeiro.png" group-title="🟣 SBT",SBT CEARA TV JANGADEIRO • HD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27510741.ts
-#EXTINF:-1 tvg-id="SBT HD.br" tvg-name="SBT NACIONAL (SÃO PAULO)" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/sbt.png" group-title="🟣  SBT",SBT NACIONAL (SÃO PAULO)
+#EXTINF:-1 tvg-id="SBT HD.br" tvg-name="SBT NACIONAL (SÃO PAULO)" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/sbt.png" group-title="🟣 SBT",SBT NACIONAL (SÃO PAULO)
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27510736.ts
-#EXTINF:-1 tvg-id="SBT HD.br" tvg-name="SBT SP • FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/sbt.png" group-title="🟣  SBT",SBT SP • FHD
+#EXTINF:-1 tvg-id="SBT HD.br" tvg-name="SBT SP • FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/sbt.png" group-title="🟣 SBT",SBT SP • FHD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27510722.ts
-#EXTINF:-1 tvg-id="SBT HD.br" tvg-name="SBT SP • HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/sbt.png" group-title="🟣  SBT",SBT SP • HD
+#EXTINF:-1 tvg-id="SBT HD.br" tvg-name="SBT SP • HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/sbt.png" group-title="🟣 SBT",SBT SP • HD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27510721.ts
-#EXTINF:-1 tvg-id="SBT HD.br" tvg-name="SBT SP • SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/sbt.png" group-title="🟣  SBT",SBT SP • SD
+#EXTINF:-1 tvg-id="SBT HD.br" tvg-name="SBT SP • SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/sbt.png" group-title="🟣 SBT",SBT SP • SD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27510720.ts
-#EXTINF:-1 tvg-name="+SBT NOVELAS" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/sbt-plus.png" group-title="🟣  SBT",+SBT NOVELAS
+#EXTINF:-1 tvg-name="+SBT NOVELAS" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/sbt-plus.png" group-title="🟣 SBT",+SBT NOVELAS
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27510714.ts
-#EXTINF:-1 tvg-name="+SBT RAIZ" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/sbt-plus.png" group-title="🟣  SBT",+SBT RAIZ
+#EXTINF:-1 tvg-name="+SBT RAIZ" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/sbt-plus.png" group-title="🟣 SBT",+SBT RAIZ
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27510713.ts
-#EXTINF:-1 tvg-name="+SBT KIDS" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/sbt-plus.png" group-title="🟣  SBT",+SBT KIDS
+#EXTINF:-1 tvg-name="+SBT KIDS" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/sbt-plus.png" group-title="🟣 SBT",+SBT KIDS
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27510712.ts
 #EXTINF:-1 tvg-name="CINE SKY 1" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cine-sky.png" group-title="🟣 CINE SKY",CINE SKY 1
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27510766.ts
@@ -2619,7 +2619,7 @@ http://strming.cloud:80/live/jonyalbo/8162628Kk/27511519.ts
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27511518.ts
 #EXTINF:-1 tvg-id="Investigação Discovery HD.br" tvg-name="DISCOVERY ID • SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/id.png" group-title="🟣 DISCOVERY",DISCOVERY ID • SD
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27511517.ts
-#EXTINF:-1 tvg-id="Discovery HD.br" tvg-name="DISCOVERY SCIENCE • FHDR" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-science.png" group-title="🟣 DISCOVERY",DISCOVERY SCIENCE • FHDR
+#EXTINF:-1 tvg-id="Discovery Science HD.br" tvg-name="DISCOVERY SCIENCE • FHDR" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-science.png" group-title="🟣 DISCOVERY",DISCOVERY SCIENCE • FHDR
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532323.ts
 #EXTINF:-1 tvg-id="Discovery Sciene HD.br" tvg-name="DISCOVERY SCIENCE • H265" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/discovery-science.png" group-title="🟣 DISCOVERY",DISCOVERY SCIENCE • H265
 http://strming.cloud:80/live/jonyalbo/8162628Kk/27532394.ts
