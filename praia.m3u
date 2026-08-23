@@ -1,0 +1,1381 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="AGROMAIS 4K" tvg-logo="http://www.acstatic.co/logos/canais/agromais.png" group-title="CANAIS | ABERTOS",AGROMAIS 4K
+http://praia13.com:80/live/939041/8SA9sh/103532.ts
+#EXTINF:-1 tvg-name="AGROMAIS FHD" tvg-logo="http://www.acstatic.co/logos/canais/agromais.png" group-title="CANAIS | ABERTOS",AGROMAIS FHD
+http://praia13.com:80/live/939041/8SA9sh/71764.ts
+#EXTINF:-1 tvg-name="AGROMAIS FHD [H265]" tvg-logo="http://www.acstatic.co/logos/canais/agromais.png" group-title="CANAIS | ABERTOS",AGROMAIS FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/71765.ts
+#EXTINF:-1 tvg-name="AGROMAIS HD" tvg-logo="http://www.acstatic.co/logos/canais/agromais.png" group-title="CANAIS | ABERTOS",AGROMAIS HD
+http://praia13.com:80/live/939041/8SA9sh/71766.ts
+#EXTINF:-1 tvg-name="AGROMAIS SD" tvg-logo="http://www.acstatic.co/logos/canais/agromais.png" group-title="CANAIS | ABERTOS",AGROMAIS SD
+http://praia13.com:80/live/939041/8SA9sh/71767.ts
+#EXTINF:-1 tvg-name="BAND SP FHD" tvg-logo="http://praia13.com/static/logos/canais/band.png" group-title="CANAIS | ABERTOS",BAND SP FHD
+http://praia13.com:80/live/939041/8SA9sh/79311.ts
+#EXTINF:-1 tvg-name="BAND SP FHD [H265]" tvg-logo="http://gstaticontent.com/images/abb329697106ebb6f051ab5ab2d39dfd.png" group-title="CANAIS | ABERTOS",BAND SP FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/104943.ts
+#EXTINF:-1 tvg-name="BAND SP HD" tvg-logo="http://praia13.com/static/logos/canais/band.png" group-title="CANAIS | ABERTOS",BAND SP HD
+http://praia13.com:80/live/939041/8SA9sh/72597.ts
+#EXTINF:-1 tvg-name="BAND SP SD" tvg-logo="http://praia13.com/static/logos/canais/band.png" group-title="CANAIS | ABERTOS",BAND SP SD
+http://praia13.com:80/live/939041/8SA9sh/79312.ts
+#EXTINF:-1 tvg-name="CANAL DO BOI 4K" tvg-logo="http://acstatic.co/logos/canais/canaldoboi.png" group-title="CANAIS | ABERTOS",CANAL DO BOI 4K
+http://praia13.com:80/live/939041/8SA9sh/103516.ts
+#EXTINF:-1 tvg-name="CANAL DO BOI FHD" tvg-logo="http://acstatic.co/logos/canais/canaldoboi.png" group-title="CANAIS | ABERTOS",CANAL DO BOI FHD
+http://praia13.com:80/live/939041/8SA9sh/71820.ts
+#EXTINF:-1 tvg-name="CANAL DO BOI HD" tvg-logo="http://acstatic.co/logos/canais/canaldoboi.png" group-title="CANAIS | ABERTOS",CANAL DO BOI HD
+http://praia13.com:80/live/939041/8SA9sh/71821.ts
+#EXTINF:-1 tvg-name="CANAL DO BOI SD" tvg-logo="http://praia13.com/static/logos/canais/canaldoboi.png" group-title="CANAIS | ABERTOS",CANAL DO BOI SD
+http://praia13.com:80/live/939041/8SA9sh/71822.ts
+#EXTINF:-1 tvg-name="CANAL RURAL 4K" tvg-logo="http://gstaticontent.com/images/fd9212142eedf1910dcba86a14dfdd81.png" group-title="CANAIS | ABERTOS",CANAL RURAL 4K
+http://praia13.com:80/live/939041/8SA9sh/178516.ts
+#EXTINF:-1 tvg-name="CANAL RURAL FHD" tvg-logo="http://gstaticontent.com/images/fd9212142eedf1910dcba86a14dfdd81.png" group-title="CANAIS | ABERTOS",CANAL RURAL FHD
+http://praia13.com:80/live/939041/8SA9sh/178512.ts
+#EXTINF:-1 tvg-name="CANAL RURAL FHD [H265]" tvg-logo="http://gstaticontent.com/images/fd9212142eedf1910dcba86a14dfdd81.png" group-title="CANAIS | ABERTOS",CANAL RURAL FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/178515.ts
+#EXTINF:-1 tvg-name="CANAL RURAL HD" tvg-logo="http://gstaticontent.com/images/fd9212142eedf1910dcba86a14dfdd81.png" group-title="CANAIS | ABERTOS",CANAL RURAL HD
+http://praia13.com:80/live/939041/8SA9sh/178513.ts
+#EXTINF:-1 tvg-name="CANAL RURAL SD" tvg-logo="http://gstaticontent.com/images/fd9212142eedf1910dcba86a14dfdd81.png" group-title="CANAIS | ABERTOS",CANAL RURAL SD
+http://praia13.com:80/live/939041/8SA9sh/71823.ts
+#EXTINF:-1 tvg-name="CANAL RURAL SD" tvg-logo="http://gstaticontent.com/images/fd9212142eedf1910dcba86a14dfdd81.png" group-title="CANAIS | ABERTOS",CANAL RURAL SD
+http://praia13.com:80/live/939041/8SA9sh/178514.ts
+#EXTINF:-1 tvg-name="CULTURA 4K" tvg-logo="http://acstatic.co/logos/canais/tvcultura.png" group-title="CANAIS | ABERTOS",CULTURA 4K
+http://praia13.com:80/live/939041/8SA9sh/103513.ts
+#EXTINF:-1 tvg-name="CULTURA FHD" tvg-logo="http://acstatic.co/logos/canais/tvcultura.png" group-title="CANAIS | ABERTOS",CULTURA FHD
+http://praia13.com:80/live/939041/8SA9sh/71851.ts
+#EXTINF:-1 tvg-name="CULTURA FHD [H265]" tvg-logo="http://acstatic.co/logos/canais/tvcultura.png" group-title="CANAIS | ABERTOS",CULTURA FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/71852.ts
+#EXTINF:-1 tvg-name="CULTURA HD" tvg-logo="http://acstatic.co/logos/canais/tvcultura.png" group-title="CANAIS | ABERTOS",CULTURA HD
+http://praia13.com:80/live/939041/8SA9sh/71853.ts
+#EXTINF:-1 tvg-name="CULTURA SD" tvg-logo="http://praia13.com/static/logos/canais/curta.png" group-title="CANAIS | ABERTOS",CULTURA SD
+http://praia13.com:80/live/939041/8SA9sh/71854.ts
+#EXTINF:-1 tvg-name="FUTURA 4K" tvg-logo="http://praia13.com/static/logos/canais/futura.png" group-title="CANAIS | ABERTOS",FUTURA 4K
+http://praia13.com:80/live/939041/8SA9sh/103499.ts
+#EXTINF:-1 tvg-name="FUTURA FHD" tvg-logo="http://praia13.com/static/logos/canais/futura.png" group-title="CANAIS | ABERTOS",FUTURA FHD
+http://praia13.com:80/live/939041/8SA9sh/71962.ts
+#EXTINF:-1 tvg-name="FUTURA FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/futura.png" group-title="CANAIS | ABERTOS",FUTURA FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/71963.ts
+#EXTINF:-1 tvg-name="FUTURA HD" tvg-logo="http://praia13.com/static/logos/canais/futura.png" group-title="CANAIS | ABERTOS",FUTURA HD
+http://praia13.com:80/live/939041/8SA9sh/71964.ts
+#EXTINF:-1 tvg-name="FUTURA SD" tvg-logo="http://praia13.com/static/logos/canais/futura.png" group-title="CANAIS | ABERTOS",FUTURA SD
+http://praia13.com:80/live/939041/8SA9sh/71965.ts
+#EXTINF:-1 tvg-name="REDETV FHD" tvg-logo="http://gstaticontent.com/images/730b1aa20e87fbb7b2101a02fe806630.png" group-title="CANAIS | ABERTOS",REDETV FHD
+http://praia13.com:80/live/939041/8SA9sh/72297.ts
+#EXTINF:-1 tvg-name="REDETV FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/redetv.png" group-title="CANAIS | ABERTOS",REDETV FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/72298.ts
+#EXTINF:-1 tvg-name="REDETV HD" tvg-logo="http://gstaticontent.com/images/730b1aa20e87fbb7b2101a02fe806630.png" group-title="CANAIS | ABERTOS",REDETV HD
+http://praia13.com:80/live/939041/8SA9sh/72299.ts
+#EXTINF:-1 tvg-name="REDETV SD" tvg-logo="http://gstaticontent.com/images/730b1aa20e87fbb7b2101a02fe806630.png" group-title="CANAIS | ABERTOS",REDETV SD
+http://praia13.com:80/live/939041/8SA9sh/72300.ts
+#EXTINF:-1 tvg-name="REDETV 4K" tvg-logo="http://gstaticontent.com/images/730b1aa20e87fbb7b2101a02fe806630.png" group-title="CANAIS | ABERTOS",REDETV 4K
+http://praia13.com:80/live/939041/8SA9sh/178532.ts
+#EXTINF:-1 tvg-name="SBT REDE MASSA PR HD" tvg-logo="http://praia13.com/static/logos/canais/sbt.png" group-title="CANAIS | ABERTOS",SBT REDE MASSA PR HD
+http://praia13.com:80/live/939041/8SA9sh/72305.ts
+#EXTINF:-1 tvg-name="SBT RJ FHD" tvg-logo="http://praia13.com/static/logos/canais/sbt.png" group-title="CANAIS | ABERTOS",SBT RJ FHD
+http://praia13.com:80/live/939041/8SA9sh/108681.ts
+#EXTINF:-1 tvg-name="SBT RJ HD" tvg-logo="http://praia13.com/static/logos/canais/sbt.png" group-title="CANAIS | ABERTOS",SBT RJ HD
+http://praia13.com:80/live/939041/8SA9sh/108682.ts
+#EXTINF:-1 tvg-name="SBT RJ SD" tvg-logo="http://praia13.com/static/logos/canais/sbt.png" group-title="CANAIS | ABERTOS",SBT RJ SD
+http://praia13.com:80/live/939041/8SA9sh/108683.ts
+#EXTINF:-1 tvg-name="SBT RS HD" tvg-logo="http://praia13.com/static/logos/canais/sbt.png" group-title="CANAIS | ABERTOS",SBT RS HD
+http://praia13.com:80/live/939041/8SA9sh/75028.ts
+#EXTINF:-1 tvg-name="SBT SP FHD" tvg-logo="http://gstaticontent.com/images/cdeca592bbb91b4c697cb75440c2bf83.png" group-title="CANAIS | ABERTOS",SBT SP FHD
+http://praia13.com:80/live/939041/8SA9sh/77963.ts
+#EXTINF:-1 tvg-name="SBT SP FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/sbt.png" group-title="CANAIS | ABERTOS",SBT SP FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/104939.ts
+#EXTINF:-1 tvg-name="SBT SP HD" tvg-logo="http://gstaticontent.com/images/cdeca592bbb91b4c697cb75440c2bf83.png" group-title="CANAIS | ABERTOS",SBT SP HD
+http://praia13.com:80/live/939041/8SA9sh/72598.ts
+#EXTINF:-1 tvg-name="SBT SP SD" tvg-logo="http://gstaticontent.com/images/cdeca592bbb91b4c697cb75440c2bf83.png" group-title="CANAIS | ABERTOS",SBT SP SD
+http://praia13.com:80/live/939041/8SA9sh/77964.ts
+#EXTINF:-1 tvg-name="SBT TV ALTEROSA HD" tvg-logo="http://fanc.tmsimg.com/assets/s104210_ll_h3_aa.png" group-title="CANAIS | ABERTOS",SBT TV ALTEROSA HD
+http://praia13.com:80/live/939041/8SA9sh/72621.ts
+#EXTINF:-1 tvg-name="TV BRASIL 4K" tvg-logo="http://praia13.com/static/logos/canais/tvbrasil.png" group-title="CANAIS | ABERTOS",TV BRASIL 4K
+http://praia13.com:80/live/939041/8SA9sh/103463.ts
+#EXTINF:-1 tvg-name="TV BRASIL FHD" tvg-logo="http://praia13.com/static/logos/canais/tvbrasil.png" group-title="CANAIS | ABERTOS",TV BRASIL FHD
+http://praia13.com:80/live/939041/8SA9sh/72399.ts
+#EXTINF:-1 tvg-name="TV BRASIL FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/tvbrasil.png" group-title="CANAIS | ABERTOS",TV BRASIL FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/72400.ts
+#EXTINF:-1 tvg-name="TV BRASIL HD" tvg-logo="http://praia13.com/static/logos/canais/tvbrasil.png" group-title="CANAIS | ABERTOS",TV BRASIL HD
+http://praia13.com:80/live/939041/8SA9sh/72401.ts
+#EXTINF:-1 tvg-name="TV GAZETA FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/tvgazeta.png" group-title="CANAIS | ABERTOS",TV GAZETA FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/104919.ts
+#EXTINF:-1 tvg-name="TV GAZETA SP 4K" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-gazeta.png" group-title="CANAIS | ABERTOS",TV GAZETA SP 4K
+http://praia13.com:80/live/939041/8SA9sh/178520.ts
+#EXTINF:-1 tvg-name="TV GAZETA SP FHD" tvg-logo="http://gstaticontent.com/images/2baf5152b328307749ffbafedb684497.png" group-title="CANAIS | ABERTOS",TV GAZETA SP FHD
+http://praia13.com:80/live/939041/8SA9sh/104917.ts
+#EXTINF:-1 tvg-name="TV GAZETA SP HD" tvg-logo="http://gstaticontent.com/images/2baf5152b328307749ffbafedb684497.png" group-title="CANAIS | ABERTOS",TV GAZETA SP HD
+http://praia13.com:80/live/939041/8SA9sh/72406.ts
+#EXTINF:-1 tvg-name="TV GAZETA SP [H265]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/tv-gazeta.png" group-title="CANAIS | ABERTOS",TV GAZETA SP [H265]
+http://praia13.com:80/live/939041/8SA9sh/178519.ts
+#EXTINF:-1 tvg-name="TV UNIAO 4K" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/dog-tv.png" group-title="CANAIS | ABERTOS",TV UNIAO 4K
+http://praia13.com:80/live/939041/8SA9sh/103457.ts
+#EXTINF:-1 tvg-name="TV UNIAO FORTALEZA FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/dog-tv.png" group-title="CANAIS | ABERTOS",TV UNIAO FORTALEZA FHD
+http://praia13.com:80/live/939041/8SA9sh/100420.ts
+#EXTINF:-1 tvg-name="TV UNIAO FHD [H265]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/dog-tv.png" group-title="CANAIS | ABERTOS",TV UNIAO FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/100422.ts
+#EXTINF:-1 tvg-name="TV UNIAO FORTALEZA HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/dog-tv.png" group-title="CANAIS | ABERTOS",TV UNIAO FORTALEZA HD
+http://praia13.com:80/live/939041/8SA9sh/100423.ts
+#EXTINF:-1 tvg-name="TV UNIAO FORTALEZA SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/dog-tv.png" group-title="CANAIS | ABERTOS",TV UNIAO FORTALEZA SD
+http://praia13.com:80/live/939041/8SA9sh/100424.ts
+#EXTINF:-1 tvg-name="SBT TV ALTEROSA FHD" tvg-logo="http://fanc.tmsimg.com/assets/s104210_ll_h3_aa.png" group-title="CANAIS | ABERTOS",SBT TV ALTEROSA FHD
+http://praia13.com:80/live/939041/8SA9sh/218366.ts
+#EXTINF:-1 tvg-name="SBT RS FHD" tvg-logo="http://fanc.tmsimg.com/assets/s103756_ll_h3_aa.png" group-title="CANAIS | ABERTOS",SBT RS FHD
+http://praia13.com:80/live/939041/8SA9sh/218367.ts
+#EXTINF:-1 tvg-name="BAND RIBEIRAO PRETO HD" tvg-logo="http://gstaticontent.com/images/abb329697106ebb6f051ab5ab2d39dfd.png" group-title="CANAIS | ABERTOS",BAND RIBEIRAO PRETO HD
+http://praia13.com:80/live/939041/8SA9sh/286483.ts
+#EXTINF:-1 tvg-name="SBT RIBEIRAO PRETO HD" tvg-logo="http://praia13.com/static/logos/canais/sbt.png" group-title="CANAIS | ABERTOS",SBT RIBEIRAO PRETO HD
+http://praia13.com:80/live/939041/8SA9sh/286484.ts
+#EXTINF:-1 tvg-name="SBT VTV SANTOS CAMPINAS FHD" tvg-logo="http://gstaticontent.com/images/cdeca592bbb91b4c697cb75440c2bf83.png" group-title="CANAIS | ABERTOS",SBT VTV SANTOS CAMPINAS FHD
+http://praia13.com:80/live/939041/8SA9sh/350093.ts
+#EXTINF:-1 tvg-name="SBT VTV SANTOS CAMPINAS HD" tvg-logo="http://gstaticontent.com/images/cdeca592bbb91b4c697cb75440c2bf83.png" group-title="CANAIS | ABERTOS",SBT VTV SANTOS CAMPINAS HD
+http://praia13.com:80/live/939041/8SA9sh/350094.ts
+#EXTINF:-1 tvg-name="SBT VTV SANTOS CAMPINAS SD" tvg-logo="http://gstaticontent.com/images/cdeca592bbb91b4c697cb75440c2bf83.png" group-title="CANAIS | ABERTOS",SBT VTV SANTOS CAMPINAS SD
+http://praia13.com:80/live/939041/8SA9sh/350095.ts
+#EXTINF:-1 tvg-name="SBT THATHI VALE FHD" tvg-logo="http://gstaticontent.com/images/cdeca592bbb91b4c697cb75440c2bf83.png" group-title="CANAIS | ABERTOS",SBT THATHI VALE FHD
+http://praia13.com:80/live/939041/8SA9sh/350096.ts
+#EXTINF:-1 tvg-name="SBT THATHI VALE HD" tvg-logo="http://gstaticontent.com/images/cdeca592bbb91b4c697cb75440c2bf83.png" group-title="CANAIS | ABERTOS",SBT THATHI VALE HD
+http://praia13.com:80/live/939041/8SA9sh/350097.ts
+#EXTINF:-1 tvg-name="SBT THATHI VALE SD" tvg-logo="http://gstaticontent.com/images/cdeca592bbb91b4c697cb75440c2bf83.png" group-title="CANAIS | ABERTOS",SBT THATHI VALE SD
+http://praia13.com:80/live/939041/8SA9sh/350098.ts
+#EXTINF:-1 tvg-name="CARTOON NETWORK 4K" tvg-logo="http://praia13.com/static/logos/canais/cartoon.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK 4K
+http://praia13.com:80/live/939041/8SA9sh/71830.ts
+#EXTINF:-1 tvg-name="CARTOON NETWORK FHD" tvg-logo="http://praia13.com/static/logos/canais/cartoon.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK FHD
+http://praia13.com:80/live/939041/8SA9sh/71828.ts
+#EXTINF:-1 tvg-name="CARTOON NETWORK FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/cartoon.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/71829.ts
+#EXTINF:-1 tvg-name="CARTOON NETWORK HD" tvg-logo="http://praia13.com/static/logos/canais/cartoon.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK HD
+http://praia13.com:80/live/939041/8SA9sh/71831.ts
+#EXTINF:-1 tvg-name="CARTOON NETWORK SD" tvg-logo="http://praia13.com/static/logos/canais/cartoon.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK SD
+http://praia13.com:80/live/939041/8SA9sh/71832.ts
+#EXTINF:-1 tvg-name="CARTOONITO 4K" tvg-logo="http://praia13.com/static/logos/canais/boomerang.png" group-title="CANAIS | INFANTIS",CARTOONITO 4K
+http://praia13.com:80/live/939041/8SA9sh/90644.ts
+#EXTINF:-1 tvg-name="CARTOONITO FHD" tvg-logo="http://praia13.com/static/logos/canais/boomerang.png" group-title="CANAIS | INFANTIS",CARTOONITO FHD
+http://praia13.com:80/live/939041/8SA9sh/71812.ts
+#EXTINF:-1 tvg-name="CARTOONITO FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/boomerang.png" group-title="CANAIS | INFANTIS",CARTOONITO FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/71813.ts
+#EXTINF:-1 tvg-name="CARTOONITO HD" tvg-logo="http://praia13.com/static/logos/canais/boomerang.png" group-title="CANAIS | INFANTIS",CARTOONITO HD
+http://praia13.com:80/live/939041/8SA9sh/71814.ts
+#EXTINF:-1 tvg-name="CARTOONITO SD" tvg-logo="http://praia13.com/static/logos/canais/boomerang.png" group-title="CANAIS | INFANTIS",CARTOONITO SD
+http://praia13.com:80/live/939041/8SA9sh/71815.ts
+#EXTINF:-1 tvg-name="DISCOVERY KIDS 4K" tvg-logo="http://praia13.com/static/logos/canais/discoverykids.png" group-title="CANAIS | INFANTIS",DISCOVERY KIDS 4K
+http://praia13.com:80/live/939041/8SA9sh/90250.ts
+#EXTINF:-1 tvg-name="DISCOVERY KIDS FHD" tvg-logo="http://praia13.com/static/logos/canais/discoverykids.png" group-title="CANAIS | INFANTIS",DISCOVERY KIDS FHD
+http://praia13.com:80/live/939041/8SA9sh/71871.ts
+#EXTINF:-1 tvg-name="DISCOVERY KIDS FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/discoverykids.png" group-title="CANAIS | INFANTIS",DISCOVERY KIDS FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/71872.ts
+#EXTINF:-1 tvg-name="DISCOVERY KIDS HD" tvg-logo="http://praia13.com/static/logos/canais/discoverykids.png" group-title="CANAIS | INFANTIS",DISCOVERY KIDS HD
+http://praia13.com:80/live/939041/8SA9sh/71873.ts
+#EXTINF:-1 tvg-name="DISCOVERY KIDS SD" tvg-logo="http://praia13.com/static/logos/canais/discoverykids.png" group-title="CANAIS | INFANTIS",DISCOVERY KIDS SD
+http://praia13.com:80/live/939041/8SA9sh/71874.ts
+#EXTINF:-1 tvg-name="GLOOB 4K" tvg-logo="http://praia13.com/static/logos/canais/gloob.png" group-title="CANAIS | INFANTIS",GLOOB 4K
+http://praia13.com:80/live/939041/8SA9sh/103498.ts
+#EXTINF:-1 tvg-name="GLOOB FHD" tvg-logo="http://praia13.com/static/logos/canais/gloob.png" group-title="CANAIS | INFANTIS",GLOOB FHD
+http://praia13.com:80/live/939041/8SA9sh/131153.ts
+#EXTINF:-1 tvg-name="GLOOB FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/gloob.png" group-title="CANAIS | INFANTIS",GLOOB FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/72099.ts
+#EXTINF:-1 tvg-name="GLOOB HD" tvg-logo="http://praia13.com/static/logos/canais/gloob.png" group-title="CANAIS | INFANTIS",GLOOB HD
+http://praia13.com:80/live/939041/8SA9sh/72100.ts
+#EXTINF:-1 tvg-name="GLOOB SD" tvg-logo="http://praia13.com/static/logos/canais/gloob.png" group-title="CANAIS | INFANTIS",GLOOB SD
+http://praia13.com:80/live/939041/8SA9sh/131117.ts
+#EXTINF:-1 tvg-name="GLOOBINHO 4K" tvg-logo="http://acstatic.co/logos/canais/gloobinho.png" group-title="CANAIS | INFANTIS",GLOOBINHO 4K
+http://praia13.com:80/live/939041/8SA9sh/103497.ts
+#EXTINF:-1 tvg-name="GLOOBINHO FHD" tvg-logo="http://acstatic.co/logos/canais/gloobinho.png" group-title="CANAIS | INFANTIS",GLOOBINHO FHD
+http://praia13.com:80/live/939041/8SA9sh/90631.ts
+#EXTINF:-1 tvg-name="GLOOBINHO FHD [H265]" tvg-logo="http://acstatic.co/logos/canais/gloobinho.png" group-title="CANAIS | INFANTIS",GLOOBINHO FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/90630.ts
+#EXTINF:-1 tvg-name="GLOOBINHO HD" tvg-logo="http://acstatic.co/logos/canais/gloobinho.png" group-title="CANAIS | INFANTIS",GLOOBINHO HD
+http://praia13.com:80/live/939041/8SA9sh/90629.ts
+#EXTINF:-1 tvg-name="GLOOBINHO SD" tvg-logo="http://acstatic.co/logos/canais/gloobinho.png" group-title="CANAIS | INFANTIS",GLOOBINHO SD
+http://praia13.com:80/live/939041/8SA9sh/131173.ts
+#EXTINF:-1 tvg-name="TV RA TIM BUM 4K" tvg-logo="http://praia13.com/static/logos/canais/ratimbum.png" group-title="CANAIS | INFANTIS",TV RA TIM BUM 4K
+http://praia13.com:80/live/939041/8SA9sh/103458.ts
+#EXTINF:-1 tvg-name="TV RA-TIM-BUM FHD" tvg-logo="http://praia13.com/static/logos/canais/ratimbum.png" group-title="CANAIS | INFANTIS",TV RA-TIM-BUM FHD
+http://praia13.com:80/live/939041/8SA9sh/72412.ts
+#EXTINF:-1 tvg-name="TV RA-TIM-BUM FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/ratimbum.png" group-title="CANAIS | INFANTIS",TV RA-TIM-BUM FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/72413.ts
+#EXTINF:-1 tvg-name="TV RA-TIM-BUM HD" tvg-logo="http://praia13.com/static/logos/canais/ratimbum.png" group-title="CANAIS | INFANTIS",TV RA-TIM-BUM HD
+http://praia13.com:80/live/939041/8SA9sh/72414.ts
+#EXTINF:-1 tvg-name="TV RA-TIM-BUM SD" tvg-logo="http://praia13.com/static/logos/canais/ratimbum.png" group-title="CANAIS | INFANTIS",TV RA-TIM-BUM SD
+http://praia13.com:80/live/939041/8SA9sh/72415.ts
+#EXTINF:-1 tvg-name="ZOOMOO 4K" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/woohoo.png" group-title="CANAIS | INFANTIS",ZOOMOO 4K
+http://praia13.com:80/live/939041/8SA9sh/178533.ts
+#EXTINF:-1 tvg-name="ZOOMOO FHD" tvg-logo="http://gstaticontent.com/images/5dab2df694584172699383cdb1100c18.jpg" group-title="CANAIS | INFANTIS",ZOOMOO FHD
+http://praia13.com:80/live/939041/8SA9sh/104934.ts
+#EXTINF:-1 tvg-name="ZOOMOO FHD [H265]" tvg-logo="http://gstaticontent.com/images/5dab2df694584172699383cdb1100c18.jpg" group-title="CANAIS | INFANTIS",ZOOMOO FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/104937.ts
+#EXTINF:-1 tvg-name="ZOOMOO HD" tvg-logo="http://gstaticontent.com/images/5dab2df694584172699383cdb1100c18.jpg" group-title="CANAIS | INFANTIS",ZOOMOO HD
+http://praia13.com:80/live/939041/8SA9sh/104935.ts
+#EXTINF:-1 tvg-name="ZOOMOO SD" tvg-logo="http://gstaticontent.com/images/5dab2df694584172699383cdb1100c18.jpg" group-title="CANAIS | INFANTIS",ZOOMOO SD
+http://praia13.com:80/live/939041/8SA9sh/104936.ts
+#EXTINF:-1 tvg-name="ADULT SWIM FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/adult-swim.png" group-title="CANAIS | INFANTIS",ADULT SWIM FHD
+http://praia13.com:80/live/939041/8SA9sh/251957.ts
+#EXTINF:-1 tvg-name="ADULT SWIM HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/adult-swim.png" group-title="CANAIS | INFANTIS",ADULT SWIM HD
+http://praia13.com:80/live/939041/8SA9sh/251958.ts
+#EXTINF:-1 tvg-name="ADULT SWIM SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/adult-swim.png" group-title="CANAIS | INFANTIS",ADULT SWIM SD
+http://praia13.com:80/live/939041/8SA9sh/251959.ts
+#EXTINF:-1 tvg-name="ADULT SWIM 4K" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/adult-swim.png" group-title="CANAIS | INFANTIS",ADULT SWIM 4K
+http://praia13.com:80/live/939041/8SA9sh/251960.ts
+#EXTINF:-1 tvg-name="ADULT SWIM H265" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/adult-swim.png" group-title="CANAIS | INFANTIS",ADULT SWIM H265
+http://praia13.com:80/live/939041/8SA9sh/251961.ts
+#EXTINF:-1 tvg-name="ANIMAL PLANET 4K" tvg-logo="http://gstaticontent.com/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET 4K
+http://praia13.com:80/live/939041/8SA9sh/71774.ts
+#EXTINF:-1 tvg-name="ANIMAL PLANET FHD" tvg-logo="http://gstaticontent.com/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET FHD
+http://praia13.com:80/live/939041/8SA9sh/71772.ts
+#EXTINF:-1 tvg-name="ANIMAL PLANET FHD [H265]" tvg-logo="http://gstaticontent.com/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/71773.ts
+#EXTINF:-1 tvg-name="ANIMAL PLANET HD" tvg-logo="http://gstaticontent.com/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET HD
+http://praia13.com:80/live/939041/8SA9sh/71775.ts
+#EXTINF:-1 tvg-name="ANIMAL PLANET SD" tvg-logo="http://gstaticontent.com/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET SD
+http://praia13.com:80/live/939041/8SA9sh/71776.ts
+#EXTINF:-1 tvg-name="ARTE 1 4K" tvg-logo="http://praia13.com/static/logos/canais/arte1.png" group-title="CANAIS | DOCUMENTÁRIOS",ARTE 1 4K
+http://praia13.com:80/live/939041/8SA9sh/103531.ts
+#EXTINF:-1 tvg-name="ARTE 1 FHD" tvg-logo="http://praia13.com/static/logos/canais/arte1.png" group-title="CANAIS | DOCUMENTÁRIOS",ARTE 1 FHD
+http://praia13.com:80/live/939041/8SA9sh/71777.ts
+#EXTINF:-1 tvg-name="ARTE 1 FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/arte1.png" group-title="CANAIS | DOCUMENTÁRIOS",ARTE 1 FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/71778.ts
+#EXTINF:-1 tvg-name="ARTE 1 HD" tvg-logo="http://praia13.com/static/logos/canais/arte1.png" group-title="CANAIS | DOCUMENTÁRIOS",ARTE 1 HD
+http://praia13.com:80/live/939041/8SA9sh/71779.ts
+#EXTINF:-1 tvg-name="ARTE 1 SD" tvg-logo="http://praia13.com/static/logos/canais/arte1.png" group-title="CANAIS | DOCUMENTÁRIOS",ARTE 1 SD
+http://praia13.com:80/live/939041/8SA9sh/71780.ts
+#EXTINF:-1 tvg-name="CURTA FHD" tvg-logo="http://praia13.com/static/logos/canais/curta.png" group-title="CANAIS | DOCUMENTÁRIOS",CURTA FHD
+http://praia13.com:80/live/939041/8SA9sh/71855.ts
+#EXTINF:-1 tvg-name="CURTA FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/curta.png" group-title="CANAIS | DOCUMENTÁRIOS",CURTA FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/71856.ts
+#EXTINF:-1 tvg-name="CURTA HD" tvg-logo="http://praia13.com/static/logos/canais/curta.png" group-title="CANAIS | DOCUMENTÁRIOS",CURTA HD
+http://praia13.com:80/live/939041/8SA9sh/71857.ts
+#EXTINF:-1 tvg-name="CURTA SD" tvg-logo="http://praia13.com/static/logos/canais/curta.png" group-title="CANAIS | DOCUMENTÁRIOS",CURTA SD
+http://praia13.com:80/live/939041/8SA9sh/71858.ts
+#EXTINF:-1 tvg-name="CURTA 4K" tvg-logo="http://praia13.com/static/logos/canais/curta.png" group-title="CANAIS | DOCUMENTÁRIOS",CURTA 4K
+http://praia13.com:80/live/939041/8SA9sh/103512.ts
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL 4K" tvg-logo="http://praia13.com/static/logos/canais/discoverychannel.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL 4K
+http://praia13.com:80/live/939041/8SA9sh/71864.ts
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="http://praia13.com/static/logos/canais/discoverychannel.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL FHD
+http://praia13.com:80/live/939041/8SA9sh/71862.ts
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/discoverychannel.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/71863.ts
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://praia13.com/static/logos/canais/discoverychannel.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL HD
+http://praia13.com:80/live/939041/8SA9sh/71865.ts
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL SD" tvg-logo="http://praia13.com/static/logos/canais/discoverychannel.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL SD
+http://praia13.com:80/live/939041/8SA9sh/71866.ts
+#EXTINF:-1 tvg-name="DISCOVERY SCIENCE 4K" tvg-logo="http://praia13.com/static/logos/canais/discoveryscience.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY SCIENCE 4K
+http://praia13.com:80/live/939041/8SA9sh/103511.ts
+#EXTINF:-1 tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="http://praia13.com/static/logos/canais/discoveryscience.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY SCIENCE FHD
+http://praia13.com:80/live/939041/8SA9sh/71875.ts
+#EXTINF:-1 tvg-name="DISCOVERY SCIENCE FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/discoveryscience.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY SCIENCE FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/71876.ts
+#EXTINF:-1 tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://praia13.com/static/logos/canais/discoveryscience.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY SCIENCE HD
+http://praia13.com:80/live/939041/8SA9sh/71877.ts
+#EXTINF:-1 tvg-name="DISCOVERY SCIENCE SD" tvg-logo="http://praia13.com/static/logos/canais/discoveryscience.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY SCIENCE SD
+http://praia13.com:80/live/939041/8SA9sh/71878.ts
+#EXTINF:-1 tvg-name="DISCOVERY THEATER 4K" tvg-logo="http://praia13.com/static/logos/canais/discoverytheater.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY THEATER 4K
+http://praia13.com:80/live/939041/8SA9sh/103510.ts
+#EXTINF:-1 tvg-name="DISCOVERY THEATER FHD" tvg-logo="http://praia13.com/static/logos/canais/discoverytheater.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY THEATER FHD
+http://praia13.com:80/live/939041/8SA9sh/71879.ts
+#EXTINF:-1 tvg-name="DISCOVERY THEATER FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/discoverytheater.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY THEATER FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/71880.ts
+#EXTINF:-1 tvg-name="DISCOVERY THEATER HD" tvg-logo="http://praia13.com/static/logos/canais/discoverytheater.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY THEATER HD
+http://praia13.com:80/live/939041/8SA9sh/71881.ts
+#EXTINF:-1 tvg-name="DISCOVERY THEATER SD" tvg-logo="http://praia13.com/static/logos/canais/discoverytheater.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY THEATER SD
+http://praia13.com:80/live/939041/8SA9sh/71882.ts
+#EXTINF:-1 tvg-name="DISCOVERY WORLD 4K" tvg-logo="http://praia13.com/static/logos/canais/discoveryworld.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY WORLD 4K
+http://praia13.com:80/live/939041/8SA9sh/103509.ts
+#EXTINF:-1 tvg-name="DISCOVERY WORLD FHD" tvg-logo="http://praia13.com/static/logos/canais/discoveryworld.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY WORLD FHD
+http://praia13.com:80/live/939041/8SA9sh/71887.ts
+#EXTINF:-1 tvg-name="DISCOVERY WORLD FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/discoveryworld.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY WORLD FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/71888.ts
+#EXTINF:-1 tvg-name="DISCOVERY WORLD HD" tvg-logo="http://praia13.com/static/logos/canais/discoveryworld.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY WORLD HD
+http://praia13.com:80/live/939041/8SA9sh/71889.ts
+#EXTINF:-1 tvg-name="DISCOVERY WORLD SD" tvg-logo="http://praia13.com/static/logos/canais/discoveryworld.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY WORLD SD
+http://praia13.com:80/live/939041/8SA9sh/71890.ts
+#EXTINF:-1 tvg-name="H2 4K" tvg-logo="http://praia13.com/static/logos/canais/h2.png" group-title="CANAIS | DOCUMENTÁRIOS",H2 4K
+http://praia13.com:80/live/939041/8SA9sh/90245.ts
+#EXTINF:-1 tvg-name="H2 FHD" tvg-logo="http://praia13.com/static/logos/canais/h2.png" group-title="CANAIS | DOCUMENTÁRIOS",H2 FHD
+http://praia13.com:80/live/939041/8SA9sh/72106.ts
+#EXTINF:-1 tvg-name="H2 FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/h2.png" group-title="CANAIS | DOCUMENTÁRIOS",H2 FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/72107.ts
+#EXTINF:-1 tvg-name="H2 HD" tvg-logo="http://praia13.com/static/logos/canais/h2.png" group-title="CANAIS | DOCUMENTÁRIOS",H2 HD
+http://praia13.com:80/live/939041/8SA9sh/72108.ts
+#EXTINF:-1 tvg-name="H2 SD" tvg-logo="http://praia13.com/static/logos/canais/h2.png" group-title="CANAIS | DOCUMENTÁRIOS",H2 SD
+http://praia13.com:80/live/939041/8SA9sh/72109.ts
+#EXTINF:-1 tvg-name="HGTV FHD" tvg-logo="http://praia13.com/static/logos/canais/discoverycivilization.png" group-title="CANAIS | DOCUMENTÁRIOS",HGTV FHD
+http://praia13.com:80/live/939041/8SA9sh/72142.ts
+#EXTINF:-1 tvg-name="HGTV FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/discoverycivilization.png" group-title="CANAIS | DOCUMENTÁRIOS",HGTV FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/72143.ts
+#EXTINF:-1 tvg-name="HGTV HD" tvg-logo="http://praia13.com/static/logos/canais/discoverycivilization.png" group-title="CANAIS | DOCUMENTÁRIOS",HGTV HD
+http://praia13.com:80/live/939041/8SA9sh/72144.ts
+#EXTINF:-1 tvg-name="HGTV SD" tvg-logo="http://praia13.com/static/logos/canais/discoverycivilization.png" group-title="CANAIS | DOCUMENTÁRIOS",HGTV SD
+http://praia13.com:80/live/939041/8SA9sh/72145.ts
+#EXTINF:-1 tvg-name="HISTORY 4K" tvg-logo="http://praia13.com/static/logos/canais/history.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY 4K
+http://praia13.com:80/live/939041/8SA9sh/90244.ts
+#EXTINF:-1 tvg-name="HISTORY FHD" tvg-logo="http://praia13.com/static/logos/canais/history.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY FHD
+http://praia13.com:80/live/939041/8SA9sh/72146.ts
+#EXTINF:-1 tvg-name="HISTORY FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/history.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/72147.ts
+#EXTINF:-1 tvg-name="HISTORY HD" tvg-logo="http://praia13.com/static/logos/canais/history.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY HD
+http://praia13.com:80/live/939041/8SA9sh/72148.ts
+#EXTINF:-1 tvg-name="HISTORY SD" tvg-logo="http://praia13.com/static/logos/canais/history.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY SD
+http://praia13.com:80/live/939041/8SA9sh/72149.ts
+#EXTINF:-1 tvg-name="ID 4K" tvg-logo="http://praia13.com/static/logos/canais/id.png" group-title="CANAIS | DOCUMENTÁRIOS",ID 4K
+http://praia13.com:80/live/939041/8SA9sh/90243.ts
+#EXTINF:-1 tvg-name="ID FHD" tvg-logo="http://gstaticontent.com/images/ae050ba13a405e34c4192a0da5376574.png" group-title="CANAIS | DOCUMENTÁRIOS",ID FHD
+http://praia13.com:80/live/939041/8SA9sh/72150.ts
+#EXTINF:-1 tvg-name="ID FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/id.png" group-title="CANAIS | DOCUMENTÁRIOS",ID FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/72151.ts
+#EXTINF:-1 tvg-name="ID HD" tvg-logo="http://gstaticontent.com/images/ae050ba13a405e34c4192a0da5376574.png" group-title="CANAIS | DOCUMENTÁRIOS",ID HD
+http://praia13.com:80/live/939041/8SA9sh/72152.ts
+#EXTINF:-1 tvg-name="ID SD" tvg-logo="http://gstaticontent.com/images/ae050ba13a405e34c4192a0da5376574.png" group-title="CANAIS | DOCUMENTÁRIOS",ID SD
+http://praia13.com:80/live/939041/8SA9sh/72153.ts
+#EXTINF:-1 tvg-name="AMC 4K" tvg-logo="http://praia13.com/static/logos/canais/amc.png" group-title="CANAIS | FILMES E SÉRIES",AMC 4K
+http://praia13.com:80/live/939041/8SA9sh/90646.ts
+#EXTINF:-1 tvg-name="AMC FHD" tvg-logo="http://praia13.com/static/logos/canais/amc.png" group-title="CANAIS | FILMES E SÉRIES",AMC FHD
+http://praia13.com:80/live/939041/8SA9sh/71768.ts
+#EXTINF:-1 tvg-name="AMC FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/amc.png" group-title="CANAIS | FILMES E SÉRIES",AMC FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/71769.ts
+#EXTINF:-1 tvg-name="AMC HD" tvg-logo="http://praia13.com/static/logos/canais/amc.png" group-title="CANAIS | FILMES E SÉRIES",AMC HD
+http://praia13.com:80/live/939041/8SA9sh/71770.ts
+#EXTINF:-1 tvg-name="AMC SD" tvg-logo="http://praia13.com/static/logos/canais/amc.png" group-title="CANAIS | FILMES E SÉRIES",AMC SD
+http://praia13.com:80/live/939041/8SA9sh/71771.ts
+#EXTINF:-1 tvg-name="AXN 4K" tvg-logo="http://praia13.com/static/logos/canais/axn.png" group-title="CANAIS | FILMES E SÉRIES",AXN 4K
+http://praia13.com:80/live/939041/8SA9sh/90645.ts
+#EXTINF:-1 tvg-name="AXN FHD" tvg-logo="http://praia13.com/static/logos/canais/axn.png" group-title="CANAIS | FILMES E SÉRIES",AXN FHD
+http://praia13.com:80/live/939041/8SA9sh/71781.ts
+#EXTINF:-1 tvg-name="AXN FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/axn.png" group-title="CANAIS | FILMES E SÉRIES",AXN FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/71782.ts
+#EXTINF:-1 tvg-name="AXN HD" tvg-logo="http://praia13.com/static/logos/canais/axn.png" group-title="CANAIS | FILMES E SÉRIES",AXN HD
+http://praia13.com:80/live/939041/8SA9sh/71783.ts
+#EXTINF:-1 tvg-name="AXN SD" tvg-logo="http://praia13.com/static/logos/canais/axn.png" group-title="CANAIS | FILMES E SÉRIES",AXN SD
+http://praia13.com:80/live/939041/8SA9sh/71784.ts
+#EXTINF:-1 tvg-name="CANAL BRASIL 4K" tvg-logo="http://praia13.com/static/logos/canais/canalbrasil.png" group-title="CANAIS | FILMES E SÉRIES",CANAL BRASIL 4K
+http://praia13.com:80/live/939041/8SA9sh/103518.ts
+#EXTINF:-1 tvg-name="CANAL BRASIL FHD" tvg-logo="http://praia13.com/static/logos/canais/canalbrasil.png" group-title="CANAIS | FILMES E SÉRIES",CANAL BRASIL FHD
+http://praia13.com:80/live/939041/8SA9sh/71816.ts
+#EXTINF:-1 tvg-name="CANAL BRASIL FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/canalbrasil.png" group-title="CANAIS | FILMES E SÉRIES",CANAL BRASIL FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/71817.ts
+#EXTINF:-1 tvg-name="CANAL BRASIL HD" tvg-logo="http://praia13.com/static/logos/canais/canalbrasil.png" group-title="CANAIS | FILMES E SÉRIES",CANAL BRASIL HD
+http://praia13.com:80/live/939041/8SA9sh/71818.ts
+#EXTINF:-1 tvg-name="CANAL BRASIL SD" tvg-logo="http://praia13.com/static/logos/canais/canalbrasil.png" group-title="CANAIS | FILMES E SÉRIES",CANAL BRASIL SD
+http://praia13.com:80/live/939041/8SA9sh/71819.ts
+#EXTINF:-1 tvg-name="CANAL SONY 4K" tvg-logo="http://praia13.com/static/logos/canais/sony.png" group-title="CANAIS | FILMES E SÉRIES",CANAL SONY 4K
+http://praia13.com:80/live/939041/8SA9sh/103517.ts
+#EXTINF:-1 tvg-name="CANAL SONY FHD" tvg-logo="http://gstaticontent.com/images/117e794f409519d5fd8c54fdf6bf1b37.png" group-title="CANAIS | FILMES E SÉRIES",CANAL SONY FHD
+http://praia13.com:80/live/939041/8SA9sh/71824.ts
+#EXTINF:-1 tvg-name="CANAL SONY FHD [H265]" tvg-logo="http://gstaticontent.com/images/117e794f409519d5fd8c54fdf6bf1b37.png" group-title="CANAIS | FILMES E SÉRIES",CANAL SONY FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/71825.ts
+#EXTINF:-1 tvg-name="CANAL SONY HD" tvg-logo="http://gstaticontent.com/images/117e794f409519d5fd8c54fdf6bf1b37.png" group-title="CANAIS | FILMES E SÉRIES",CANAL SONY HD
+http://praia13.com:80/live/939041/8SA9sh/71826.ts
+#EXTINF:-1 tvg-name="CANAL SONY SD" tvg-logo="http://gstaticontent.com/images/117e794f409519d5fd8c54fdf6bf1b37.png" group-title="CANAIS | FILMES E SÉRIES",CANAL SONY SD
+http://praia13.com:80/live/939041/8SA9sh/71827.ts
+#EXTINF:-1 tvg-name="CINEMAX 4K" tvg-logo="http://praia13.com/static/logos/canais/cinemax.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX 4K
+http://praia13.com:80/live/939041/8SA9sh/90643.ts
+#EXTINF:-1 tvg-name="CINEMAX FHD" tvg-logo="http://praia13.com/static/logos/canais/cinemax.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX FHD
+http://praia13.com:80/live/939041/8SA9sh/71833.ts
+#EXTINF:-1 tvg-name="CINEMAX FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/cinemax.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/71834.ts
+#EXTINF:-1 tvg-name="CINEMAX HD" tvg-logo="http://praia13.com/static/logos/canais/cinemax.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX HD
+http://praia13.com:80/live/939041/8SA9sh/71835.ts
+#EXTINF:-1 tvg-name="CINEMAX SD" tvg-logo="http://praia13.com/static/logos/canais/cinemax.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX SD
+http://praia13.com:80/live/939041/8SA9sh/71836.ts
+#EXTINF:-1 tvg-name="FILM&ARTS FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/film-arts.png" group-title="CANAIS | FILMES E SÉRIES",FILM&ARTS FHD
+http://praia13.com:80/live/939041/8SA9sh/104914.ts
+#EXTINF:-1 tvg-name="FILM&ARTS FHD [H265]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/film-arts.png" group-title="CANAIS | FILMES E SÉRIES",FILM&ARTS FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/104920.ts
+#EXTINF:-1 tvg-name="FILM&ARTS 4K" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/film-arts.png" group-title="CANAIS | FILMES E SÉRIES",FILM&ARTS 4K
+http://praia13.com:80/live/939041/8SA9sh/178518.ts
+#EXTINF:-1 tvg-name="FILM&ARTS HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/film-arts.png" group-title="CANAIS | FILMES E SÉRIES",FILM&ARTS HD
+http://praia13.com:80/live/939041/8SA9sh/104915.ts
+#EXTINF:-1 tvg-name="FILM&ARTS SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/film-arts.png" group-title="CANAIS | FILMES E SÉRIES",FILM&ARTS SD
+http://praia13.com:80/live/939041/8SA9sh/104916.ts
+#EXTINF:-1 tvg-name="MEGAPIX 4K" tvg-logo="http://praia13.com/static/logos/canais/megapix.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX 4K
+http://praia13.com:80/live/939041/8SA9sh/131104.ts
+#EXTINF:-1 tvg-name="MEGAPIX FHD" tvg-logo="http://praia13.com/static/logos/canais/megapix.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX FHD
+http://praia13.com:80/live/939041/8SA9sh/72166.ts
+#EXTINF:-1 tvg-name="MEGAPIX FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/megapix.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/72167.ts
+#EXTINF:-1 tvg-name="MEGAPIX HD" tvg-logo="http://praia13.com/static/logos/canais/megapix.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX HD
+http://praia13.com:80/live/939041/8SA9sh/72169.ts
+#EXTINF:-1 tvg-name="MEGAPIX SD" tvg-logo="http://praia13.com/static/logos/canais/megapix.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX SD
+http://praia13.com:80/live/939041/8SA9sh/131204.ts
+#EXTINF:-1 tvg-name="PARAMOUNT CHANNEL 4K" tvg-logo="http://praia13.com/static/logos/canais/paramount.png" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT CHANNEL 4K
+http://praia13.com:80/live/939041/8SA9sh/90634.ts
+#EXTINF:-1 tvg-name="PARAMOUNT CHANNEL FHD" tvg-logo="http://praia13.com/static/logos/canais/paramount.png" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT CHANNEL FHD
+http://praia13.com:80/live/939041/8SA9sh/72217.ts
+#EXTINF:-1 tvg-name="PARAMOUNT CHANNEL FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/paramount.png" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT CHANNEL FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/72218.ts
+#EXTINF:-1 tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="http://praia13.com/static/logos/canais/paramount.png" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT CHANNEL HD
+http://praia13.com:80/live/939041/8SA9sh/72219.ts
+#EXTINF:-1 tvg-name="PARAMOUNT CHANNEL SD" tvg-logo="http://praia13.com/static/logos/canais/paramount.png" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT CHANNEL SD
+http://praia13.com:80/live/939041/8SA9sh/72220.ts
+#EXTINF:-1 tvg-name="SPACE 4K" tvg-logo="http://praia13.com/static/logos/canais/space.png" group-title="CANAIS | FILMES E SÉRIES",SPACE 4K
+http://praia13.com:80/live/939041/8SA9sh/90633.ts
+#EXTINF:-1 tvg-name="SPACE FHD" tvg-logo="http://praia13.com/static/logos/canais/space.png" group-title="CANAIS | FILMES E SÉRIES",SPACE FHD
+http://praia13.com:80/live/939041/8SA9sh/72317.ts
+#EXTINF:-1 tvg-name="SPACE FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/space.png" group-title="CANAIS | FILMES E SÉRIES",SPACE FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/72318.ts
+#EXTINF:-1 tvg-name="SPACE HD" tvg-logo="http://praia13.com/static/logos/canais/space.png" group-title="CANAIS | FILMES E SÉRIES",SPACE HD
+http://praia13.com:80/live/939041/8SA9sh/72319.ts
+#EXTINF:-1 tvg-name="SPACE SD" tvg-logo="http://praia13.com/static/logos/canais/space.png" group-title="CANAIS | FILMES E SÉRIES",SPACE SD
+http://praia13.com:80/live/939041/8SA9sh/72320.ts
+#EXTINF:-1 tvg-name="STUDIO UNIVERSAL 4K" tvg-logo="http://praia13.com/static/logos/canais/studiouniversal.png" group-title="CANAIS | FILMES E SÉRIES",STUDIO UNIVERSAL 4K
+http://praia13.com:80/live/939041/8SA9sh/103467.ts
+#EXTINF:-1 tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="http://praia13.com/static/logos/canais/studiouniversal.png" group-title="CANAIS | FILMES E SÉRIES",STUDIO UNIVERSAL FHD
+http://praia13.com:80/live/939041/8SA9sh/72334.ts
+#EXTINF:-1 tvg-name="STUDIO UNIVERSAL FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/studiouniversal.png" group-title="CANAIS | FILMES E SÉRIES",STUDIO UNIVERSAL FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/72335.ts
+#EXTINF:-1 tvg-name="STUDIO UNIVERSAL HD" tvg-logo="http://praia13.com/static/logos/canais/studiouniversal.png" group-title="CANAIS | FILMES E SÉRIES",STUDIO UNIVERSAL HD
+http://praia13.com:80/live/939041/8SA9sh/72336.ts
+#EXTINF:-1 tvg-name="STUDIO UNIVERSAL SD" tvg-logo="http://praia13.com/static/logos/canais/studiouniversal.png" group-title="CANAIS | FILMES E SÉRIES",STUDIO UNIVERSAL SD
+http://praia13.com:80/live/939041/8SA9sh/72337.ts
+#EXTINF:-1 tvg-name="SYFY 4K" tvg-logo="http://praia13.com/static/logos/canais/syfy.png" group-title="CANAIS | FILMES E SÉRIES",SYFY 4K
+http://praia13.com:80/live/939041/8SA9sh/103474.ts
+#EXTINF:-1 tvg-name="USA NETWORK FHD" tvg-logo="http://praia13.com/static/logos/canais/syfy.png" group-title="CANAIS | FILMES E SÉRIES",USA NETWORK FHD
+http://praia13.com:80/live/939041/8SA9sh/72338.ts
+#EXTINF:-1 tvg-name="USA NETWORK FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/syfy.png" group-title="CANAIS | FILMES E SÉRIES",USA NETWORK FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/72339.ts
+#EXTINF:-1 tvg-name="USA NETWORK HD" tvg-logo="http://praia13.com/static/logos/canais/syfy.png" group-title="CANAIS | FILMES E SÉRIES",USA NETWORK HD
+http://praia13.com:80/live/939041/8SA9sh/72340.ts
+#EXTINF:-1 tvg-name="USA NETWORK SD" tvg-logo="http://praia13.com/static/logos/canais/syfy.png" group-title="CANAIS | FILMES E SÉRIES",USA NETWORK SD
+http://praia13.com:80/live/939041/8SA9sh/72341.ts
+#EXTINF:-1 tvg-name="TNT NOVELAS 4K" tvg-logo="http://praia13.com/static/logos/canais/tbs.png" group-title="CANAIS | FILMES E SÉRIES",TNT NOVELAS 4K
+http://praia13.com:80/live/939041/8SA9sh/103466.ts
+#EXTINF:-1 tvg-name="TNT NOVELAS FHD" tvg-logo="http://praia13.com/static/logos/canais/tbs.png" group-title="CANAIS | FILMES E SÉRIES",TNT NOVELAS FHD
+http://praia13.com:80/live/939041/8SA9sh/72342.ts
+#EXTINF:-1 tvg-name="TNT NOVELAS FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/tbs.png" group-title="CANAIS | FILMES E SÉRIES",TNT NOVELAS FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/72343.ts
+#EXTINF:-1 tvg-name="TNT NOVELAS HD" tvg-logo="http://praia13.com/static/logos/canais/tbs.png" group-title="CANAIS | FILMES E SÉRIES",TNT NOVELAS HD
+http://praia13.com:80/live/939041/8SA9sh/72344.ts
+#EXTINF:-1 tvg-name="TNT NOVELAS SD" tvg-logo="http://praia13.com/static/logos/canais/tbs.png" group-title="CANAIS | FILMES E SÉRIES",TNT NOVELAS SD
+http://praia13.com:80/live/939041/8SA9sh/72345.ts
+#EXTINF:-1 tvg-name="TNT FHD" tvg-logo="http://praia13.com/static/logos/canais/tnt.png" group-title="CANAIS | FILMES E SÉRIES",TNT FHD
+http://praia13.com:80/live/939041/8SA9sh/72375.ts
+#EXTINF:-1 tvg-name="TNT FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/tnt.png" group-title="CANAIS | FILMES E SÉRIES",TNT FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/72376.ts
+#EXTINF:-1 tvg-name="TNT HD" tvg-logo="http://praia13.com/static/logos/canais/tnt.png" group-title="CANAIS | FILMES E SÉRIES",TNT HD
+http://praia13.com:80/live/939041/8SA9sh/72378.ts
+#EXTINF:-1 tvg-name="TNT SD" tvg-logo="http://praia13.com/static/logos/canais/tnt.png" group-title="CANAIS | FILMES E SÉRIES",TNT SD
+http://praia13.com:80/live/939041/8SA9sh/72379.ts
+#EXTINF:-1 tvg-name="TNT SERIES 4K" tvg-logo="http://praia13.com/static/logos/canais/tntseries.png" group-title="CANAIS | FILMES E SÉRIES",TNT SERIES 4K
+http://praia13.com:80/live/939041/8SA9sh/72382.ts
+#EXTINF:-1 tvg-name="TNT SERIES FHD" tvg-logo="http://praia13.com/static/logos/canais/tntseries.png" group-title="CANAIS | FILMES E SÉRIES",TNT SERIES FHD
+http://praia13.com:80/live/939041/8SA9sh/72380.ts
+#EXTINF:-1 tvg-name="TNT SERIES FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/tntseries.png" group-title="CANAIS | FILMES E SÉRIES",TNT SERIES FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/72381.ts
+#EXTINF:-1 tvg-name="TNT SERIES HD" tvg-logo="http://praia13.com/static/logos/canais/tntseries.png" group-title="CANAIS | FILMES E SÉRIES",TNT SERIES HD
+http://praia13.com:80/live/939041/8SA9sh/72383.ts
+#EXTINF:-1 tvg-name="TNT SERIES SD" tvg-logo="http://praia13.com/static/logos/canais/tntseries.png" group-title="CANAIS | FILMES E SÉRIES",TNT SERIES SD
+http://praia13.com:80/live/939041/8SA9sh/72384.ts
+#EXTINF:-1 tvg-name="UNIVERSAL TV 4K" tvg-logo="http://praia13.com/static/logos/canais/universalchannel.png" group-title="CANAIS | FILMES E SÉRIES",UNIVERSAL TV 4K
+http://praia13.com:80/live/939041/8SA9sh/90632.ts
+#EXTINF:-1 tvg-name="UNIVERSAL TV FHD" tvg-logo="http://praia13.com/static/logos/canais/universalchannel.png" group-title="CANAIS | FILMES E SÉRIES",UNIVERSAL TV FHD
+http://praia13.com:80/live/939041/8SA9sh/72419.ts
+#EXTINF:-1 tvg-name="UNIVERSAL TV FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/universalchannel.png" group-title="CANAIS | FILMES E SÉRIES",UNIVERSAL TV FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/72420.ts
+#EXTINF:-1 tvg-name="UNIVERSAL TV HD" tvg-logo="http://praia13.com/static/logos/canais/universalchannel.png" group-title="CANAIS | FILMES E SÉRIES",UNIVERSAL TV HD
+http://praia13.com:80/live/939041/8SA9sh/72421.ts
+#EXTINF:-1 tvg-name="UNIVERSAL TV SD" tvg-logo="http://praia13.com/static/logos/canais/universalchannel.png" group-title="CANAIS | FILMES E SÉRIES",UNIVERSAL TV SD
+http://praia13.com:80/live/939041/8SA9sh/72422.ts
+#EXTINF:-1 tvg-name="WARNER CHANNEL 4K" tvg-logo="http://praia13.com/static/logos/canais/warner.png" group-title="CANAIS | FILMES E SÉRIES",WARNER CHANNEL 4K
+http://praia13.com:80/live/939041/8SA9sh/90236.ts
+#EXTINF:-1 tvg-name="WARNER CHANNEL FHD" tvg-logo="http://praia13.com/static/logos/canais/warner.png" group-title="CANAIS | FILMES E SÉRIES",WARNER CHANNEL FHD
+http://praia13.com:80/live/939041/8SA9sh/72431.ts
+#EXTINF:-1 tvg-name="WARNER CHANNEL FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/warner.png" group-title="CANAIS | FILMES E SÉRIES",WARNER CHANNEL FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/72432.ts
+#EXTINF:-1 tvg-name="WARNER CHANNEL HD" tvg-logo="http://praia13.com/static/logos/canais/warner.png" group-title="CANAIS | FILMES E SÉRIES",WARNER CHANNEL HD
+http://praia13.com:80/live/939041/8SA9sh/72433.ts
+#EXTINF:-1 tvg-name="WARNER CHANNEL SD" tvg-logo="http://praia13.com/static/logos/canais/warner.png" group-title="CANAIS | FILMES E SÉRIES",WARNER CHANNEL SD
+http://praia13.com:80/live/939041/8SA9sh/72434.ts
+#EXTINF:-1 tvg-name="BAND NEWS 4K" tvg-logo="http://praia13.com/static/logos/canais/bandnews.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS 4K
+http://praia13.com:80/live/939041/8SA9sh/103526.ts
+#EXTINF:-1 tvg-name="BAND NEWS FHD" tvg-logo="http://praia13.com/static/logos/canais/bandnews.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS FHD
+http://praia13.com:80/live/939041/8SA9sh/71789.ts
+#EXTINF:-1 tvg-name="BAND NEWS FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/bandnews.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/71790.ts
+#EXTINF:-1 tvg-name="BAND NEWS HD" tvg-logo="http://praia13.com/static/logos/canais/bandnews.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS HD
+http://praia13.com:80/live/939041/8SA9sh/71791.ts
+#EXTINF:-1 tvg-name="BAND NEWS SD" tvg-logo="http://gstaticontent.com/images/abb329697106ebb6f051ab5ab2d39dfd.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS SD
+http://praia13.com:80/live/939041/8SA9sh/71792.ts
+#EXTINF:-1 tvg-name="CNN BRASIL 4K" tvg-logo="http://praia13.com/static/logos/canais/cnn.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL 4K
+http://praia13.com:80/live/939041/8SA9sh/71798.ts
+#EXTINF:-1 tvg-name="CNN BRASIL FHD" tvg-logo="http://praia13.com/static/logos/canais/cnn.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL FHD
+http://praia13.com:80/live/939041/8SA9sh/71837.ts
+#EXTINF:-1 tvg-name="CNN BRASIL FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/cnn.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/71838.ts
+#EXTINF:-1 tvg-name="CNN BRASIL HD" tvg-logo="http://praia13.com/static/logos/canais/cnn.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL HD
+http://praia13.com:80/live/939041/8SA9sh/71839.ts
+#EXTINF:-1 tvg-name="CNN BRASIL SD" tvg-logo="http://praia13.com/static/logos/canais/cnn.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL SD
+http://praia13.com:80/live/939041/8SA9sh/71840.ts
+#EXTINF:-1 tvg-name="EUROCHANNEL FHD" tvg-logo="http://gstaticontent.com/images/e319732e23a51cafb209d07c7a26c615.jpg" group-title="CANAIS | NOTÍCIAS",EUROCHANNEL FHD
+http://praia13.com:80/live/939041/8SA9sh/104910.ts
+#EXTINF:-1 tvg-name="EUROCHANNEL FHD [H265]" tvg-logo="http://gstaticontent.com/images/e319732e23a51cafb209d07c7a26c615.jpg" group-title="CANAIS | NOTÍCIAS",EUROCHANNEL FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/104913.ts
+#EXTINF:-1 tvg-name="EUROCHANNEL HD" tvg-logo="http://gstaticontent.com/images/e319732e23a51cafb209d07c7a26c615.jpg" group-title="CANAIS | NOTÍCIAS",EUROCHANNEL HD
+http://praia13.com:80/live/939041/8SA9sh/104911.ts
+#EXTINF:-1 tvg-name="EUROCHANNEL SD" tvg-logo="http://gstaticontent.com/images/e319732e23a51cafb209d07c7a26c615.jpg" group-title="CANAIS | NOTÍCIAS",EUROCHANNEL SD
+http://praia13.com:80/live/939041/8SA9sh/104912.ts
+#EXTINF:-1 tvg-name="FRANCE 24 4K" group-title="CANAIS | NOTÍCIAS",FRANCE 24 4K
+http://praia13.com:80/live/939041/8SA9sh/103500.ts
+#EXTINF:-1 tvg-name="FRANCE 24 FHD" group-title="CANAIS | NOTÍCIAS",FRANCE 24 FHD
+http://praia13.com:80/live/939041/8SA9sh/104906.ts
+#EXTINF:-1 tvg-name="FRANCE 24 FHD [H265]" group-title="CANAIS | NOTÍCIAS",FRANCE 24 FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/104942.ts
+#EXTINF:-1 tvg-name="FRANCE 24 HD" group-title="CANAIS | NOTÍCIAS",FRANCE 24 HD
+http://praia13.com:80/live/939041/8SA9sh/104907.ts
+#EXTINF:-1 tvg-name="FRANCE 24 SD" group-title="CANAIS | NOTÍCIAS",FRANCE 24 SD
+http://praia13.com:80/live/939041/8SA9sh/104941.ts
+#EXTINF:-1 tvg-name="GLOBO NEWS 4K" tvg-logo="http://praia13.com/static/logos/canais/globonews.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS 4K
+http://praia13.com:80/live/939041/8SA9sh/90248.ts
+#EXTINF:-1 tvg-name="GLOBO NEWS FHD" tvg-logo="http://praia13.com/static/logos/canais/globonews.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS FHD
+http://praia13.com:80/live/939041/8SA9sh/71997.ts
+#EXTINF:-1 tvg-name="GLOBO NEWS FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/globonews.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/71998.ts
+#EXTINF:-1 tvg-name="GLOBO NEWS HD" tvg-logo="http://praia13.com/static/logos/canais/globonews.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS HD
+http://praia13.com:80/live/939041/8SA9sh/71999.ts
+#EXTINF:-1 tvg-name="GLOBO NEWS SD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS SD
+http://praia13.com:80/live/939041/8SA9sh/131112.ts
+#EXTINF:-1 tvg-name="JOVEM PAN NEWS 4K" tvg-logo="http://gstaticontent.com/images/1cd8c9455f7b030e1f95b27253dd070b.png" group-title="CANAIS | NOTÍCIAS",JOVEM PAN NEWS 4K
+http://praia13.com:80/live/939041/8SA9sh/134021.ts
+#EXTINF:-1 tvg-name="JOVEM PAN NEWS FHD" tvg-logo="http://gstaticontent.com/images/1cd8c9455f7b030e1f95b27253dd070b.png" group-title="CANAIS | NOTÍCIAS",JOVEM PAN NEWS FHD
+http://praia13.com:80/live/939041/8SA9sh/134023.ts
+#EXTINF:-1 tvg-name="JOVEM PAN NEWS FHD [H265]" tvg-logo="https://i.imgur.com/2FLFlC5.png" group-title="CANAIS | NOTÍCIAS",JOVEM PAN NEWS FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/134022.ts
+#EXTINF:-1 tvg-name="JOVEM PAN NEWS HD" tvg-logo="http://gstaticontent.com/images/1cd8c9455f7b030e1f95b27253dd070b.png" group-title="CANAIS | NOTÍCIAS",JOVEM PAN NEWS HD
+http://praia13.com:80/live/939041/8SA9sh/134024.ts
+#EXTINF:-1 tvg-name="JOVEM PAN NEWS SD" tvg-logo="http://gstaticontent.com/images/1cd8c9455f7b030e1f95b27253dd070b.png" group-title="CANAIS | NOTÍCIAS",JOVEM PAN NEWS SD
+http://praia13.com:80/live/939041/8SA9sh/134025.ts
+#EXTINF:-1 tvg-name="RECORD NEWS 4K" tvg-logo="http://gstaticontent.com/images/2449a2b4976db3d6d8efdbd249a40971.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS 4K
+http://praia13.com:80/live/939041/8SA9sh/178523.ts
+#EXTINF:-1 tvg-name="RECORD NEWS FHD" tvg-logo="http://gstaticontent.com/images/2449a2b4976db3d6d8efdbd249a40971.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS FHD
+http://praia13.com:80/live/939041/8SA9sh/72271.ts
+#EXTINF:-1 tvg-name="RECORD NEWS FHD [H265]" tvg-logo="http://gstaticontent.com/images/2449a2b4976db3d6d8efdbd249a40971.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/178522.ts
+#EXTINF:-1 tvg-name="RECORD NEWS HD" tvg-logo="http://gstaticontent.com/images/2449a2b4976db3d6d8efdbd249a40971.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS HD
+http://praia13.com:80/live/939041/8SA9sh/72272.ts
+#EXTINF:-1 tvg-name="RECORD NEWS SD" tvg-logo="http://gstaticontent.com/images/2449a2b4976db3d6d8efdbd249a40971.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS SD
+http://praia13.com:80/live/939041/8SA9sh/72273.ts
+#EXTINF:-1 tvg-name="TV GAZETA SP SD" tvg-logo="http://gstaticontent.com/images/2baf5152b328307749ffbafedb684497.png" group-title="CANAIS | NOTÍCIAS",TV GAZETA SP SD
+http://praia13.com:80/live/939041/8SA9sh/104918.ts
+#EXTINF:-1 tvg-name="CNBC BRASIL HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/bbc-brasil.png" group-title="CANAIS | NOTÍCIAS",CNBC BRASIL HD
+http://praia13.com:80/live/939041/8SA9sh/295478.ts
+#EXTINF:-1 tvg-name="CNBC BRASIL SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/bbc-brasil.png" group-title="CANAIS | NOTÍCIAS",CNBC BRASIL SD
+http://praia13.com:80/live/939041/8SA9sh/295479.ts
+#EXTINF:-1 tvg-name="CNBC BRASIL 4K" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/bbc-brasil.png" group-title="CANAIS | NOTÍCIAS",CNBC BRASIL 4K
+http://praia13.com:80/live/939041/8SA9sh/295480.ts
+#EXTINF:-1 tvg-name="CNN BRASIL MONEY FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-money.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL MONEY FHD
+http://praia13.com:80/live/939041/8SA9sh/295482.ts
+#EXTINF:-1 tvg-name="CNN BRASIL MONEY HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-money.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL MONEY HD
+http://praia13.com:80/live/939041/8SA9sh/295483.ts
+#EXTINF:-1 tvg-name="CNN BRASIL MONEY SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-money.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL MONEY SD
+http://praia13.com:80/live/939041/8SA9sh/295484.ts
+#EXTINF:-1 tvg-name="CNN BRASIL MONEY FHD [H265]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-money.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL MONEY FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/295485.ts
+#EXTINF:-1 tvg-name="CNN BRASIL MONEY 4K" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/cnn-money.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL MONEY 4K
+http://praia13.com:80/live/939041/8SA9sh/295486.ts
+#EXTINF:-1 tvg-name="CNBC BRASIL FHD [H265]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/bbc-brasil.png" group-title="CANAIS | NOTÍCIAS",CNBC BRASIL FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/295481.ts
+#EXTINF:-1 tvg-name="A&E 4K" tvg-logo="http://praia13.com/static/logos/canais/a%26e.png" group-title="CANAIS | VARIEDADES",A&E 4K
+http://praia13.com:80/live/939041/8SA9sh/90647.ts
+#EXTINF:-1 tvg-name="A&E FHD" tvg-logo="http://praia13.com/static/logos/canais/a%26e.png" group-title="CANAIS | VARIEDADES",A&E FHD
+http://praia13.com:80/live/939041/8SA9sh/71760.ts
+#EXTINF:-1 tvg-name="A&E FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/a%26e.png" group-title="CANAIS | VARIEDADES",A&E FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/71761.ts
+#EXTINF:-1 tvg-name="A&E HD" tvg-logo="http://praia13.com/static/logos/canais/a%26e.png" group-title="CANAIS | VARIEDADES",A&E HD
+http://praia13.com:80/live/939041/8SA9sh/71762.ts
+#EXTINF:-1 tvg-name="A&E SD" tvg-logo="http://praia13.com/static/logos/canais/a%26e.png" group-title="CANAIS | VARIEDADES",A&E SD
+http://praia13.com:80/live/939041/8SA9sh/71763.ts
+#EXTINF:-1 tvg-name="BIS 4K" tvg-logo="http://praia13.com/static/logos/canais/bis.png" group-title="CANAIS | VARIEDADES",BIS 4K
+http://praia13.com:80/live/939041/8SA9sh/103527.ts
+#EXTINF:-1 tvg-name="BIS FHD" tvg-logo="http://praia13.com/static/logos/canais/bis.png" group-title="CANAIS | VARIEDADES",BIS FHD
+http://praia13.com:80/live/939041/8SA9sh/71806.ts
+#EXTINF:-1 tvg-name="BIS FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/bis.png" group-title="CANAIS | VARIEDADES",BIS FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/71807.ts
+#EXTINF:-1 tvg-name="BIS HD" tvg-logo="http://praia13.com/static/logos/canais/bis.png" group-title="CANAIS | VARIEDADES",BIS HD
+http://praia13.com:80/live/939041/8SA9sh/71808.ts
+#EXTINF:-1 tvg-name="BIS SD" tvg-logo="http://praia13.com/static/logos/canais/bis.png" group-title="CANAIS | VARIEDADES",BIS SD
+http://praia13.com:80/live/939041/8SA9sh/71809.ts
+#EXTINF:-1 tvg-name="DISCOVERY H&H 4K" tvg-logo="http://praia13.com/static/logos/canais/discoveryh%26h.png" group-title="CANAIS | VARIEDADES",DISCOVERY H&H 4K
+http://praia13.com:80/live/939041/8SA9sh/90251.ts
+#EXTINF:-1 tvg-name="DISCOVERY H&H FHD" tvg-logo="http://praia13.com/static/logos/canais/discoveryh%26h.png" group-title="CANAIS | VARIEDADES",DISCOVERY H&H FHD
+http://praia13.com:80/live/939041/8SA9sh/71867.ts
+#EXTINF:-1 tvg-name="DISCOVERY H&H FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/discoveryh%26h.png" group-title="CANAIS | VARIEDADES",DISCOVERY H&H FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/71868.ts
+#EXTINF:-1 tvg-name="DISCOVERY H&H HD" tvg-logo="http://praia13.com/static/logos/canais/discoveryh%26h.png" group-title="CANAIS | VARIEDADES",DISCOVERY H&H HD
+http://praia13.com:80/live/939041/8SA9sh/71869.ts
+#EXTINF:-1 tvg-name="DISCOVERY H&H SD" tvg-logo="http://praia13.com/static/logos/canais/discoveryh%26h.png" group-title="CANAIS | VARIEDADES",DISCOVERY H&H SD
+http://praia13.com:80/live/939041/8SA9sh/71870.ts
+#EXTINF:-1 tvg-name="DISCOVERY TURBO 4K" tvg-logo="http://praia13.com/static/logos/canais/discoveryturbo.png" group-title="CANAIS | VARIEDADES",DISCOVERY TURBO 4K
+http://praia13.com:80/live/939041/8SA9sh/90641.ts
+#EXTINF:-1 tvg-name="DISCOVERY TURBO FHD" tvg-logo="http://gstaticontent.com/images/54ebbe6b53dab84e158a5bb930339b49.png" group-title="CANAIS | VARIEDADES",DISCOVERY TURBO FHD
+http://praia13.com:80/live/939041/8SA9sh/71883.ts
+#EXTINF:-1 tvg-name="DISCOVERY TURBO FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/discoveryturbo.png" group-title="CANAIS | VARIEDADES",DISCOVERY TURBO FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/71884.ts
+#EXTINF:-1 tvg-name="DISCOVERY TURBO HD" tvg-logo="http://gstaticontent.com/images/54ebbe6b53dab84e158a5bb930339b49.png" group-title="CANAIS | VARIEDADES",DISCOVERY TURBO HD
+http://praia13.com:80/live/939041/8SA9sh/71885.ts
+#EXTINF:-1 tvg-name="DISCOVERY TURBO SD" tvg-logo="http://gstaticontent.com/images/54ebbe6b53dab84e158a5bb930339b49.png" group-title="CANAIS | VARIEDADES",DISCOVERY TURBO SD
+http://praia13.com:80/live/939041/8SA9sh/71886.ts
+#EXTINF:-1 tvg-name="DOG TV FHD" tvg-logo="http://gstaticontent.com/images/2ecd0b43c0ba5f0fac0f9fbb98bb79cd.jpg" group-title="CANAIS | VARIEDADES",DOG TV FHD
+http://praia13.com:80/live/939041/8SA9sh/76922.ts
+#EXTINF:-1 tvg-name="DOG TV FHD [H265]" tvg-logo="http://gstaticontent.com/images/2ecd0b43c0ba5f0fac0f9fbb98bb79cd.jpg" group-title="CANAIS | VARIEDADES",DOG TV FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/104909.ts
+#EXTINF:-1 tvg-name="DOG TV HD" tvg-logo="http://gstaticontent.com/images/2ecd0b43c0ba5f0fac0f9fbb98bb79cd.jpg" group-title="CANAIS | VARIEDADES",DOG TV HD
+http://praia13.com:80/live/939041/8SA9sh/76923.ts
+#EXTINF:-1 tvg-name="DOG TV SD" tvg-logo="http://gstaticontent.com/images/2ecd0b43c0ba5f0fac0f9fbb98bb79cd.jpg" group-title="CANAIS | VARIEDADES",DOG TV SD
+http://praia13.com:80/live/939041/8SA9sh/104908.ts
+#EXTINF:-1 tvg-name="E! 4K" tvg-logo="http://praia13.com/static/logos/canais/e%21.png" group-title="CANAIS | VARIEDADES",E! 4K
+http://praia13.com:80/live/939041/8SA9sh/103506.ts
+#EXTINF:-1 tvg-name="E! FHD" tvg-logo="http://praia13.com/static/logos/canais/e%21.png" group-title="CANAIS | VARIEDADES",E! FHD
+http://praia13.com:80/live/939041/8SA9sh/71900.ts
+#EXTINF:-1 tvg-name="E! FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/e%21.png" group-title="CANAIS | VARIEDADES",E! FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/71901.ts
+#EXTINF:-1 tvg-name="E! HD" tvg-logo="http://praia13.com/static/logos/canais/e%21.png" group-title="CANAIS | VARIEDADES",E! HD
+http://praia13.com:80/live/939041/8SA9sh/71902.ts
+#EXTINF:-1 tvg-name="E! SD" tvg-logo="http://praia13.com/static/logos/canais/e%21.png" group-title="CANAIS | VARIEDADES",E! SD
+http://praia13.com:80/live/939041/8SA9sh/71903.ts
+#EXTINF:-1 tvg-name="FASHIONTV 4K" tvg-logo="https://i.imgur.com/1jtRh4S.png" group-title="CANAIS | VARIEDADES",FASHIONTV 4K
+http://praia13.com:80/live/939041/8SA9sh/103503.ts
+#EXTINF:-1 tvg-name="FASHIONTV FHD" tvg-logo="https://i.imgur.com/1jtRh4S.png" group-title="CANAIS | VARIEDADES",FASHIONTV FHD
+http://praia13.com:80/live/939041/8SA9sh/71924.ts
+#EXTINF:-1 tvg-name="FASHIONTV FHD [H265]" tvg-logo="https://i.imgur.com/1jtRh4S.png" group-title="CANAIS | VARIEDADES",FASHIONTV FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/71925.ts
+#EXTINF:-1 tvg-name="FASHIONTV HD" tvg-logo="https://i.imgur.com/1jtRh4S.png" group-title="CANAIS | VARIEDADES",FASHIONTV HD
+http://praia13.com:80/live/939041/8SA9sh/71926.ts
+#EXTINF:-1 tvg-name="FASHIONTV SD" tvg-logo="https://i.imgur.com/1jtRh4S.png" group-title="CANAIS | VARIEDADES",FASHIONTV SD
+http://praia13.com:80/live/939041/8SA9sh/71927.ts
+#EXTINF:-1 tvg-name="FISH TV 4K" tvg-logo="http://praia13.com/static/logos/canais/fishtv.png" group-title="CANAIS | VARIEDADES",FISH TV 4K
+http://praia13.com:80/live/939041/8SA9sh/103502.ts
+#EXTINF:-1 tvg-name="FISH TV FHD" tvg-logo="http://praia13.com/static/logos/canais/fishtv.png" group-title="CANAIS | VARIEDADES",FISH TV FHD
+http://praia13.com:80/live/939041/8SA9sh/71928.ts
+#EXTINF:-1 tvg-name="FISH TV FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/fishtv.png" group-title="CANAIS | VARIEDADES",FISH TV FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/71929.ts
+#EXTINF:-1 tvg-name="FISH TV HD" tvg-logo="http://praia13.com/static/logos/canais/fishtv.png" group-title="CANAIS | VARIEDADES",FISH TV HD
+http://praia13.com:80/live/939041/8SA9sh/71930.ts
+#EXTINF:-1 tvg-name="FISH TV SD" tvg-logo="http://praia13.com/static/logos/canais/fishtv.png" group-title="CANAIS | VARIEDADES",FISH TV SD
+http://praia13.com:80/live/939041/8SA9sh/71931.ts
+#EXTINF:-1 tvg-name="FOOD NETWORK 4K" tvg-logo="http://praia13.com/static/logos/canais/foodnetwork.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK 4K
+http://praia13.com:80/live/939041/8SA9sh/103501.ts
+#EXTINF:-1 tvg-name="FOOD NETWORK FHD" tvg-logo="http://praia13.com/static/logos/canais/foodnetwork.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK FHD
+http://praia13.com:80/live/939041/8SA9sh/71932.ts
+#EXTINF:-1 tvg-name="FOOD NETWORK FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/foodnetwork.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/71933.ts
+#EXTINF:-1 tvg-name="FOOD NETWORK HD" tvg-logo="http://praia13.com/static/logos/canais/foodnetwork.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK HD
+http://praia13.com:80/live/939041/8SA9sh/71934.ts
+#EXTINF:-1 tvg-name="FOOD NETWORK SD" tvg-logo="http://praia13.com/static/logos/canais/foodnetwork.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK SD
+http://praia13.com:80/live/939041/8SA9sh/71935.ts
+#EXTINF:-1 tvg-name="GNT 4K" tvg-logo="http://praia13.com/static/logos/canais/gnt.png" group-title="CANAIS | VARIEDADES",GNT 4K
+http://praia13.com:80/live/939041/8SA9sh/90638.ts
+#EXTINF:-1 tvg-name="GNT FHD" tvg-logo="http://praia13.com/static/logos/canais/gnt.png" group-title="CANAIS | VARIEDADES",GNT FHD
+http://praia13.com:80/live/939041/8SA9sh/72102.ts
+#EXTINF:-1 tvg-name="GNT FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/gnt.png" group-title="CANAIS | VARIEDADES",GNT FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/72103.ts
+#EXTINF:-1 tvg-name="GNT HD" tvg-logo="http://praia13.com/static/logos/canais/gnt.png" group-title="CANAIS | VARIEDADES",GNT HD
+http://praia13.com:80/live/939041/8SA9sh/72104.ts
+#EXTINF:-1 tvg-name="GNT SD" tvg-logo="http://praia13.com/static/logos/canais/gnt.png" group-title="CANAIS | VARIEDADES",GNT SD
+http://praia13.com:80/live/939041/8SA9sh/131136.ts
+#EXTINF:-1 tvg-name="LIFETIME 4K" tvg-logo="http://praia13.com/static/logos/canais/lifetime.png" group-title="CANAIS | VARIEDADES",LIFETIME 4K
+http://praia13.com:80/live/939041/8SA9sh/103492.ts
+#EXTINF:-1 tvg-name="LIFETIME FHD" tvg-logo="http://praia13.com/static/logos/canais/lifetime.png" group-title="CANAIS | VARIEDADES",LIFETIME FHD
+http://praia13.com:80/live/939041/8SA9sh/72154.ts
+#EXTINF:-1 tvg-name="LIFETIME FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/lifetime.png" group-title="CANAIS | VARIEDADES",LIFETIME FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/72155.ts
+#EXTINF:-1 tvg-name="LIFETIME HD" tvg-logo="http://praia13.com/static/logos/canais/lifetime.png" group-title="CANAIS | VARIEDADES",LIFETIME HD
+http://praia13.com:80/live/939041/8SA9sh/72156.ts
+#EXTINF:-1 tvg-name="LIFETIME SD" tvg-logo="http://praia13.com/static/logos/canais/lifetime.png" group-title="CANAIS | VARIEDADES",LIFETIME SD
+http://praia13.com:80/live/939041/8SA9sh/72157.ts
+#EXTINF:-1 tvg-name="MARKKET 4K" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/markket-tv.png" group-title="CANAIS | VARIEDADES",MARKKET 4K
+http://praia13.com:80/live/939041/8SA9sh/164026.ts
+#EXTINF:-1 tvg-name="MARKKET FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/markket-tv.png" group-title="CANAIS | VARIEDADES",MARKKET FHD
+http://praia13.com:80/live/939041/8SA9sh/164030.ts
+#EXTINF:-1 tvg-name="MARKKET HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/markket-tv.png" group-title="CANAIS | VARIEDADES",MARKKET HD
+http://praia13.com:80/live/939041/8SA9sh/164029.ts
+#EXTINF:-1 tvg-name="MARKKET SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/markket-tv.png" group-title="CANAIS | VARIEDADES",MARKKET SD
+http://praia13.com:80/live/939041/8SA9sh/164028.ts
+#EXTINF:-1 tvg-name="MEGA TV HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/megapix.png" group-title="CANAIS | VARIEDADES",MEGA TV HD
+http://praia13.com:80/live/939041/8SA9sh/104925.ts
+#EXTINF:-1 tvg-name="MEGA TV SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/megapix.png" group-title="CANAIS | VARIEDADES",MEGA TV SD
+http://praia13.com:80/live/939041/8SA9sh/104926.ts
+#EXTINF:-1 tvg-name="MODO VIAGEM 4K" tvg-logo="http://gstaticontent.com/images/d93d8875965a86e8f2d5bcc153074e87.png" group-title="CANAIS | VARIEDADES",MODO VIAGEM 4K
+http://praia13.com:80/live/939041/8SA9sh/103488.ts
+#EXTINF:-1 tvg-name="MODO VIAGEM FHD" tvg-logo="http://gstaticontent.com/images/d93d8875965a86e8f2d5bcc153074e87.png" group-title="CANAIS | VARIEDADES",MODO VIAGEM FHD
+http://praia13.com:80/live/939041/8SA9sh/72162.ts
+#EXTINF:-1 tvg-name="MODO VIAGEM FHD [H265]" tvg-logo="http://gstaticontent.com/images/d93d8875965a86e8f2d5bcc153074e87.png" group-title="CANAIS | VARIEDADES",MODO VIAGEM FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/72163.ts
+#EXTINF:-1 tvg-name="MODO VIAGEM HD" tvg-logo="http://gstaticontent.com/images/d93d8875965a86e8f2d5bcc153074e87.png" group-title="CANAIS | VARIEDADES",MODO VIAGEM HD
+http://praia13.com:80/live/939041/8SA9sh/72164.ts
+#EXTINF:-1 tvg-name="MODO VIAGEM SD" tvg-logo="http://gstaticontent.com/images/d93d8875965a86e8f2d5bcc153074e87.png" group-title="CANAIS | VARIEDADES",MODO VIAGEM SD
+http://praia13.com:80/live/939041/8SA9sh/72165.ts
+#EXTINF:-1 tvg-name="MULTISHOW 4K" tvg-logo="http://praia13.com/static/logos/canais/multishow.png" group-title="CANAIS | VARIEDADES",MULTISHOW 4K
+http://praia13.com:80/live/939041/8SA9sh/131138.ts
+#EXTINF:-1 tvg-name="MULTISHOW FHD" tvg-logo="http://praia13.com/static/logos/canais/multishow.png" group-title="CANAIS | VARIEDADES",MULTISHOW FHD
+http://praia13.com:80/live/939041/8SA9sh/131193.ts
+#EXTINF:-1 tvg-name="MULTISHOW FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/multishow.png" group-title="CANAIS | VARIEDADES",MULTISHOW FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/131107.ts
+#EXTINF:-1 tvg-name="MULTISHOW HD" tvg-logo="http://praia13.com/static/logos/canais/multishow.png" group-title="CANAIS | VARIEDADES",MULTISHOW HD
+http://praia13.com:80/live/939041/8SA9sh/72182.ts
+#EXTINF:-1 tvg-name="MULTISHOW SD" tvg-logo="http://praia13.com/static/logos/canais/multishow.png" group-title="CANAIS | VARIEDADES",MULTISHOW SD
+http://praia13.com:80/live/939041/8SA9sh/131134.ts
+#EXTINF:-1 tvg-name="MUSIC BOX BRAZIL 4K" tvg-logo="http://praia13.com/static/logos/canais/musicboxbrazil.png" group-title="CANAIS | VARIEDADES",MUSIC BOX BRAZIL 4K
+http://praia13.com:80/live/939041/8SA9sh/103487.ts
+#EXTINF:-1 tvg-name="MUSIC BOX BRAZIL FHD" tvg-logo="http://praia13.com/static/logos/canais/musicboxbrazil.png" group-title="CANAIS | VARIEDADES",MUSIC BOX BRAZIL FHD
+http://praia13.com:80/live/939041/8SA9sh/72184.ts
+#EXTINF:-1 tvg-name="MUSIC BOX BRAZIL FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/musicboxbrazil.png" group-title="CANAIS | VARIEDADES",MUSIC BOX BRAZIL FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/72185.ts
+#EXTINF:-1 tvg-name="MUSIC BOX BRAZIL HD" tvg-logo="http://praia13.com/static/logos/canais/musicboxbrazil.png" group-title="CANAIS | VARIEDADES",MUSIC BOX BRAZIL HD
+http://praia13.com:80/live/939041/8SA9sh/72186.ts
+#EXTINF:-1 tvg-name="MUSIC BOX BRAZIL SD" tvg-logo="http://praia13.com/static/logos/canais/musicboxbrazil.png" group-title="CANAIS | VARIEDADES",MUSIC BOX BRAZIL SD
+http://praia13.com:80/live/939041/8SA9sh/72187.ts
+#EXTINF:-1 tvg-name="OFF 4K" tvg-logo="http://praia13.com/static/logos/canais/off.png" group-title="CANAIS | VARIEDADES",OFF 4K
+http://praia13.com:80/live/939041/8SA9sh/90240.ts
+#EXTINF:-1 tvg-name="OFF FHD" tvg-logo="http://praia13.com/static/logos/canais/off.png" group-title="CANAIS | VARIEDADES",OFF FHD
+http://praia13.com:80/live/939041/8SA9sh/72209.ts
+#EXTINF:-1 tvg-name="OFF FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/off.png" group-title="CANAIS | VARIEDADES",OFF FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/72210.ts
+#EXTINF:-1 tvg-name="OFF HD" tvg-logo="http://praia13.com/static/logos/canais/off.png" group-title="CANAIS | VARIEDADES",OFF HD
+http://praia13.com:80/live/939041/8SA9sh/72211.ts
+#EXTINF:-1 tvg-name="OFF SD" tvg-logo="http://praia13.com/static/logos/canais/off.png" group-title="CANAIS | VARIEDADES",OFF SD
+http://praia13.com:80/live/939041/8SA9sh/72212.ts
+#EXTINF:-1 tvg-name="PRIME BOX BRAZIL 4K" tvg-logo="http://praia13.com/static/logos/canais/primeboxbrazil.png" group-title="CANAIS | VARIEDADES",PRIME BOX BRAZIL 4K
+http://praia13.com:80/live/939041/8SA9sh/103476.ts
+#EXTINF:-1 tvg-name="PRIME BOX BRAZIL FHD" tvg-logo="http://praia13.com/static/logos/canais/primeboxbrazil.png" group-title="CANAIS | VARIEDADES",PRIME BOX BRAZIL FHD
+http://praia13.com:80/live/939041/8SA9sh/72267.ts
+#EXTINF:-1 tvg-name="PRIME BOX BRAZIL FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/primeboxbrazil.png" group-title="CANAIS | VARIEDADES",PRIME BOX BRAZIL FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/72268.ts
+#EXTINF:-1 tvg-name="PRIME BOX BRAZIL HD" tvg-logo="http://praia13.com/static/logos/canais/primeboxbrazil.png" group-title="CANAIS | VARIEDADES",PRIME BOX BRAZIL HD
+http://praia13.com:80/live/939041/8SA9sh/72269.ts
+#EXTINF:-1 tvg-name="PRIME BOX BRAZIL SD" tvg-logo="http://praia13.com/static/logos/canais/primeboxbrazil.png" group-title="CANAIS | VARIEDADES",PRIME BOX BRAZIL SD
+http://praia13.com:80/live/939041/8SA9sh/72270.ts
+#EXTINF:-1 tvg-name="SABOR & ARTE 4K" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/sabor-arte.png" group-title="CANAIS | VARIEDADES",SABOR & ARTE 4K
+http://praia13.com:80/live/939041/8SA9sh/112013.ts
+#EXTINF:-1 tvg-name="SABOR & ARTE FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/sabor-arte.png" group-title="CANAIS | VARIEDADES",SABOR & ARTE FHD
+http://praia13.com:80/live/939041/8SA9sh/112017.ts
+#EXTINF:-1 tvg-name="SABOR & ARTE FHD [H265]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/sabor-arte.png" group-title="CANAIS | VARIEDADES",SABOR & ARTE FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/112014.ts
+#EXTINF:-1 tvg-name="SABOR & ARTE HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/sabor-arte.png" group-title="CANAIS | VARIEDADES",SABOR & ARTE HD
+http://praia13.com:80/live/939041/8SA9sh/112016.ts
+#EXTINF:-1 tvg-name="SABOR & ARTE SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/sabor-arte.png" group-title="CANAIS | VARIEDADES",SABOR & ARTE SD
+http://praia13.com:80/live/939041/8SA9sh/112015.ts
+#EXTINF:-1 tvg-name="TLC 4K" tvg-logo="http://praia13.com/static/logos/canais/tlc.png" group-title="CANAIS | VARIEDADES",TLC 4K
+http://praia13.com:80/live/939041/8SA9sh/103465.ts
+#EXTINF:-1 tvg-name="TLC FHD" tvg-logo="http://praia13.com/static/logos/canais/tlc.png" group-title="CANAIS | VARIEDADES",TLC FHD
+http://praia13.com:80/live/939041/8SA9sh/72371.ts
+#EXTINF:-1 tvg-name="TLC FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/tlc.png" group-title="CANAIS | VARIEDADES",TLC FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/72372.ts
+#EXTINF:-1 tvg-name="TLC HD" tvg-logo="http://praia13.com/static/logos/canais/tlc.png" group-title="CANAIS | VARIEDADES",TLC HD
+http://praia13.com:80/live/939041/8SA9sh/72373.ts
+#EXTINF:-1 tvg-name="TLC SD" tvg-logo="http://praia13.com/static/logos/canais/tlc.png" group-title="CANAIS | VARIEDADES",TLC SD
+http://praia13.com:80/live/939041/8SA9sh/72374.ts
+#EXTINF:-1 tvg-name="TRACE BRAZUCA 4K" tvg-logo="https://i.imgur.com/ZXe9A7X.png" group-title="CANAIS | VARIEDADES",TRACE BRAZUCA 4K
+http://praia13.com:80/live/939041/8SA9sh/103453.ts
+#EXTINF:-1 tvg-name="TRACE BRAZUCA FHD" tvg-logo="https://i.imgur.com/ZXe9A7X.png" group-title="CANAIS | VARIEDADES",TRACE BRAZUCA FHD
+http://praia13.com:80/live/939041/8SA9sh/72386.ts
+#EXTINF:-1 tvg-name="TRACE BRAZUCA FHD [H265]" tvg-logo="https://i.imgur.com/ZXe9A7X.png" group-title="CANAIS | VARIEDADES",TRACE BRAZUCA FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/72387.ts
+#EXTINF:-1 tvg-name="TRACE BRAZUCA HD" tvg-logo="https://i.imgur.com/ZXe9A7X.png" group-title="CANAIS | VARIEDADES",TRACE BRAZUCA HD
+http://praia13.com:80/live/939041/8SA9sh/72388.ts
+#EXTINF:-1 tvg-name="TRACE BRAZUCA SD" tvg-logo="https://i.imgur.com/ZXe9A7X.png" group-title="CANAIS | VARIEDADES",TRACE BRAZUCA SD
+http://praia13.com:80/live/939041/8SA9sh/72389.ts
+#EXTINF:-1 tvg-name="TRAVEL BOX BRAZIL 4K" tvg-logo="http://praia13.com/static/logos/canais/travelboxbrazil.png" group-title="CANAIS | VARIEDADES",TRAVEL BOX BRAZIL 4K
+http://praia13.com:80/live/939041/8SA9sh/103452.ts
+#EXTINF:-1 tvg-name="TRAVEL BOX BRAZIL FHD" tvg-logo="http://praia13.com/static/logos/canais/travelboxbrazil.png" group-title="CANAIS | VARIEDADES",TRAVEL BOX BRAZIL FHD
+http://praia13.com:80/live/939041/8SA9sh/72390.ts
+#EXTINF:-1 tvg-name="TRAVEL BOX BRAZIL FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/travelboxbrazil.png" group-title="CANAIS | VARIEDADES",TRAVEL BOX BRAZIL FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/72391.ts
+#EXTINF:-1 tvg-name="TRAVEL BOX BRAZIL HD" tvg-logo="http://praia13.com/static/logos/canais/travelboxbrazil.png" group-title="CANAIS | VARIEDADES",TRAVEL BOX BRAZIL HD
+http://praia13.com:80/live/939041/8SA9sh/72392.ts
+#EXTINF:-1 tvg-name="TRAVEL BOX BRAZIL SD" tvg-logo="http://praia13.com/static/logos/canais/travelboxbrazil.png" group-title="CANAIS | VARIEDADES",TRAVEL BOX BRAZIL SD
+http://praia13.com:80/live/939041/8SA9sh/72393.ts
+#EXTINF:-1 tvg-name="GLOBOPLAY NOVELAS 4K" tvg-logo="http://praia13.com/static/logos/canais/viva.png" group-title="CANAIS | VARIEDADES",GLOBOPLAY NOVELAS 4K
+http://praia13.com:80/live/939041/8SA9sh/103450.ts
+#EXTINF:-1 tvg-name="GLOBOPLAY NOVELAS FHD" tvg-logo="http://praia13.com/static/logos/canais/viva.png" group-title="CANAIS | VARIEDADES",GLOBOPLAY NOVELAS FHD
+http://praia13.com:80/live/939041/8SA9sh/72427.ts
+#EXTINF:-1 tvg-name="GLOBOPLAY NOVELAS FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/viva.png" group-title="CANAIS | VARIEDADES",GLOBOPLAY NOVELAS FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/72428.ts
+#EXTINF:-1 tvg-name="GLOBOPLAY NOVELAS HD" tvg-logo="http://praia13.com/static/logos/canais/viva.png" group-title="CANAIS | VARIEDADES",GLOBOPLAY NOVELAS HD
+http://praia13.com:80/live/939041/8SA9sh/72429.ts
+#EXTINF:-1 tvg-name="GLOBOPLAY NOVELAS SD" tvg-logo="http://praia13.com/static/logos/canais/viva.png" group-title="CANAIS | VARIEDADES",GLOBOPLAY NOVELAS SD
+http://praia13.com:80/live/939041/8SA9sh/72430.ts
+#EXTINF:-1 tvg-name="WOOHOO 4K" tvg-logo="http://praia13.com/static/logos/canais/woohoo.png" group-title="CANAIS | VARIEDADES",WOOHOO 4K
+http://praia13.com:80/live/939041/8SA9sh/103449.ts
+#EXTINF:-1 tvg-name="WOOHOO FHD" tvg-logo="http://praia13.com/static/logos/canais/woohoo.png" group-title="CANAIS | VARIEDADES",WOOHOO FHD
+http://praia13.com:80/live/939041/8SA9sh/72435.ts
+#EXTINF:-1 tvg-name="WOOHOO FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/woohoo.png" group-title="CANAIS | VARIEDADES",WOOHOO FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/72436.ts
+#EXTINF:-1 tvg-name="WOOHOO HD" tvg-logo="http://praia13.com/static/logos/canais/woohoo.png" group-title="CANAIS | VARIEDADES",WOOHOO HD
+http://praia13.com:80/live/939041/8SA9sh/72437.ts
+#EXTINF:-1 tvg-name="WOOHOO SD" tvg-logo="http://praia13.com/static/logos/canais/woohoo.png" group-title="CANAIS | VARIEDADES",WOOHOO SD
+http://praia13.com:80/live/939041/8SA9sh/72438.ts
+#EXTINF:-1 tvg-name="LIVE TV FHD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/mtv-live.png" group-title="CANAIS | VARIEDADES",LIVE TV FHD
+http://praia13.com:80/live/939041/8SA9sh/192625.ts
+#EXTINF:-1 tvg-name="LIVE TV HD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/mtv-live.png" group-title="CANAIS | VARIEDADES",LIVE TV HD
+http://praia13.com:80/live/939041/8SA9sh/192626.ts
+#EXTINF:-1 tvg-name="LIVE TV SD" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/mtv-live.png" group-title="CANAIS | VARIEDADES",LIVE TV SD
+http://praia13.com:80/live/939041/8SA9sh/192627.ts
+#EXTINF:-1 tvg-name="LIVE TV 4K" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/mtv-live.png" group-title="CANAIS | VARIEDADES",LIVE TV 4K
+http://praia13.com:80/live/939041/8SA9sh/192628.ts
+#EXTINF:-1 tvg-name="LIVE TV FHD [H265]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/dog-tv.png" group-title="CANAIS | VARIEDADES",LIVE TV FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/192629.ts
+#EXTINF:-1 tvg-name="MARKKET FHD [H265]" tvg-logo="https://raw.githubusercontent.com/adoniasalmeida/m3u/refs/heads/main/logo/markket-tv.png" group-title="CANAIS | VARIEDADES",MARKKET FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/164027.ts
+#EXTINF:-1 tvg-name="AXN FHD [LEG]" tvg-logo="http://praia13.com/static/logos/canais/axn.png" group-title="CANAIS | LEGENDADOS",AXN FHD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90716.ts
+#EXTINF:-1 tvg-name="AXN HD [LEG]" tvg-logo="http://praia13.com/static/logos/canais/axn.png" group-title="CANAIS | LEGENDADOS",AXN HD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90715.ts
+#EXTINF:-1 tvg-name="AXN SD [LEG]" tvg-logo="http://praia13.com/static/logos/canais/axn.png" group-title="CANAIS | LEGENDADOS",AXN SD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90714.ts
+#EXTINF:-1 tvg-name="CANAL SONY FHD [LEG]" tvg-logo="http://praia13.com/static/logos/canais/sony.png" group-title="CANAIS | LEGENDADOS",CANAL SONY FHD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90713.ts
+#EXTINF:-1 tvg-name="CANAL SONY HD [LEG]" tvg-logo="http://praia13.com/static/logos/canais/sony.png" group-title="CANAIS | LEGENDADOS",CANAL SONY HD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90712.ts
+#EXTINF:-1 tvg-name="CANAL SONY SD [LEG]" tvg-logo="http://praia13.com/static/logos/canais/sony.png" group-title="CANAIS | LEGENDADOS",CANAL SONY SD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90711.ts
+#EXTINF:-1 tvg-name="HBO FHD [LEG]" tvg-logo="http://praia13.com/static/logos/canais/hbo.png" group-title="CANAIS | LEGENDADOS",HBO FHD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90698.ts
+#EXTINF:-1 tvg-name="HBO HD [LEG]" tvg-logo="http://praia13.com/static/logos/canais/hbo.png" group-title="CANAIS | LEGENDADOS",HBO HD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90697.ts
+#EXTINF:-1 tvg-name="HBO MUNDI FHD [LEG]" tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="CANAIS | LEGENDADOS",HBO MUNDI FHD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90695.ts
+#EXTINF:-1 tvg-name="HBO MUNDI HD [LEG]" tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="CANAIS | LEGENDADOS",HBO MUNDI HD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90694.ts
+#EXTINF:-1 tvg-name="HBO MUNDI SD [LEG]" tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="CANAIS | LEGENDADOS",HBO MUNDI SD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90693.ts
+#EXTINF:-1 tvg-name="HBO PLUS FHD [LEG]" tvg-logo="http://praia13.com/static/logos/canais/hboplus.png" group-title="CANAIS | LEGENDADOS",HBO PLUS FHD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90692.ts
+#EXTINF:-1 tvg-name="HBO PLUS HD [LEG]" tvg-logo="http://praia13.com/static/logos/canais/hboplus.png" group-title="CANAIS | LEGENDADOS",HBO PLUS HD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90691.ts
+#EXTINF:-1 tvg-name="HBO PLUS SD [LEG]" tvg-logo="http://praia13.com/static/logos/canais/hboplus.png" group-title="CANAIS | LEGENDADOS",HBO PLUS SD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90690.ts
+#EXTINF:-1 tvg-name="HBO POP FHD [LEG]" tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="CANAIS | LEGENDADOS",HBO POP FHD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90689.ts
+#EXTINF:-1 tvg-name="HBO POP HD [LEG]" tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="CANAIS | LEGENDADOS",HBO POP HD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90688.ts
+#EXTINF:-1 tvg-name="HBO POP SD [LEG]" tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="CANAIS | LEGENDADOS",HBO POP SD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90687.ts
+#EXTINF:-1 tvg-name="HBO SD [LEG]" tvg-logo="http://praia13.com/static/logos/canais/hbo.png" group-title="CANAIS | LEGENDADOS",HBO SD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90696.ts
+#EXTINF:-1 tvg-name="HBO SIGNATURE FHD [LEG]" tvg-logo="http://praia13.com/static/logos/canais/hbosignature.png" group-title="CANAIS | LEGENDADOS",HBO SIGNATURE FHD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90686.ts
+#EXTINF:-1 tvg-name="HBO SIGNATURE HD [LEG]" tvg-logo="http://praia13.com/static/logos/canais/hbosignature.png" group-title="CANAIS | LEGENDADOS",HBO SIGNATURE HD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90685.ts
+#EXTINF:-1 tvg-name="HBO SIGNATURE SD [LEG]" tvg-logo="http://praia13.com/static/logos/canais/hbosignature.png" group-title="CANAIS | LEGENDADOS",HBO SIGNATURE SD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90684.ts
+#EXTINF:-1 tvg-name="HBO XTREME FHD [LEG]" tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="CANAIS | LEGENDADOS",HBO XTREME FHD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90683.ts
+#EXTINF:-1 tvg-name="HBO XTREME HD [LEG]" tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="CANAIS | LEGENDADOS",HBO XTREME HD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90682.ts
+#EXTINF:-1 tvg-name="HBO XTREME SD [LEG]" tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="CANAIS | LEGENDADOS",HBO XTREME SD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90681.ts
+#EXTINF:-1 tvg-name="MEGAPIX FHD [LEG]" tvg-logo="http://praia13.com/static/logos/canais/megapix.png" group-title="CANAIS | LEGENDADOS",MEGAPIX FHD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90680.ts
+#EXTINF:-1 tvg-name="MEGAPIX HD [LEG]" tvg-logo="http://praia13.com/static/logos/canais/megapix.png" group-title="CANAIS | LEGENDADOS",MEGAPIX HD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/131118.ts
+#EXTINF:-1 tvg-name="MEGAPIX SD [LEG]" tvg-logo="http://praia13.com/static/logos/canais/megapix.png" group-title="CANAIS | LEGENDADOS",MEGAPIX SD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/131171.ts
+#EXTINF:-1 tvg-name="SPACE FHD [LEG]" tvg-logo="http://praia13.com/static/logos/canais/space.png" group-title="CANAIS | LEGENDADOS",SPACE FHD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90677.ts
+#EXTINF:-1 tvg-name="SPACE HD [LEG]" tvg-logo="http://praia13.com/static/logos/canais/space.png" group-title="CANAIS | LEGENDADOS",SPACE HD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90676.ts
+#EXTINF:-1 tvg-name="SPACE SD [LEG]" tvg-logo="http://praia13.com/static/logos/canais/space.png" group-title="CANAIS | LEGENDADOS",SPACE SD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90675.ts
+#EXTINF:-1 tvg-name="TELECINE ACTION FHD [LEG]" tvg-logo="http://praia13.com/static/logos/canais/telecineaction.png" group-title="CANAIS | LEGENDADOS",TELECINE ACTION FHD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90668.ts
+#EXTINF:-1 tvg-name="TELECINE ACTION HD [LEG]" tvg-logo="http://praia13.com/static/logos/canais/telecineaction.png" group-title="CANAIS | LEGENDADOS",TELECINE ACTION HD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90667.ts
+#EXTINF:-1 tvg-name="TELECINE ACTION SD [LEG]" tvg-logo="http://praia13.com/static/logos/canais/telecineaction.png" group-title="CANAIS | LEGENDADOS",TELECINE ACTION SD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90666.ts
+#EXTINF:-1 tvg-name="TELECINE CULT FHD [LEG]" tvg-logo="http://praia13.com/static/logos/canais/telecinecult.png" group-title="CANAIS | LEGENDADOS",TELECINE CULT FHD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90665.ts
+#EXTINF:-1 tvg-name="TELECINE CULT HD [LEG]" tvg-logo="http://praia13.com/static/logos/canais/telecinecult.png" group-title="CANAIS | LEGENDADOS",TELECINE CULT HD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90664.ts
+#EXTINF:-1 tvg-name="TELECINE CULT SD [LEG]" tvg-logo="http://praia13.com/static/logos/canais/telecinecult.png" group-title="CANAIS | LEGENDADOS",TELECINE CULT SD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90663.ts
+#EXTINF:-1 tvg-name="TELECINE FUN FHD [LEG]" tvg-logo="http://praia13.com/static/logos/canais/telecinefun.png" group-title="CANAIS | LEGENDADOS",TELECINE FUN FHD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90662.ts
+#EXTINF:-1 tvg-name="TELECINE FUN HD [LEG]" tvg-logo="http://praia13.com/static/logos/canais/telecinefun.png" group-title="CANAIS | LEGENDADOS",TELECINE FUN HD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90661.ts
+#EXTINF:-1 tvg-name="TELECINE FUN SD [LEG]" tvg-logo="http://praia13.com/static/logos/canais/telecinefun.png" group-title="CANAIS | LEGENDADOS",TELECINE FUN SD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90660.ts
+#EXTINF:-1 tvg-name="TELECINE PIPOCA FHD [LEG]" tvg-logo="http://praia13.com/static/logos/canais/telecinepipoca.png" group-title="CANAIS | LEGENDADOS",TELECINE PIPOCA FHD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90659.ts
+#EXTINF:-1 tvg-name="TELECINE PIPOCA HD [LEG]" tvg-logo="http://praia13.com/static/logos/canais/telecinepipoca.png" group-title="CANAIS | LEGENDADOS",TELECINE PIPOCA HD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90658.ts
+#EXTINF:-1 tvg-name="TELECINE PIPOCA SD [LEG]" tvg-logo="http://praia13.com/static/logos/canais/telecinepipoca.png" group-title="CANAIS | LEGENDADOS",TELECINE PIPOCA SD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90657.ts
+#EXTINF:-1 tvg-name="TELECINE PREMIUM FHD [LEG]" tvg-logo="http://praia13.com/static/logos/canais/telecinepremium.png" group-title="CANAIS | LEGENDADOS",TELECINE PREMIUM FHD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90656.ts
+#EXTINF:-1 tvg-name="TELECINE PREMIUM HD [LEG]" tvg-logo="http://praia13.com/static/logos/canais/telecinepremium.png" group-title="CANAIS | LEGENDADOS",TELECINE PREMIUM HD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90655.ts
+#EXTINF:-1 tvg-name="TELECINE PREMIUM SD [LEG]" tvg-logo="http://praia13.com/static/logos/canais/telecinepremium.png" group-title="CANAIS | LEGENDADOS",TELECINE PREMIUM SD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90654.ts
+#EXTINF:-1 tvg-name="TELECINE TOUCH FHD [LEG]" tvg-logo="http://praia13.com/static/logos/canais/telecinetouch.png" group-title="CANAIS | LEGENDADOS",TELECINE TOUCH FHD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90653.ts
+#EXTINF:-1 tvg-name="TELECINE TOUCH HD [LEG]" tvg-logo="http://praia13.com/static/logos/canais/telecinetouch.png" group-title="CANAIS | LEGENDADOS",TELECINE TOUCH HD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90652.ts
+#EXTINF:-1 tvg-name="TELECINE TOUCH SD [LEG]" tvg-logo="http://praia13.com/static/logos/canais/telecinetouch.png" group-title="CANAIS | LEGENDADOS",TELECINE TOUCH SD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90651.ts
+#EXTINF:-1 tvg-name="TNT FHD [LEG]" tvg-logo="http://praia13.com/static/logos/canais/tnt.png" group-title="CANAIS | LEGENDADOS",TNT FHD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90674.ts
+#EXTINF:-1 tvg-name="TNT HD [LEG]" tvg-logo="http://praia13.com/static/logos/canais/tnt.png" group-title="CANAIS | LEGENDADOS",TNT HD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90673.ts
+#EXTINF:-1 tvg-name="TNT SD [LEG]" tvg-logo="http://praia13.com/static/logos/canais/tnt.png" group-title="CANAIS | LEGENDADOS",TNT SD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90672.ts
+#EXTINF:-1 tvg-name="TNT SERIES FHD [LEG]" tvg-logo="http://praia13.com/static/logos/canais/tntseries.png" group-title="CANAIS | LEGENDADOS",TNT SERIES FHD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90671.ts
+#EXTINF:-1 tvg-name="TNT SERIES HD [LEG]" tvg-logo="http://praia13.com/static/logos/canais/tntseries.png" group-title="CANAIS | LEGENDADOS",TNT SERIES HD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90670.ts
+#EXTINF:-1 tvg-name="TNT SERIES SD [LEG]" tvg-logo="http://praia13.com/static/logos/canais/tntseries.png" group-title="CANAIS | LEGENDADOS",TNT SERIES SD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90669.ts
+#EXTINF:-1 tvg-name="WARNER CHANNEL FHD [LEG]" tvg-logo="http://praia13.com/static/logos/canais/warner.png" group-title="CANAIS | LEGENDADOS",WARNER CHANNEL FHD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90650.ts
+#EXTINF:-1 tvg-name="WARNER CHANNEL HD [LEG]" tvg-logo="http://praia13.com/static/logos/canais/warner.png" group-title="CANAIS | LEGENDADOS",WARNER CHANNEL HD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90649.ts
+#EXTINF:-1 tvg-name="WARNER CHANNEL SD [LEG]" tvg-logo="http://praia13.com/static/logos/canais/warner.png" group-title="CANAIS | LEGENDADOS",WARNER CHANNEL SD [LEG]
+http://praia13.com:80/live/939041/8SA9sh/90648.ts
+#EXTINF:-1 tvg-name="GLOBO TV VERDES MARES 4K" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | 4K [FHDR]",GLOBO TV VERDES MARES 4K
+http://praia13.com:80/live/939041/8SA9sh/72080.ts
+#EXTINF:-1 tvg-name="HGTV 4K" tvg-logo="http://praia13.com/static/logos/canais/discoverycivilization.png" group-title="CANAIS | 4K [FHDR]",HGTV 4K
+http://praia13.com:80/live/939041/8SA9sh/103493.ts
+#EXTINF:-1 tvg-name="TNT 4K" tvg-logo="http://praia13.com/static/logos/canais/tnt.png" group-title="CANAIS | 4K [FHDR]",TNT 4K
+http://praia13.com:80/live/939041/8SA9sh/72377.ts
+#EXTINF:-1 tvg-name="HBO 2 4K" tvg-logo="http://praia13.com/static/logos/canais/hbo2.png" group-title="CANAIS | HBO",HBO 2 4K
+http://praia13.com:80/live/939041/8SA9sh/90246.ts
+#EXTINF:-1 tvg-name="HBO 2 FHD" tvg-logo="http://praia13.com/static/logos/canais/hbo2.png" group-title="CANAIS | HBO",HBO 2 FHD
+http://praia13.com:80/live/939041/8SA9sh/72110.ts
+#EXTINF:-1 tvg-name="HBO 2 FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/hbo2.png" group-title="CANAIS | HBO",HBO 2 FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/72111.ts
+#EXTINF:-1 tvg-name="HBO 2 HD" tvg-logo="http://praia13.com/static/logos/canais/hbo2.png" group-title="CANAIS | HBO",HBO 2 HD
+http://praia13.com:80/live/939041/8SA9sh/72112.ts
+#EXTINF:-1 tvg-name="HBO 2 SD" tvg-logo="http://praia13.com/static/logos/canais/hbo2.png" group-title="CANAIS | HBO",HBO 2 SD
+http://praia13.com:80/live/939041/8SA9sh/72113.ts
+#EXTINF:-1 tvg-name="HBO 4K" tvg-logo="http://praia13.com/static/logos/canais/hbo.png" group-title="CANAIS | HBO",HBO 4K
+http://praia13.com:80/live/939041/8SA9sh/90247.ts
+#EXTINF:-1 tvg-name="HBO FAMILY 4K" tvg-logo="http://praia13.com/static/logos/canais/hbofamily.png" group-title="CANAIS | HBO",HBO FAMILY 4K
+http://praia13.com:80/live/939041/8SA9sh/90637.ts
+#EXTINF:-1 tvg-name="HBO FAMILY FHD" tvg-logo="http://praia13.com/static/logos/canais/hbofamily.png" group-title="CANAIS | HBO",HBO FAMILY FHD
+http://praia13.com:80/live/939041/8SA9sh/72114.ts
+#EXTINF:-1 tvg-name="HBO FAMILY FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/hbofamily.png" group-title="CANAIS | HBO",HBO FAMILY FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/72115.ts
+#EXTINF:-1 tvg-name="HBO FAMILY HD" tvg-logo="http://praia13.com/static/logos/canais/hbofamily.png" group-title="CANAIS | HBO",HBO FAMILY HD
+http://praia13.com:80/live/939041/8SA9sh/72116.ts
+#EXTINF:-1 tvg-name="HBO FAMILY SD" tvg-logo="http://praia13.com/static/logos/canais/hbofamily.png" group-title="CANAIS | HBO",HBO FAMILY SD
+http://praia13.com:80/live/939041/8SA9sh/72117.ts
+#EXTINF:-1 tvg-name="HBO FHD" tvg-logo="http://praia13.com/static/logos/canais/hbo.png" group-title="CANAIS | HBO",HBO FHD
+http://praia13.com:80/live/939041/8SA9sh/72118.ts
+#EXTINF:-1 tvg-name="HBO FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/hbo.png" group-title="CANAIS | HBO",HBO FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/72119.ts
+#EXTINF:-1 tvg-name="HBO HD" tvg-logo="http://praia13.com/static/logos/canais/hbo.png" group-title="CANAIS | HBO",HBO HD
+http://praia13.com:80/live/939041/8SA9sh/72120.ts
+#EXTINF:-1 tvg-name="HBO MUNDI 4K" tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="CANAIS | HBO",HBO MUNDI 4K
+http://praia13.com:80/live/939041/8SA9sh/103496.ts
+#EXTINF:-1 tvg-name="HBO MUNDI FHD" tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="CANAIS | HBO",HBO MUNDI FHD
+http://praia13.com:80/live/939041/8SA9sh/72121.ts
+#EXTINF:-1 tvg-name="HBO MUNDI FHD [H265]" tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="CANAIS | HBO",HBO MUNDI FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/72122.ts
+#EXTINF:-1 tvg-name="HBO MUNDI HD" tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="CANAIS | HBO",HBO MUNDI HD
+http://praia13.com:80/live/939041/8SA9sh/72123.ts
+#EXTINF:-1 tvg-name="HBO MUNDI SD" tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="CANAIS | HBO",HBO MUNDI SD
+http://praia13.com:80/live/939041/8SA9sh/72124.ts
+#EXTINF:-1 tvg-name="HBO PLUS 4K" tvg-logo="http://praia13.com/static/logos/canais/hboplus.png" group-title="CANAIS | HBO",HBO PLUS 4K
+http://praia13.com:80/live/939041/8SA9sh/90635.ts
+#EXTINF:-1 tvg-name="HBO PLUS FHD" tvg-logo="http://praia13.com/static/logos/canais/hboplus.png" group-title="CANAIS | HBO",HBO PLUS FHD
+http://praia13.com:80/live/939041/8SA9sh/72125.ts
+#EXTINF:-1 tvg-name="HBO PLUS FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/hboplus.png" group-title="CANAIS | HBO",HBO PLUS FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/72126.ts
+#EXTINF:-1 tvg-name="HBO PLUS HD" tvg-logo="http://praia13.com/static/logos/canais/hboplus.png" group-title="CANAIS | HBO",HBO PLUS HD
+http://praia13.com:80/live/939041/8SA9sh/72127.ts
+#EXTINF:-1 tvg-name="HBO PLUS SD" tvg-logo="http://praia13.com/static/logos/canais/hboplus.png" group-title="CANAIS | HBO",HBO PLUS SD
+http://praia13.com:80/live/939041/8SA9sh/72128.ts
+#EXTINF:-1 tvg-name="HBO POP 4K" tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="CANAIS | HBO",HBO POP 4K
+http://praia13.com:80/live/939041/8SA9sh/103495.ts
+#EXTINF:-1 tvg-name="HBO POP FHD" tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="CANAIS | HBO",HBO POP FHD
+http://praia13.com:80/live/939041/8SA9sh/72129.ts
+#EXTINF:-1 tvg-name="HBO POP FHD [H265]" tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="CANAIS | HBO",HBO POP FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/72130.ts
+#EXTINF:-1 tvg-name="HBO POP HD" tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="CANAIS | HBO",HBO POP HD
+http://praia13.com:80/live/939041/8SA9sh/72131.ts
+#EXTINF:-1 tvg-name="HBO POP SD" tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="CANAIS | HBO",HBO POP SD
+http://praia13.com:80/live/939041/8SA9sh/72132.ts
+#EXTINF:-1 tvg-name="HBO SD" tvg-logo="http://praia13.com/static/logos/canais/hbo.png" group-title="CANAIS | HBO",HBO SD
+http://praia13.com:80/live/939041/8SA9sh/72133.ts
+#EXTINF:-1 tvg-name="HBO SIGNATURE 4K" tvg-logo="http://praia13.com/static/logos/canais/hbosignature.png" group-title="CANAIS | HBO",HBO SIGNATURE 4K
+http://praia13.com:80/live/939041/8SA9sh/103494.ts
+#EXTINF:-1 tvg-name="HBO SIGNATURE FHD" tvg-logo="http://praia13.com/static/logos/canais/hbosignature.png" group-title="CANAIS | HBO",HBO SIGNATURE FHD
+http://praia13.com:80/live/939041/8SA9sh/72134.ts
+#EXTINF:-1 tvg-name="HBO SIGNATURE FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/hbosignature.png" group-title="CANAIS | HBO",HBO SIGNATURE FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/72135.ts
+#EXTINF:-1 tvg-name="HBO SIGNATURE HD" tvg-logo="http://praia13.com/static/logos/canais/hbosignature.png" group-title="CANAIS | HBO",HBO SIGNATURE HD
+http://praia13.com:80/live/939041/8SA9sh/72136.ts
+#EXTINF:-1 tvg-name="HBO SIGNATURE SD" tvg-logo="http://praia13.com/static/logos/canais/hbosignature.png" group-title="CANAIS | HBO",HBO SIGNATURE SD
+http://praia13.com:80/live/939041/8SA9sh/72137.ts
+#EXTINF:-1 tvg-name="HBO XTREME 4K" tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="CANAIS | HBO",HBO XTREME 4K
+http://praia13.com:80/live/939041/8SA9sh/90636.ts
+#EXTINF:-1 tvg-name="HBO XTREME FHD" tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="CANAIS | HBO",HBO XTREME FHD
+http://praia13.com:80/live/939041/8SA9sh/72138.ts
+#EXTINF:-1 tvg-name="HBO XTREME FHD [H265]" tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="CANAIS | HBO",HBO XTREME FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/72139.ts
+#EXTINF:-1 tvg-name="HBO XTREME HD" tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="CANAIS | HBO",HBO XTREME HD
+http://praia13.com:80/live/939041/8SA9sh/72140.ts
+#EXTINF:-1 tvg-name="HBO XTREME SD" tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="CANAIS | HBO",HBO XTREME SD
+http://praia13.com:80/live/939041/8SA9sh/72141.ts
+#EXTINF:-1 tvg-name="TELECINE ACTION 4K" tvg-logo="http://praia13.com/static/logos/canais/telecineaction.png" group-title="CANAIS | TELECINE",TELECINE ACTION 4K
+http://praia13.com:80/live/939041/8SA9sh/90239.ts
+#EXTINF:-1 tvg-name="TELECINE ACTION FHD" tvg-logo="http://praia13.com/static/logos/canais/telecineaction.png" group-title="CANAIS | TELECINE",TELECINE ACTION FHD
+http://praia13.com:80/live/939041/8SA9sh/72346.ts
+#EXTINF:-1 tvg-name="TELECINE ACTION FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/telecineaction.png" group-title="CANAIS | TELECINE",TELECINE ACTION FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/72347.ts
+#EXTINF:-1 tvg-name="TELECINE ACTION HD" tvg-logo="http://praia13.com/static/logos/canais/telecineaction.png" group-title="CANAIS | TELECINE",TELECINE ACTION HD
+http://praia13.com:80/live/939041/8SA9sh/72348.ts
+#EXTINF:-1 tvg-name="TELECINE ACTION SD" tvg-logo="http://acstatic.co/logos/canais/telecineaction.png" group-title="CANAIS | TELECINE",TELECINE ACTION SD
+http://praia13.com:80/live/939041/8SA9sh/72349.ts
+#EXTINF:-1 tvg-name="TELECINE CULT 4K" tvg-logo="http://praia13.com/static/logos/canais/telecinecult.png" group-title="CANAIS | TELECINE",TELECINE CULT 4K
+http://praia13.com:80/live/939041/8SA9sh/103456.ts
+#EXTINF:-1 tvg-name="TELECINE CULT FHD" tvg-logo="http://praia13.com/static/logos/canais/telecinecult.png" group-title="CANAIS | TELECINE",TELECINE CULT FHD
+http://praia13.com:80/live/939041/8SA9sh/72350.ts
+#EXTINF:-1 tvg-name="TELECINE CULT FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/telecinecult.png" group-title="CANAIS | TELECINE",TELECINE CULT FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/72351.ts
+#EXTINF:-1 tvg-name="TELECINE CULT HD" tvg-logo="http://praia13.com/static/logos/canais/telecinecult.png" group-title="CANAIS | TELECINE",TELECINE CULT HD
+http://praia13.com:80/live/939041/8SA9sh/72352.ts
+#EXTINF:-1 tvg-name="TELECINE CULT SD" tvg-logo="http://praia13.com/static/logos/canais/telecinecult.png" group-title="CANAIS | TELECINE",TELECINE CULT SD
+http://praia13.com:80/live/939041/8SA9sh/72353.ts
+#EXTINF:-1 tvg-name="TELECINE FUN 4K" tvg-logo="http://praia13.com/static/logos/canais/telecinefun.png" group-title="CANAIS | TELECINE",TELECINE FUN 4K
+http://praia13.com:80/live/939041/8SA9sh/103455.ts
+#EXTINF:-1 tvg-name="TELECINE FUN FHD" tvg-logo="http://praia13.com/static/logos/canais/telecinefun.png" group-title="CANAIS | TELECINE",TELECINE FUN FHD
+http://praia13.com:80/live/939041/8SA9sh/72354.ts
+#EXTINF:-1 tvg-name="TELECINE FUN FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/telecinefun.png" group-title="CANAIS | TELECINE",TELECINE FUN FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/72355.ts
+#EXTINF:-1 tvg-name="TELECINE FUN HD" tvg-logo="http://praia13.com/static/logos/canais/telecinefun.png" group-title="CANAIS | TELECINE",TELECINE FUN HD
+http://praia13.com:80/live/939041/8SA9sh/72356.ts
+#EXTINF:-1 tvg-name="TELECINE FUN SD" tvg-logo="http://praia13.com/static/logos/canais/telecinefun.png" group-title="CANAIS | TELECINE",TELECINE FUN SD
+http://praia13.com:80/live/939041/8SA9sh/72357.ts
+#EXTINF:-1 tvg-name="TELECINE PIPOCA 4K" tvg-logo="http://praia13.com/static/logos/canais/telecinepipoca.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA 4K
+http://praia13.com:80/live/939041/8SA9sh/90238.ts
+#EXTINF:-1 tvg-name="TELECINE PIPOCA FHD" tvg-logo="http://praia13.com/static/logos/canais/telecinepipoca.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA FHD
+http://praia13.com:80/live/939041/8SA9sh/72358.ts
+#EXTINF:-1 tvg-name="TELECINE PIPOCA FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/telecinepipoca.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/72359.ts
+#EXTINF:-1 tvg-name="TELECINE PIPOCA HD" tvg-logo="http://praia13.com/static/logos/canais/telecinepipoca.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA HD
+http://praia13.com:80/live/939041/8SA9sh/72360.ts
+#EXTINF:-1 tvg-name="TELECINE PIPOCA SD" tvg-logo="http://praia13.com/static/logos/canais/telecinepipoca.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA SD
+http://praia13.com:80/live/939041/8SA9sh/72361.ts
+#EXTINF:-1 tvg-name="TELECINE PREMIUM 4K" tvg-logo="http://praia13.com/static/logos/canais/telecinepremium.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM 4K
+http://praia13.com:80/live/939041/8SA9sh/90237.ts
+#EXTINF:-1 tvg-name="TELECINE PREMIUM FHD" tvg-logo="http://praia13.com/static/logos/canais/telecinepremium.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM FHD
+http://praia13.com:80/live/939041/8SA9sh/72362.ts
+#EXTINF:-1 tvg-name="TELECINE PREMIUM FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/telecinepremium.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/72363.ts
+#EXTINF:-1 tvg-name="TELECINE PREMIUM HD" tvg-logo="http://praia13.com/static/logos/canais/telecinepremium.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM HD
+http://praia13.com:80/live/939041/8SA9sh/72364.ts
+#EXTINF:-1 tvg-name="TELECINE PREMIUM SD" tvg-logo="http://praia13.com/static/logos/canais/telecinepremium.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM SD
+http://praia13.com:80/live/939041/8SA9sh/72365.ts
+#EXTINF:-1 tvg-name="TELECINE TOUCH 4K" tvg-logo="http://praia13.com/static/logos/canais/telecinetouch.png" group-title="CANAIS | TELECINE",TELECINE TOUCH 4K
+http://praia13.com:80/live/939041/8SA9sh/103454.ts
+#EXTINF:-1 tvg-name="TELECINE TOUCH FHD" tvg-logo="http://praia13.com/static/logos/canais/telecinetouch.png" group-title="CANAIS | TELECINE",TELECINE TOUCH FHD
+http://praia13.com:80/live/939041/8SA9sh/72366.ts
+#EXTINF:-1 tvg-name="TELECINE TOUCH FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/telecinetouch.png" group-title="CANAIS | TELECINE",TELECINE TOUCH FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/72367.ts
+#EXTINF:-1 tvg-name="TELECINE TOUCH HD" tvg-logo="http://praia13.com/static/logos/canais/telecinetouch.png" group-title="CANAIS | TELECINE",TELECINE TOUCH HD
+http://praia13.com:80/live/939041/8SA9sh/72368.ts
+#EXTINF:-1 tvg-name="TELECINE TOUCH SD" tvg-logo="http://praia13.com/static/logos/canais/telecinetouch.png" group-title="CANAIS | TELECINE",TELECINE TOUCH SD
+http://praia13.com:80/live/939041/8SA9sh/72369.ts
+#EXTINF:-1 tvg-name="IDEAL TV 4K" tvg-logo="http://gstaticontent.com/images/6791e20f29c12970b66e3b2fc0a43980.jpg" group-title="CANAIS | RELIGIOSOS",IDEAL TV 4K
+http://praia13.com:80/live/939041/8SA9sh/178525.ts
+#EXTINF:-1 tvg-name="IDEAL TV FHD" tvg-logo="http://gstaticontent.com/images/6791e20f29c12970b66e3b2fc0a43980.jpg" group-title="CANAIS | RELIGIOSOS",IDEAL TV FHD
+http://praia13.com:80/live/939041/8SA9sh/178524.ts
+#EXTINF:-1 tvg-name="IDEAL TV FHD [H265]" tvg-logo="http://gstaticontent.com/images/6791e20f29c12970b66e3b2fc0a43980.jpg" group-title="CANAIS | RELIGIOSOS",IDEAL TV FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/178526.ts
+#EXTINF:-1 tvg-name="IDEAL TV HD" tvg-logo="http://gstaticontent.com/images/6791e20f29c12970b66e3b2fc0a43980.jpg" group-title="CANAIS | RELIGIOSOS",IDEAL TV HD
+http://praia13.com:80/live/939041/8SA9sh/178527.ts
+#EXTINF:-1 tvg-name="IDEAL TV SD" tvg-logo="http://gstaticontent.com/images/6791e20f29c12970b66e3b2fc0a43980.jpg" group-title="CANAIS | RELIGIOSOS",IDEAL TV SD
+http://praia13.com:80/live/939041/8SA9sh/178528.ts
+#EXTINF:-1 tvg-name="PAI ETERNO 4K" tvg-logo="https://i.imgur.com/tn1y7Bh.png" group-title="CANAIS | RELIGIOSOS",PAI ETERNO 4K
+http://praia13.com:80/live/939041/8SA9sh/103484.ts
+#EXTINF:-1 tvg-name="PAI ETERNO FHD" tvg-logo="http://gstaticontent.com/images/94e056ce2525d0336871da9d31d41e85.png" group-title="CANAIS | RELIGIOSOS",PAI ETERNO FHD
+http://praia13.com:80/live/939041/8SA9sh/72213.ts
+#EXTINF:-1 tvg-name="PAI ETERNO FHD [H265]" tvg-logo="https://i.imgur.com/tn1y7Bh.png" group-title="CANAIS | RELIGIOSOS",PAI ETERNO FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/72216.ts
+#EXTINF:-1 tvg-name="PAI ETERNO HD" tvg-logo="http://gstaticontent.com/images/94e056ce2525d0336871da9d31d41e85.png" group-title="CANAIS | RELIGIOSOS",PAI ETERNO HD
+http://praia13.com:80/live/939041/8SA9sh/72214.ts
+#EXTINF:-1 tvg-name="PAI ETERNO SD" tvg-logo="http://gstaticontent.com/images/94e056ce2525d0336871da9d31d41e85.png" group-title="CANAIS | RELIGIOSOS",PAI ETERNO SD
+http://praia13.com:80/live/939041/8SA9sh/72215.ts
+#EXTINF:-1 tvg-name="REDE GOSPEL 4K" tvg-logo="http://gstaticontent.com/images/bb8c38ad035e925a1f2c8fb19c785370.jpg" group-title="CANAIS | RELIGIOSOS",REDE GOSPEL 4K
+http://praia13.com:80/live/939041/8SA9sh/178531.ts
+#EXTINF:-1 tvg-name="REDE GOSPEL FHD" tvg-logo="http://gstaticontent.com/images/bb8c38ad035e925a1f2c8fb19c785370.jpg" group-title="CANAIS | RELIGIOSOS",REDE GOSPEL FHD
+http://praia13.com:80/live/939041/8SA9sh/104929.ts
+#EXTINF:-1 tvg-name="REDE GOSPEL FHD [H265]" tvg-logo="http://gstaticontent.com/images/bb8c38ad035e925a1f2c8fb19c785370.jpg" group-title="CANAIS | RELIGIOSOS",REDE GOSPEL FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/104932.ts
+#EXTINF:-1 tvg-name="REDE GOSPEL HD" tvg-logo="http://gstaticontent.com/images/bb8c38ad035e925a1f2c8fb19c785370.jpg" group-title="CANAIS | RELIGIOSOS",REDE GOSPEL HD
+http://praia13.com:80/live/939041/8SA9sh/104930.ts
+#EXTINF:-1 tvg-name="REDE GOSPEL SD" tvg-logo="http://gstaticontent.com/images/bb8c38ad035e925a1f2c8fb19c785370.jpg" group-title="CANAIS | RELIGIOSOS",REDE GOSPEL SD
+http://praia13.com:80/live/939041/8SA9sh/104931.ts
+#EXTINF:-1 tvg-name="REDE VIDA 4K" tvg-logo="http://praia13.com/static/logos/canais/redevida.png" group-title="CANAIS | RELIGIOSOS",REDE VIDA 4K
+http://praia13.com:80/live/939041/8SA9sh/103475.ts
+#EXTINF:-1 tvg-name="REDE VIDA FHD" tvg-logo="http://praia13.com/static/logos/canais/redevida.png" group-title="CANAIS | RELIGIOSOS",REDE VIDA FHD
+http://praia13.com:80/live/939041/8SA9sh/72293.ts
+#EXTINF:-1 tvg-name="REDE VIDA FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/redevida.png" group-title="CANAIS | RELIGIOSOS",REDE VIDA FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/72294.ts
+#EXTINF:-1 tvg-name="REDE VIDA HD" tvg-logo="http://praia13.com/static/logos/canais/redevida.png" group-title="CANAIS | RELIGIOSOS",REDE VIDA HD
+http://praia13.com:80/live/939041/8SA9sh/72295.ts
+#EXTINF:-1 tvg-name="REDE VIDA SD" tvg-logo="http://praia13.com/static/logos/canais/redevida.png" group-title="CANAIS | RELIGIOSOS",REDE VIDA SD
+http://praia13.com:80/live/939041/8SA9sh/72296.ts
+#EXTINF:-1 tvg-name="TV APARECIDA 4K" tvg-logo="http://praia13.com/static/logos/canais/aparecida.png" group-title="CANAIS | RELIGIOSOS",TV APARECIDA 4K
+http://praia13.com:80/live/939041/8SA9sh/103464.ts
+#EXTINF:-1 tvg-name="TV APARECIDA FHD" tvg-logo="http://praia13.com/static/logos/canais/aparecida.png" group-title="CANAIS | RELIGIOSOS",TV APARECIDA FHD
+http://praia13.com:80/live/939041/8SA9sh/72394.ts
+#EXTINF:-1 tvg-name="TV APARECIDA FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/aparecida.png" group-title="CANAIS | RELIGIOSOS",TV APARECIDA FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/72395.ts
+#EXTINF:-1 tvg-name="TV APARECIDA HD" tvg-logo="http://praia13.com/static/logos/canais/aparecida.png" group-title="CANAIS | RELIGIOSOS",TV APARECIDA HD
+http://praia13.com:80/live/939041/8SA9sh/72396.ts
+#EXTINF:-1 tvg-name="TV APARECIDA SD" tvg-logo="http://praia13.com/static/logos/canais/aparecida.png" group-title="CANAIS | RELIGIOSOS",TV APARECIDA SD
+http://praia13.com:80/live/939041/8SA9sh/72397.ts
+#EXTINF:-1 tvg-name="TV CANCAO NOVA SD" tvg-logo="http://gstaticontent.com/images/5559747da880013a0b1d0380839e9f90.png" group-title="CANAIS | RELIGIOSOS",TV CANCAO NOVA SD
+http://praia13.com:80/live/939041/8SA9sh/72404.ts
+#EXTINF:-1 tvg-name="TV NOVO TEMPO 4K" tvg-logo="http://praia13.com/static/logos/canais/novotempo.png" group-title="CANAIS | RELIGIOSOS",TV NOVO TEMPO 4K
+http://praia13.com:80/live/939041/8SA9sh/103459.ts
+#EXTINF:-1 tvg-name="TV NOVO TEMPO FHD" tvg-logo="http://praia13.com/static/logos/canais/novotempo.png" group-title="CANAIS | RELIGIOSOS",TV NOVO TEMPO FHD
+http://praia13.com:80/live/939041/8SA9sh/72408.ts
+#EXTINF:-1 tvg-name="TV NOVO TEMPO FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/novotempo.png" group-title="CANAIS | RELIGIOSOS",TV NOVO TEMPO FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/72409.ts
+#EXTINF:-1 tvg-name="TV NOVO TEMPO HD" tvg-logo="http://praia13.com/static/logos/canais/novotempo.png" group-title="CANAIS | RELIGIOSOS",TV NOVO TEMPO HD
+http://praia13.com:80/live/939041/8SA9sh/72410.ts
+#EXTINF:-1 tvg-name="TV NOVO TEMPO SD" tvg-logo="http://praia13.com/static/logos/canais/novotempo.png" group-title="CANAIS | RELIGIOSOS",TV NOVO TEMPO SD
+http://praia13.com:80/live/939041/8SA9sh/72411.ts
+#EXTINF:-1 tvg-name="GLOBO INTER TV CABUGI FHD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO INTER TV CABUGI FHD
+http://praia13.com:80/live/939041/8SA9sh/71985.ts
+#EXTINF:-1 tvg-name="GLOBO INTER TV CABUGI HD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO INTER TV CABUGI HD
+http://praia13.com:80/live/939041/8SA9sh/71986.ts
+#EXTINF:-1 tvg-name="GLOBO INTER TV CABUGI SD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO INTER TV CABUGI SD
+http://praia13.com:80/live/939041/8SA9sh/131186.ts
+#EXTINF:-1 tvg-name="GLOBO NORDESTE FHD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO NORDESTE FHD
+http://praia13.com:80/live/939041/8SA9sh/72001.ts
+#EXTINF:-1 tvg-name="GLOBO NORDESTE HD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO NORDESTE HD
+http://praia13.com:80/live/939041/8SA9sh/131157.ts
+#EXTINF:-1 tvg-name="GLOBO NORDESTE SD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO NORDESTE SD
+http://praia13.com:80/live/939041/8SA9sh/72003.ts
+#EXTINF:-1 tvg-name="GLOBO REDE BAHIA FHD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO REDE BAHIA FHD
+http://praia13.com:80/live/939041/8SA9sh/131213.ts
+#EXTINF:-1 tvg-name="GLOBO REDE BAHIA HD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO REDE BAHIA HD
+http://praia13.com:80/live/939041/8SA9sh/131123.ts
+#EXTINF:-1 tvg-name="GLOBO REDE BAHIA SD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO REDE BAHIA SD
+http://praia13.com:80/live/939041/8SA9sh/72024.ts
+#EXTINF:-1 tvg-name="GLOBO TV ANHANGUERA SD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO TV ANHANGUERA SD
+http://praia13.com:80/live/939041/8SA9sh/131124.ts
+#EXTINF:-1 tvg-name="GLOBO TV ASA BRANCA FHD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO TV ASA BRANCA FHD
+http://praia13.com:80/live/939041/8SA9sh/102554.ts
+#EXTINF:-1 tvg-name="GLOBO TV ASA BRANCA HD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO TV ASA BRANCA HD
+http://praia13.com:80/live/939041/8SA9sh/102555.ts
+#EXTINF:-1 tvg-name="GLOBO TV ASA BRANCA SD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO TV ASA BRANCA SD
+http://praia13.com:80/live/939041/8SA9sh/131180.ts
+#EXTINF:-1 tvg-name="GLOBO TV CABO BRANCO FHD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO TV CABO BRANCO FHD
+http://praia13.com:80/live/939041/8SA9sh/131146.ts
+#EXTINF:-1 tvg-name="GLOBO TV CABO BRANCO HD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO TV CABO BRANCO HD
+http://praia13.com:80/live/939041/8SA9sh/131110.ts
+#EXTINF:-1 tvg-name="GLOBO TV CABO BRANCO SD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO TV CABO BRANCO SD
+http://praia13.com:80/live/939041/8SA9sh/131179.ts
+#EXTINF:-1 tvg-name="GLOBO TV CLUBE TERESINA FHD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO TV CLUBE TERESINA FHD
+http://praia13.com:80/live/939041/8SA9sh/131105.ts
+#EXTINF:-1 tvg-name="GLOBO TV CLUBE TERESINA HD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO TV CLUBE TERESINA HD
+http://praia13.com:80/live/939041/8SA9sh/72053.ts
+#EXTINF:-1 tvg-name="GLOBO TV CLUBE TERESINA SD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO TV CLUBE TERESINA SD
+http://praia13.com:80/live/939041/8SA9sh/131196.ts
+#EXTINF:-1 tvg-name="GLOBO TV GAZETA ALAGOAS FHD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO TV GAZETA ALAGOAS FHD
+http://praia13.com:80/live/939041/8SA9sh/131158.ts
+#EXTINF:-1 tvg-name="GLOBO TV GAZETA ALAGOAS HD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO TV GAZETA ALAGOAS HD
+http://praia13.com:80/live/939041/8SA9sh/131214.ts
+#EXTINF:-1 tvg-name="GLOBO TV GAZETA ALAGOAS SD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO TV GAZETA ALAGOAS SD
+http://praia13.com:80/live/939041/8SA9sh/131142.ts
+#EXTINF:-1 tvg-name="GLOBO TV MIRANTE COCAIS FHD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO TV MIRANTE COCAIS FHD
+http://praia13.com:80/live/939041/8SA9sh/133050.ts
+#EXTINF:-1 tvg-name="GLOBO TV MIRANTE COCAIS HD" tvg-logo="http://gstaticontent.com/images/37974de0d1d16f3b56bec27eca38a765.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO TV MIRANTE COCAIS HD
+http://praia13.com:80/live/939041/8SA9sh/93600.ts
+#EXTINF:-1 tvg-name="GLOBO TV MIRANTE COCAIS SD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO TV MIRANTE COCAIS SD
+http://praia13.com:80/live/939041/8SA9sh/93601.ts
+#EXTINF:-1 tvg-name="GLOBO TV MIRANTE SAO LUIS FHD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO TV MIRANTE SAO LUIS FHD
+http://praia13.com:80/live/939041/8SA9sh/131103.ts
+#EXTINF:-1 tvg-name="GLOBO TV MIRANTE SAO LUIS SD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO TV MIRANTE SAO LUIS SD
+http://praia13.com:80/live/939041/8SA9sh/131195.ts
+#EXTINF:-1 tvg-name="GLOBO TV SERGIPE FHD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO TV SERGIPE FHD
+http://praia13.com:80/live/939041/8SA9sh/131156.ts
+#EXTINF:-1 tvg-name="GLOBO TV SERGIPE HD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO TV SERGIPE HD
+http://praia13.com:80/live/939041/8SA9sh/131181.ts
+#EXTINF:-1 tvg-name="GLOBO TV SERGIPE SD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO TV SERGIPE SD
+http://praia13.com:80/live/939041/8SA9sh/131139.ts
+#EXTINF:-1 tvg-name="GLOBO TV SUBAE  HD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO TV SUBAE  HD
+http://praia13.com:80/live/939041/8SA9sh/133068.ts
+#EXTINF:-1 tvg-name="GLOBO TV SUBAE FHD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO TV SUBAE FHD
+http://praia13.com:80/live/939041/8SA9sh/133067.ts
+#EXTINF:-1 tvg-name="GLOBO TV SUBAE SD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO TV SUBAE SD
+http://praia13.com:80/live/939041/8SA9sh/133069.ts
+#EXTINF:-1 tvg-name="GLOBO TV SUDOESTE FHD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO TV SUDOESTE FHD
+http://praia13.com:80/live/939041/8SA9sh/72092.ts
+#EXTINF:-1 tvg-name="GLOBO TV SUDOESTE HD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO TV SUDOESTE HD
+http://praia13.com:80/live/939041/8SA9sh/72093.ts
+#EXTINF:-1 tvg-name="GLOBO TV SUDOESTE SD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO TV SUDOESTE SD
+http://praia13.com:80/live/939041/8SA9sh/72094.ts
+#EXTINF:-1 tvg-name="GLOBO TV VERDES MARES FHD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO TV VERDES MARES FHD
+http://praia13.com:80/live/939041/8SA9sh/131161.ts
+#EXTINF:-1 tvg-name="GLOBO TV VERDES MARES HD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO TV VERDES MARES HD
+http://praia13.com:80/live/939041/8SA9sh/72096.ts
+#EXTINF:-1 tvg-name="GLOBO TV VERDES MARES SD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO TV VERDES MARES SD
+http://praia13.com:80/live/939041/8SA9sh/131137.ts
+#EXTINF:-1 tvg-name="GLOBO REDE BAHIA TV OESTE FHD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO REDE BAHIA TV OESTE FHD
+http://praia13.com:80/live/939041/8SA9sh/306610.ts
+#EXTINF:-1 tvg-name="GLOBO REDE BAHIA TV OESTE HD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO REDE BAHIA TV OESTE HD
+http://praia13.com:80/live/939041/8SA9sh/306611.ts
+#EXTINF:-1 tvg-name="GLOBO REDE BAHIA TV OESTE SD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO REDE BAHIA TV OESTE SD
+http://praia13.com:80/live/939041/8SA9sh/306612.ts
+#EXTINF:-1 tvg-name="GLOBO TV GRANDE RIO FHD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO TV GRANDE RIO FHD
+http://praia13.com:80/live/939041/8SA9sh/306767.ts
+#EXTINF:-1 tvg-name="GLOBO TV GRANDE RIO HD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO TV GRANDE RIO HD
+http://praia13.com:80/live/939041/8SA9sh/306768.ts
+#EXTINF:-1 tvg-name="GLOBO TV GRANDE RIO SD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO TV GRANDE RIO SD
+http://praia13.com:80/live/939041/8SA9sh/306769.ts
+#EXTINF:-1 tvg-name="GLOBO TV MIRANTE IMPERATRIZ FHD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO TV MIRANTE IMPERATRIZ FHD
+http://praia13.com:80/live/939041/8SA9sh/306776.ts
+#EXTINF:-1 tvg-name="GLOBO TV MIRANTE IMPERATRIZ HD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO TV MIRANTE IMPERATRIZ HD
+http://praia13.com:80/live/939041/8SA9sh/306777.ts
+#EXTINF:-1 tvg-name="GLOBO TV MIRANTE IMPERATRIZ SD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO TV MIRANTE IMPERATRIZ SD
+http://praia13.com:80/live/939041/8SA9sh/306778.ts
+#EXTINF:-1 tvg-name="GLOBO TV PARAIBA FHD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO TV PARAIBA FHD
+http://praia13.com:80/live/939041/8SA9sh/306779.ts
+#EXTINF:-1 tvg-name="GLOBO TV PARAIBA HD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO TV PARAIBA HD
+http://praia13.com:80/live/939041/8SA9sh/306780.ts
+#EXTINF:-1 tvg-name="GLOBO TV PARAIBA SD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO TV PARAIBA SD
+http://praia13.com:80/live/939041/8SA9sh/306781.ts
+#EXTINF:-1 tvg-name="GLOBO REDE BAHIA TV SANTA CRUZ FHD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO REDE BAHIA TV SANTA CRUZ FHD
+http://praia13.com:80/live/939041/8SA9sh/306782.ts
+#EXTINF:-1 tvg-name="GLOBO REDE BAHIA TV SANTA CRUZ HD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO REDE BAHIA TV SANTA CRUZ HD
+http://praia13.com:80/live/939041/8SA9sh/306783.ts
+#EXTINF:-1 tvg-name="GLOBO REDE BAHIA TV SANTA CRUZ SD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO REDE BAHIA TV SANTA CRUZ SD
+http://praia13.com:80/live/939041/8SA9sh/306784.ts
+#EXTINF:-1 tvg-name="GLOBO TV SAO FRANCISCO FHD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO TV SAO FRANCISCO FHD
+http://praia13.com:80/live/939041/8SA9sh/306785.ts
+#EXTINF:-1 tvg-name="GLOBO TV SAO FRANCISCO HD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO TV SAO FRANCISCO HD
+http://praia13.com:80/live/939041/8SA9sh/306786.ts
+#EXTINF:-1 tvg-name="GLOBO TV SAO FRANCISCO SD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO TV SAO FRANCISCO SD
+http://praia13.com:80/live/939041/8SA9sh/306787.ts
+#EXTINF:-1 tvg-name="GLOBO TV VERDES MARES CARIRI HD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO TV VERDES MARES CARIRI HD
+http://praia13.com:80/live/939041/8SA9sh/350076.ts
+#EXTINF:-1 tvg-name="GLOBO TV VERDES MARES CARIRI SD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO TV VERDES MARES CARIRI SD
+http://praia13.com:80/live/939041/8SA9sh/350077.ts
+#EXTINF:-1 tvg-name="GLOBO INTER TV COSTA BRANCA FHD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO INTER TV COSTA BRANCA FHD
+http://praia13.com:80/live/939041/8SA9sh/350087.ts
+#EXTINF:-1 tvg-name="GLOBO INTER TV COSTA BRANCA HD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO INTER TV COSTA BRANCA HD
+http://praia13.com:80/live/939041/8SA9sh/350088.ts
+#EXTINF:-1 tvg-name="GLOBO INTER TV COSTA BRANCA SD" tvg-logo="http://praia13.com/static/logos/canais/globo.png" group-title="CANAIS | GLOBOS NORDESTE",GLOBO INTER TV COSTA BRANCA SD
+http://praia13.com:80/live/939041/8SA9sh/350089.ts
+#EXTINF:-1 tvg-name="RECORDTV ITAPOAN FHD" tvg-logo="http://praia13.com/static/logos/canais/record.png" group-title="CANAIS | RECORDTV",RECORDTV ITAPOAN FHD
+http://praia13.com:80/live/939041/8SA9sh/157406.ts
+#EXTINF:-1 tvg-name="RECORDTV ITAPOAN HD" tvg-logo="http://praia13.com/static/logos/canais/record.png" group-title="CANAIS | RECORDTV",RECORDTV ITAPOAN HD
+http://praia13.com:80/live/939041/8SA9sh/72284.ts
+#EXTINF:-1 tvg-name="RECORDTV ITAPOAN SD" tvg-logo="http://praia13.com/static/logos/canais/record.png" group-title="CANAIS | RECORDTV",RECORDTV ITAPOAN SD
+http://praia13.com:80/live/939041/8SA9sh/72285.ts
+#EXTINF:-1 tvg-name="RECORDTV RJ FHD" tvg-logo="http://praia13.com/static/logos/canais/record.png" group-title="CANAIS | RECORDTV",RECORDTV RJ FHD
+http://praia13.com:80/live/939041/8SA9sh/106638.ts
+#EXTINF:-1 tvg-name="RECORDTV RJ HD" tvg-logo="http://praia13.com/static/logos/canais/record.png" group-title="CANAIS | RECORDTV",RECORDTV RJ HD
+http://praia13.com:80/live/939041/8SA9sh/72594.ts
+#EXTINF:-1 tvg-name="RECORDTV RJ SD" tvg-logo="http://praia13.com/static/logos/canais/record.png" group-title="CANAIS | RECORDTV",RECORDTV RJ SD
+http://praia13.com:80/live/939041/8SA9sh/96526.ts
+#EXTINF:-1 tvg-name="RECORDTV SP FHD" tvg-logo="http://praia13.com/static/logos/canais/record.png" group-title="CANAIS | RECORDTV",RECORDTV SP FHD
+http://praia13.com:80/live/939041/8SA9sh/77654.ts
+#EXTINF:-1 tvg-name="RECORDTV SP FHD [H265]" tvg-logo="http://praia13.com/static/logos/canais/record.png" group-title="CANAIS | RECORDTV",RECORDTV SP FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/72595.ts
+#EXTINF:-1 tvg-name="RECORDTV SP HD" tvg-logo="http://praia13.com/static/logos/canais/record.png" group-title="CANAIS | RECORDTV",RECORDTV SP HD
+http://praia13.com:80/live/939041/8SA9sh/72973.ts
+#EXTINF:-1 tvg-name="RECORDTV SP SD" tvg-logo="http://praia13.com/static/logos/canais/record.png" group-title="CANAIS | RECORDTV",RECORDTV SP SD
+http://praia13.com:80/live/939041/8SA9sh/96522.ts
+#EXTINF:-1 tvg-name="TV CIDADE - RECORDTV 4K" tvg-logo="http://praia13.com/static/logos/canais/record.png" group-title="CANAIS | RECORDTV",TV CIDADE - RECORDTV 4K
+http://praia13.com:80/live/939041/8SA9sh/103462.ts
+#EXTINF:-1 tvg-name="TV CIDADE RECORDTV FHD" tvg-logo="https://imgur.com/DRX0wcK" group-title="CANAIS | RECORDTV",TV CIDADE RECORDTV FHD
+http://praia13.com:80/live/939041/8SA9sh/92666.ts
+#EXTINF:-1 tvg-name="TV CIDADE - RECORDTV FHD [H265]" tvg-logo="https://imgur.com/DRX0wcK" group-title="CANAIS | RECORDTV",TV CIDADE - RECORDTV FHD [H265]
+http://praia13.com:80/live/939041/8SA9sh/92667.ts
+#EXTINF:-1 tvg-name="TV CIDADE RECORDTV HD" tvg-logo="https://imgur.com/DRX0wcK" group-title="CANAIS | RECORDTV",TV CIDADE RECORDTV HD
+http://praia13.com:80/live/939041/8SA9sh/92668.ts
+#EXTINF:-1 tvg-name="TV CIDADE RECORDTV SD" tvg-logo="https://imgur.com/DRX0wcK" group-title="CANAIS | RECORDTV",TV CIDADE RECORDTV SD
+http://praia13.com:80/live/939041/8SA9sh/92669.ts
+#EXTINF:-1 tvg-name="RECORDTV VILA REAL FHD" tvg-logo="http://gstaticontent.com/images/772255b867c746a532039ecd6dbc6a72.png" group-title="CANAIS | RECORDTV",RECORDTV VILA REAL FHD
+http://praia13.com:80/live/939041/8SA9sh/218785.ts
+#EXTINF:-1 tvg-name="RECORDTV VILA REAL HD" tvg-logo="http://gstaticontent.com/images/772255b867c746a532039ecd6dbc6a72.png" group-title="CANAIS | RECORDTV",RECORDTV VILA REAL HD
+http://praia13.com:80/live/939041/8SA9sh/218786.ts
+#EXTINF:-1 tvg-name="RECORDTV THATHI CAMPINAS FHD" tvg-logo="http://gstaticontent.com/images/772255b867c746a532039ecd6dbc6a72.png" group-title="CANAIS | RECORDTV",RECORDTV THATHI CAMPINAS FHD
+http://praia13.com:80/live/939041/8SA9sh/218787.ts
+#EXTINF:-1 tvg-name="RECORDTV THATHI CAMPINAS HD" tvg-logo="http://gstaticontent.com/images/772255b867c746a532039ecd6dbc6a72.png" group-title="CANAIS | RECORDTV",RECORDTV THATHI CAMPINAS HD
+http://praia13.com:80/live/939041/8SA9sh/218788.ts
+#EXTINF:-1 tvg-name="RECORDTV SIC RONDONIA FHD" tvg-logo="http://fanc.tmsimg.com/assets/s104761_ll_h3_aa.png" group-title="CANAIS | RECORDTV",RECORDTV SIC RONDONIA FHD
+http://praia13.com:80/live/939041/8SA9sh/218789.ts
+#EXTINF:-1 tvg-name="RECORDTV RJ INTERIOR FHD" tvg-logo="http://gstaticontent.com/images/772255b867c746a532039ecd6dbc6a72.png" group-title="CANAIS | RECORDTV",RECORDTV RJ INTERIOR FHD
+http://praia13.com:80/live/939041/8SA9sh/218792.ts
+#EXTINF:-1 tvg-name="RECORDTV RJ INTERIOR HD" tvg-logo="http://fanc.tmsimg.com/assets/s76624_ll_h3_aa.png" group-title="CANAIS | RECORDTV",RECORDTV RJ INTERIOR HD
+http://praia13.com:80/live/939041/8SA9sh/218793.ts
+#EXTINF:-1 tvg-name="RECORDTV RIO PRETO FHD" tvg-logo="http://fanc.tmsimg.com/assets/s76737_ll_h3_aa.png" group-title="CANAIS | RECORDTV",RECORDTV RIO PRETO FHD
+http://praia13.com:80/live/939041/8SA9sh/218794.ts
+#EXTINF:-1 tvg-name="RECORDTV RIO PRETO HD" tvg-logo="http://fanc.tmsimg.com/assets/s76737_ll_h3_aa.png" group-title="CANAIS | RECORDTV",RECORDTV RIO PRETO HD
+http://praia13.com:80/live/939041/8SA9sh/218795.ts
+#EXTINF:-1 tvg-name="RECORDTV PARANAIBA DE UBERLANDIA FHD" tvg-logo="http://praia13.com/static/logos/canais/record.png" group-title="CANAIS | RECORDTV",RECORDTV PARANAIBA DE UBERLANDIA FHD
+http://praia13.com:80/live/939041/8SA9sh/218796.ts
+#EXTINF:-1 tvg-name="RECORDTV PARANAIBA DE UBERLANDIA HD" tvg-logo="http://praia13.com/static/logos/canais/record.png" group-title="CANAIS | RECORDTV",RECORDTV PARANAIBA DE UBERLANDIA HD
+http://praia13.com:80/live/939041/8SA9sh/218797.ts
+#EXTINF:-1 tvg-name="RECORDTV LITORAL VALE DO PARNAIBA FHD" tvg-logo="http://fanc.tmsimg.com/assets/s104761_ll_h3_aa.png" group-title="CANAIS | RECORDTV",RECORDTV LITORAL VALE DO PARNAIBA FHD
+http://praia13.com:80/live/939041/8SA9sh/218798.ts
+#EXTINF:-1 tvg-name="RECORDTV LITORAL VALE DO PARNAIBA HD" tvg-logo="http://fanc.tmsimg.com/assets/s104761_ll_h3_aa.png" group-title="CANAIS | RECORDTV",RECORDTV LITORAL VALE DO PARNAIBA HD
+http://praia13.com:80/live/939041/8SA9sh/218815.ts
+#EXTINF:-1 tvg-name="RECORDTV GOIAS FHD" tvg-logo="http://fanc.tmsimg.com/assets/s104205_ll_h3_aa.png" group-title="CANAIS | RECORDTV",RECORDTV GOIAS FHD
+http://praia13.com:80/live/939041/8SA9sh/218822.ts
+#EXTINF:-1 tvg-name="RECORDTV GOIAS HD" tvg-logo="http://fanc.tmsimg.com/assets/s104205_ll_h3_aa.png" group-title="CANAIS | RECORDTV",RECORDTV GOIAS HD
+http://praia13.com:80/live/939041/8SA9sh/218823.ts
+#EXTINF:-1 tvg-name="RECORDTV RS HD" tvg-logo="http://gstaticontent.com/images/772255b867c746a532039ecd6dbc6a72.png" group-title="CANAIS | RECORDTV",RECORDTV RS HD
+http://praia13.com:80/live/939041/8SA9sh/72974.ts
+#EXTINF:-1 tvg-name="RECORDTV RS FHD" tvg-logo="http://fanc.tmsimg.com/assets/s76674_ll_h3_aa.png" group-title="CANAIS | RECORDTV",RECORDTV RS FHD
+http://praia13.com:80/live/939041/8SA9sh/218791.ts
+#EXTINF:-1 tvg-name="RECORDTV RS SD" tvg-logo="http://praia13.com/static/logos/canais/record.png" group-title="CANAIS | RECORDTV",RECORDTV RS SD
+http://praia13.com:80/live/939041/8SA9sh/72975.ts
+#EXTINF:-1 tvg-name="RECORDTV PARANAIBA UBERLANDIA SD" tvg-logo="http://praia13.com/static/logos/canais/record.png" group-title="CANAIS | RECORDTV",RECORDTV PARANAIBA UBERLANDIA SD
+http://praia13.com:80/live/939041/8SA9sh/349916.ts
+#EXTINF:-1 tvg-name="RECORDTV RIBEIRAO FHD" tvg-logo="http://praia13.com/static/logos/canais/record.png" group-title="CANAIS | RECORDTV",RECORDTV RIBEIRAO FHD
+http://praia13.com:80/live/939041/8SA9sh/350008.ts
+#EXTINF:-1 tvg-name="RECORDTV RIBEIRAO HD" tvg-logo="http://praia13.com/static/logos/canais/record.png" group-title="CANAIS | RECORDTV",RECORDTV RIBEIRAO HD
+http://praia13.com:80/live/939041/8SA9sh/350009.ts
+#EXTINF:-1 tvg-name="RECORDTV RIBEIRAO SD" tvg-logo="http://praia13.com/static/logos/canais/record.png" group-title="CANAIS | RECORDTV",RECORDTV RIBEIRAO SD
+http://praia13.com:80/live/939041/8SA9sh/350010.ts
+#EXTINF:-1 tvg-name="RECORDTV PIAUI A10 FHD" tvg-logo="http://praia13.com/static/logos/canais/record.png" group-title="CANAIS | RECORDTV",RECORDTV PIAUI A10 FHD
+http://praia13.com:80/live/939041/8SA9sh/350011.ts
+#EXTINF:-1 tvg-name="RECORDTV PIAUI A10 HD" tvg-logo="http://praia13.com/static/logos/canais/record.png" group-title="CANAIS | RECORDTV",RECORDTV PIAUI A10 HD
+http://praia13.com:80/live/939041/8SA9sh/350012.ts
+#EXTINF:-1 tvg-name="RECORDTV PIAUI A10 SD" tvg-logo="http://praia13.com/static/logos/canais/record.png" group-title="CANAIS | RECORDTV",RECORDTV PIAUI A10 SD
+http://praia13.com:80/live/939041/8SA9sh/350013.ts
+#EXTINF:-1 tvg-name="RECORDTV LESTE FHD" tvg-logo="http://praia13.com/static/logos/canais/record.png" group-title="CANAIS | RECORDTV",RECORDTV LESTE FHD
+http://praia13.com:80/live/939041/8SA9sh/350034.ts
+#EXTINF:-1 tvg-name="RECORDTV LESTE HD" tvg-logo="http://praia13.com/static/logos/canais/record.png" group-title="CANAIS | RECORDTV",RECORDTV LESTE HD
+http://praia13.com:80/live/939041/8SA9sh/350058.ts
+#EXTINF:-1 tvg-name="RECORDTV LESTE SD" tvg-logo="http://praia13.com/static/logos/canais/record.png" group-title="CANAIS | RECORDTV",RECORDTV LESTE SD
+http://praia13.com:80/live/939041/8SA9sh/350059.ts
+#EXTINF:-1 tvg-name="RECORDTV RORAIMA FHD" tvg-logo="http://praia13.com/static/logos/canais/record.png" group-title="CANAIS | RECORDTV",RECORDTV RORAIMA FHD
+http://praia13.com:80/live/939041/8SA9sh/350060.ts
+#EXTINF:-1 tvg-name="RECORDTV RORAIMA HD" tvg-logo="http://praia13.com/static/logos/canais/record.png" group-title="CANAIS | RECORDTV",RECORDTV RORAIMA HD
+http://praia13.com:80/live/939041/8SA9sh/350061.ts
+#EXTINF:-1 tvg-name="RECORDTV RORAIMA SD" tvg-logo="http://praia13.com/static/logos/canais/record.png" group-title="CANAIS | RECORDTV",RECORDTV RORAIMA SD
+http://praia13.com:80/live/939041/8SA9sh/350062.ts
+#EXTINF:-1 tvg-name="RECORDTV PAULISTA FHD" tvg-logo="http://praia13.com/static/logos/canais/record.png" group-title="CANAIS | RECORDTV",RECORDTV PAULISTA FHD
+http://praia13.com:80/live/939041/8SA9sh/350063.ts
+#EXTINF:-1 tvg-name="RECORDTV PAULISTA HD" tvg-logo="http://praia13.com/static/logos/canais/record.png" group-title="CANAIS | RECORDTV",RECORDTV PAULISTA HD
+http://praia13.com:80/live/939041/8SA9sh/350064.ts
+#EXTINF:-1 tvg-name="RECORDTV PAULISTA SD" tvg-logo="http://praia13.com/static/logos/canais/record.png" group-title="CANAIS | RECORDTV",RECORDTV PAULISTA SD
+http://praia13.com:80/live/939041/8SA9sh/350065.ts
+#EXTINF:-1 tvg-name="RECORDTV PARAIBA TV CORREIO FHD" tvg-logo="http://praia13.com/static/logos/canais/record.png" group-title="CANAIS | RECORDTV",RECORDTV PARAIBA TV CORREIO FHD
+http://praia13.com:80/live/939041/8SA9sh/350066.ts
+#EXTINF:-1 tvg-name="RECORDTV PARAIBA TV CORREIO HD" tvg-logo="http://praia13.com/static/logos/canais/record.png" group-title="CANAIS | RECORDTV",RECORDTV PARAIBA TV CORREIO HD
+http://praia13.com:80/live/939041/8SA9sh/350067.ts
+#EXTINF:-1 tvg-name="RECORDTV PARAIBA TV CORREIO SD" tvg-logo="http://praia13.com/static/logos/canais/record.png" group-title="CANAIS | RECORDTV",RECORDTV PARAIBA TV CORREIO SD
+http://praia13.com:80/live/939041/8SA9sh/350068.ts
+#EXTINF:-1 tvg-name="RECORDTV MANAUS FHD" tvg-logo="http://praia13.com/static/logos/canais/record.png" group-title="CANAIS | RECORDTV",RECORDTV MANAUS FHD
+http://praia13.com:80/live/939041/8SA9sh/350069.ts
+#EXTINF:-1 tvg-name="RECORDTV MANAUS HD" tvg-logo="http://praia13.com/static/logos/canais/record.png" group-title="CANAIS | RECORDTV",RECORDTV MANAUS HD
+http://praia13.com:80/live/939041/8SA9sh/350070.ts
+#EXTINF:-1 tvg-name="RECORDTV MANAUS SD" tvg-logo="http://praia13.com/static/logos/canais/record.png" group-title="CANAIS | RECORDTV",RECORDTV MANAUS SD
+http://praia13.com:80/live/939041/8SA9sh/350071.ts
+#EXTINF:-1 tvg-name="RECORDTV GUARARAPES FHD" tvg-logo="http://praia13.com/static/logos/canais/record.png" group-title="CANAIS | RECORDTV",RECORDTV GUARARAPES FHD
+http://praia13.com:80/live/939041/8SA9sh/350072.ts
+#EXTINF:-1 tvg-name="RECORDTV GUARARAPES HD" tvg-logo="http://praia13.com/static/logos/canais/record.png" group-title="CANAIS | RECORDTV",RECORDTV GUARARAPES HD
+http://praia13.com:80/live/939041/8SA9sh/350073.ts
+#EXTINF:-1 tvg-name="RECORDTV GUARARAPES SD" tvg-logo="http://praia13.com/static/logos/canais/record.png" group-title="CANAIS | RECORDTV",RECORDTV GUARARAPES SD
+http://praia13.com:80/live/939041/8SA9sh/350074.ts
+#EXTINF:-1 tvg-name="RECORDTV THATHI CAMPINAS FHD" tvg-logo="http://praia13.com/static/logos/canais/record.png" group-title="CANAIS | RECORDTV",RECORDTV THATHI CAMPINAS FHD
+http://praia13.com:80/live/939041/8SA9sh/350090.ts
+#EXTINF:-1 tvg-name="RECORDTV THATHI CAMPINAS HD" tvg-logo="http://praia13.com/static/logos/canais/record.png" group-title="CANAIS | RECORDTV",RECORDTV THATHI CAMPINAS HD
+http://praia13.com:80/live/939041/8SA9sh/350091.ts
+#EXTINF:-1 tvg-name="RECORDTV THATHI CAMPINAS SD" tvg-logo="http://praia13.com/static/logos/canais/record.png" group-title="CANAIS | RECORDTV",RECORDTV THATHI CAMPINAS SD
+http://praia13.com:80/live/939041/8SA9sh/350092.ts
